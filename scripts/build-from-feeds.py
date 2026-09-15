@@ -1,79 +1,78 @@
-#!/usr/bin/env python3
 import json,re,sys
 from pathlib import Path
-from datetime import datetime, timezone
+from datetime import datetime
 from lxml import etree
-ROOT=Path(__file__).resolve().parents[1]
-DUMPS=Path(sys.argv[1] if len(sys.argv)>1 else 'dumps')
-products=json.loads((ROOT/'products.json').read_text())
-barcodes={p['barcode']:p for p in products}
-stores={
- ('RamiLevy','011'):('רמי לוי','עפולה','יהושוע חנקין 14, עפולה'),
- ('Shufersal','499'):('יש חסד','עפולה עילית','פנחס רוזן 24, עפולה'),
- ('Shufersal','397'):('שופרסל אקספרס','פארק עפולה','רובע יזרעאל, עפולה'),
- ('Shufersal','251'):('יוניברס','עפולה - כורש','כורש 5, עפולה'),
- ('Shufersal','218'):('יוניברס','עפולה - יצחק רבין','שד׳ יצחק רבין 5, עפולה'),
- ('Yohananof','037'):('יוחננוף','עפולה','קהילת ציון 30, עפולה'),
- ('Osherad','019'):('אושר עד','עפולה','חיים לסקוב, עפולה'),
-}
-source_links={
- 'RamiLevy':'https://url.retail.publishedprices.co.il/login',
- 'Shufersal':'https://prices.shufersal.co.il/',
- 'Yohananof':'https://url.publishedprices.co.il/login',
- 'Osherad':'https://url.publishedprices.co.il/login',
-}
+ROOT=Path(__file__).resolve().parents[1]; D=Path(sys.argv[1] if len(sys.argv)>1 else 'dumps')
+products=json.load(open(ROOT/'products.json')); bc={x['barcode']:x for x in products}
+chainlabels={'RamiLevy':'רמי לוי','Yohananof':'יוחננוף','Osherad':'אושר עד','Shufersal':'שופרסל'}
+links={'RamiLevy':'https://url.retail.publishedprices.co.il/login','Yohananof':'https://url.publishedprices.co.il/login','Osherad':'https://url.publishedprices.co.il/login','Shufersal':'https://prices.shufersal.co.il/'}
+citycodes={'4000':'חיפה','2500':'נשר','7600':'עכו','9100':'נהריה','1139':'כרמיאל','8000':'צפת','6700':'טבריה','7700':'עפולה','9200':'בית שאן','1061':'נצרת','8800':'שפרעם','874':'מגדל העמק','240':'יקנעם','6500':'חדרה','9300':'זכרון יעקב','7800':'פרדס חנה-כרכור','1020':'אור עקיבא','9500':'קרית ביאליק','9600':'קרית ים','6800':'קרית אתא','8200':'קרית מוצקין','2800':'קרית שמונה'}
+def tx(e,n):
+ r=e.xpath('./*[local-name()="'+n+'"]');return (r[0].text or '').strip() if r else ''
+def getstorecity(d):
+ code=d.get('City',''); name=d.get('StoreName','')
+ aliases=[('חיפה','חיפה'),('נשר','נשר'),('טירת כרמל','טירת כרמל'),('עכו','עכו'),('נהריה','נהריה'),('כרמיאל','כרמיאל'),('צפת','צפת'),('טבריה','טבריה'),('עפולה','עפולה'),('בית שאן','בית שאן'),('נצרת','נצרת'),('שפרעם','שפרעם'),('מגדל העמק','מגדל העמק'),('יקנעם','יקנעם'),('חדרה','חדרה'),('זכרון','זכרון יעקב'),('פרדס חנה','פרדס חנה-כרכור'),('אור עקיבא','אור עקיבא'),('קרית שמונה','קרית שמונה'),('קריית שמונה','קרית שמונה')]
+ match=next((c for k,c in aliases if k in name),None)
+ return match or citycodes.get(code)
 def latest(chain,kind,sid):
- xs=[p for p in (DUMPS/chain).glob(kind+'*.xml') if re.search(r'-'+re.escape(sid)+r'-',p.name)]
+ xs=[]
+ for p in (D/chain).glob(kind+'*.xml'):
+  if re.search(r'-'+re.escape(sid)+r'-[0-9]{8}-',p.name):xs.append(p)
  return max(xs,key=lambda p:p.name) if xs else None
-def tx(el,name):
- r=el.xpath('./*[local-name()="'+name+'"]');return (r[0].text or '').strip() if r else ''
-def parse_price(p):
+def prices(p):
  out={}
  if not p:return out
- root=etree.parse(str(p)).getroot()
- for el in root.xpath('.//*[local-name()="Item"]'):
-  code=tx(el,'ItemCode')
-  if code in barcodes:
-   try: price=float(tx(el,'ItemPrice'))
-   except: continue
-   if 0<price<1000:out[code]=price
- return out
-def parse_promos(p,now):
- out={}
- if not p:return out
- root=etree.parse(str(p)).getroot()
- for prom in root.xpath('.//*[local-name()="Promotion"]'):
-  start=tx(prom,'PromotionStartDateTime');end=tx(prom,'PromotionEndDateTime')
-  try:
-   s=datetime.fromisoformat(start);e=datetime.fromisoformat(end)
-   if not(s<=now.replace(tzinfo=None)<=e):continue
-  except:continue
-  club=tx(prom,'ClubID')
-  if club not in ('','0'):continue
-  desc=tx(prom,'PromotionDescription')
-  for it in prom.xpath('.//*[local-name()="PromotionItem"]'):
-   code=tx(it,'ItemCode')
-   if code not in barcodes or tx(it,'RewardType')=='2':continue
-   try: qty=float(tx(it,'MinQty') or '1'); total=float(tx(it,'DiscountedPrice')); unit=total/max(qty,1)
+ for e in etree.parse(str(p)).xpath('.//*[local-name()="Item"]'):
+  c=tx(e,'ItemCode')
+  if c in bc:
+   try:v=float(tx(e,'ItemPrice'))
    except:continue
-   if unit<=0:continue
-   rec={'promoPrice':round(unit,2),'promoTotal':round(total,2),'promoQty':qty,'promo':desc,'promoStart':start[:10],'promoEnd':end[:10]}
-   if code not in out or unit<out[code]['promoPrice']:out[code]=rec
+   if 0<v<1000:out[c]=v
  return out
-now=datetime.now(timezone.utc).astimezone()
-area=[{**p,'source':'https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations','prices':[],'error':None} for p in products]
-bycode={p['barcode']:p for p in area}
-for (chain,sid),(chain_name,store,address) in stores.items():
- prices=parse_price(latest(chain,'PriceFull',sid)); promos=parse_promos(latest(chain,'PromoFull',sid),now)
- for code,regular in prices.items():
-  r={'chain':chain_name,'store':store,'address':address,'price':f'{regular:.2f}','promoPrice':None,'promo':None,'promoStart':None,'promoEnd':None,'promoQty':None,'promoTotal':None,'source':source_links[chain]}
-  if code in promos and promos[code]['promoPrice']<regular:
-   m=promos[code];r.update({**m,'promoPrice':f"{m['promoPrice']:.2f}",'promoTotal':f"{m['promoTotal']:.2f}"})
-  bycode[code]['prices'].append(r)
-for p in area:
- p['prices'].sort(key=lambda r:(float(r['promoPrice'] or r['price']),r['chain'],r['store']))
-data={'updatedAt':now.isoformat(),'refreshStatus':'success','defaultArea':'עפולה','source':'קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)','areas':{'עפולה':area}}
-out=ROOT/'docs/data.feed-preview.json';out.write_text(json.dumps(data,ensure_ascii=False,indent=2))
-coverage=sum(bool(p['prices']) for p in area);rows=sum(len(p['prices']) for p in area);promos=sum(bool(r['promoPrice']) for p in area for r in p['prices'])
-print(json.dumps({'output':str(out),'products_with_prices':coverage,'products_total':len(area),'rows':rows,'active_promos':promos},ensure_ascii=False))
-if coverage<18 or rows<60: raise SystemExit('feed validation failed: insufficient coverage')
+def promos(p):
+ out={};now=datetime.now().replace(tzinfo=None)
+ if not p:return out
+ for e in etree.parse(str(p)).xpath('.//*[local-name()="Promotion"]'):
+  try:s=datetime.fromisoformat(tx(e,'PromotionStartDateTime'));z=datetime.fromisoformat(tx(e,'PromotionEndDateTime'))
+  except:continue
+  if not s<=now<=z or tx(e,'ClubID') not in ('','0'):continue
+  desc=tx(e,'PromotionDescription')
+  for it in e.xpath('.//*[local-name()="PromotionItem"]'):
+   c=tx(it,'ItemCode')
+   if c not in bc or tx(it,'RewardType')=='2':continue
+   try:q=float(tx(it,'MinQty') or 1);total=float(tx(it,'DiscountedPrice'));unit=total/max(q,1)
+   except:continue
+   if unit>0 and (c not in out or unit<out[c]['unit']):out[c]={'unit':unit,'qty':q,'total':total,'desc':desc,'start':s.date().isoformat(),'end':z.date().isoformat()}
+ return out
+areas={}
+for chain,label in chainlabels.items():
+ sf=next(iter((D/chain).glob('Stores*.xml')),None)
+ if not sf:continue
+ for st in etree.parse(str(sf)).xpath('.//*[local-name()="Store"]'):
+  d={x.tag.split('}')[-1]:(x.text or '').strip() for x in st};sid=d.get('StoreID','');city=getstorecity(d)
+  if not city or (chain=='RamiLevy' and sid=='722') or d.get('Address','').lower()=='unknown':continue
+  pf=latest(chain,'PriceFull',sid)
+  if not pf:continue
+  pp=prices(pf);pm=promos(latest(chain,'PromoFull',sid))
+  if not pp:continue
+  area=areas.setdefault(city,[{**x,'source':'https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations','prices':[],'error':None} for x in products]);by={x['barcode']:x for x in area}
+  sub=d.get('StoreName') or city;addr=(d.get('Address') or '')+', '+city
+  for c,v in pp.items():
+   row={'chain':label,'store':sub,'address':addr,'price':f'{v:.2f}','promoPrice':None,'promo':None,'promoStart':None,'promoEnd':None,'promoQty':None,'promoTotal':None,'source':links[chain]}
+   m=pm.get(c)
+   if m and m['unit']<v:row.update({'promoPrice':f"{m['unit']:.2f}",'promo':m['desc'],'promoStart':m['start'],'promoEnd':m['end'],'promoQty':m['qty'],'promoTotal':f"{m['total']:.2f}"})
+   by[c]['prices'].append(row)
+for a in areas.values():
+ for p in a:p['prices'].sort(key=lambda r:(float(r['promoPrice'] or r['price']),r['chain'],r['store']))
+# only publish cities with at least 10 priced products; Afula keeps 21
+areas={c:a for c,a in areas.items() if sum(bool(x['prices']) for x in a)>=10}
+order=['חדרה','פרדס חנה-כרכור','זכרון יעקב','אור עקיבא','חיפה','נשר','קרית אתא','קרית ביאליק','קרית מוצקין','קרית ים','עכו','נהריה','כרמיאל','צפת','טבריה','עפולה','בית שאן','נצרת','שפרעם','מגדל העמק','יקנעם','קרית שמונה']
+areas={c:areas[c] for c in order if c in areas}
+required={'חדרה','פרדס חנה-כרכור','זכרון יעקב','אור עקיבא','חיפה','נשר','קרית ביאליק','קרית ים','עכו','נהריה','כרמיאל','טבריה','עפולה','מגדל העמק','קרית שמונה'}
+if set(areas)!=required: raise SystemExit('feed validation failed: missing or extra required cities: '+str(required.symmetric_difference(areas)))
+minimum={'חדרה':50,'פרדס חנה-כרכור':12,'זכרון יעקב':12,'אור עקיבא':10,'חיפה':35,'נשר':25,'קרית ביאליק':18,'קרית ים':10,'עכו':25,'נהריה':25,'כרמיאל':12,'טבריה':45,'עפולה':80,'מגדל העמק':22,'קרית שמונה':24}
+for c,n in minimum.items():
+ if sum(len(x['prices']) for x in areas[c])<n: raise SystemExit(f'feed validation failed: insufficient rows for {c}')
+data={'updatedAt':datetime.now().astimezone().isoformat(),'refreshStatus':'success','defaultArea':'עפולה','source':'קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)','areas':areas}
+json.dump(data,open(ROOT/'docs/data.feed-preview.json','w'),ensure_ascii=False,indent=2)
+for c,a in areas.items():print(c,sum(bool(x['prices']) for x in a),sum(len(x['prices']) for x in a),sum(bool(r['promoPrice']) for x in a for r in x['prices']))
