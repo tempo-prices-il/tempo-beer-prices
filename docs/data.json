@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T09:03:02.425157+00:00",
+  "updatedAt": "2026-09-16T09:03:12.389389+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -9260,6 +9260,20 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
+            "chain": "מחסני השוק בשבילך",
+            "store": "נהריה",
+            "address": "הזמיר 63, נהריה",
+            "price": "35.90",
+            "promoPrice": "30.00",
+            "promo": "2 יחידות ב- 60.00 ש\"ח · (מחיר ליחידה 30.00 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "60.00",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
+          },
+          {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות36, נהריה",
@@ -9371,6 +9385,20 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
+            "chain": "מחסני השוק בשבילך",
+            "store": "נהריה",
+            "address": "הזמיר 63, נהריה",
+            "price": "8.50",
+            "promoPrice": "7.00",
+            "promo": "2 יחידות ב- 14.00 ש\"ח · (מחיר ליחידה 7.00 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "14.00",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
+          },
+          {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות36, נהריה",
@@ -9418,6 +9446,20 @@
             "promoQty": 1.0,
             "promoTotal": "29.90",
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "מחסני השוק בשבילך",
+            "store": "נהריה",
+            "address": "הזמיר 63, נהריה",
+            "price": "39.90",
+            "promoPrice": "32.50",
+            "promo": "2 יחידות ב- 65.00 ש\"ח · (מחיר ליחידה 32.50 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "65.00",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
           },
           {
             "chain": "שופרסל",
@@ -9469,6 +9511,20 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
+            "chain": "מחסני השוק בשבילך",
+            "store": "נהריה",
+            "address": "הזמיר 63, נהריה",
+            "price": "9.90",
+            "promoPrice": "9.00",
+            "promo": "2 יחידות ב- 18.00 ש\"ח · (מחיר ליחידה 9.00 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "18.00",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
+          },
+          {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות36, נהריה",
@@ -9504,6 +9560,20 @@
         "chpId": "7290027600007_7290008464796",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "מחסני השוק בשבילך",
+            "store": "נהריה",
+            "address": "הזמיר 63, נהריה",
+            "price": "39.90",
+            "promoPrice": "34.90",
+            "promo": "34.90 ש\"ח ליחידה",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "34.90",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
+          },
           {
             "chain": "רמי לוי",
             "store": "נהריה",
@@ -9887,6 +9957,20 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
+            "chain": "מחסני השוק בשבילך",
+            "store": "נהריה",
+            "address": "הזמיר 63, נהריה",
+            "price": "8.00",
+            "promoPrice": "7.00",
+            "promo": "2 יחידות ב- 14.00 ש\"ח · (מחיר ליחידה 7.00 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "14.00",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
+          },
+          {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות36, נהריה",
@@ -9970,7 +10054,22 @@
         "barcode": "7290005896415",
         "chpId": "temp_7290005896415",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
-        "prices": [],
+        "prices": [
+          {
+            "chain": "מחסני השוק בשבילך",
+            "store": "נהריה",
+            "address": "הזמיר 63, נהריה",
+            "price": "6.90",
+            "promoPrice": "6.00",
+            "promo": "3 יחידות ב- 18.00 ש\"ח · (מחיר ליחידה 6.00 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2027-01-01",
+            "promoQty": 3.0,
+            "promoTotal": "18.00",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
+          }
+        ],
         "error": null
       },
       {
@@ -9992,6 +10091,20 @@
             "promoQty": 3.0,
             "promoTotal": "15.90",
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "מחסני השוק בשבילך",
+            "store": "נהריה",
+            "address": "הזמיר 63, נהריה",
+            "price": "5.80",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
           },
           {
             "chain": "שופרסל",
