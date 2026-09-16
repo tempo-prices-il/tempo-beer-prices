@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T04:06:31.723052+00:00",
+  "updatedAt": "2026-09-16T04:12:19.884459+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -6402,6 +6402,19 @@
             "promoQty": 1.0,
             "promoTotal": "27.50",
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "שופרסל",
+            "store": "כרמיאל- קניון לב",
+            "address": "מורד הגיא 100, כרמיאל",
+            "price": "36.90",
+            "promoPrice": "32.50",
+            "promo": "2 יחידות ב- 65.00 ש\"ח · (מחיר ליחידה 32.50 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "65.00",
+            "source": "https://prices.shufersal.co.il/"
           }
         ],
         "error": null
@@ -6425,6 +6438,19 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "שופרסל",
+            "store": "כרמיאל- קניון לב",
+            "address": "מורד הגיא 100, כרמיאל",
+            "price": "8.00",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.shufersal.co.il/"
           }
         ],
         "error": null
@@ -6448,6 +6474,19 @@
             "promoQty": 2.0,
             "promoTotal": "13.00",
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "שופרסל",
+            "store": "כרמיאל",
+            "address": "ההגנה 2, כרמיאל",
+            "price": "9.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.shufersal.co.il/"
           }
         ],
         "error": null
@@ -6471,6 +6510,19 @@
             "promoQty": 1.0,
             "promoTotal": "29.90",
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "שופרסל",
+            "store": "כרמיאל",
+            "address": "ההגנה 2, כרמיאל",
+            "price": "39.90",
+            "promoPrice": "30.00",
+            "promo": "2 יחידות ב- 60.00 ש\"ח · (מחיר ליחידה 30.00 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "60.00",
+            "source": "https://prices.shufersal.co.il/"
           }
         ],
         "error": null
@@ -6517,6 +6569,19 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "שופרסל",
+            "store": "כרמיאל- קניון לב",
+            "address": "מורד הגיא 100, כרמיאל",
+            "price": "39.90",
+            "promoPrice": "37.90",
+            "promo": "37.90 ש\"ח ליחידה",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "37.90",
+            "source": "https://prices.shufersal.co.il/"
           }
         ],
         "error": null
@@ -6540,6 +6605,19 @@
             "promoQty": 3.0,
             "promoTotal": "25.00",
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "שופרסל",
+            "store": "כרמיאל",
+            "address": "ההגנה 2, כרמיאל",
+            "price": "12.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.shufersal.co.il/"
           }
         ],
         "error": null
@@ -6563,6 +6641,19 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "שופרסל",
+            "store": "כרמיאל- קניון לב",
+            "address": "מורד הגיא 100, כרמיאל",
+            "price": "10.00",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.shufersal.co.il/"
           }
         ],
         "error": null
@@ -6595,6 +6686,19 @@
             "promoQty": 2.0,
             "promoTotal": "13.00",
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "שופרסל",
+            "store": "כרמיאל- קניון לב",
+            "address": "מורד הגיא 100, כרמיאל",
+            "price": "9.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.shufersal.co.il/"
           }
         ],
         "error": null
@@ -6664,6 +6768,19 @@
             "promoQty": 2.0,
             "promoTotal": "13.00",
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "שופרסל",
+            "store": "כרמיאל",
+            "address": "ההגנה 2, כרמיאל",
+            "price": "9.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.shufersal.co.il/"
           }
         ],
         "error": null
@@ -6687,6 +6804,19 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "שופרסל",
+            "store": "כרמיאל- קניון לב",
+            "address": "מורד הגיא 100, כרמיאל",
+            "price": "8.00",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.shufersal.co.il/"
           }
         ],
         "error": null
@@ -6719,6 +6849,19 @@
             "promoQty": 3.0,
             "promoTotal": "15.90",
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "שופרסל",
+            "store": "כרמיאל- קניון לב",
+            "address": "מורד הגיא 100, כרמיאל",
+            "price": "7.00",
+            "promoPrice": "5.67",
+            "promo": "3 יחידות ב- 17.00 ש\"ח · (מחיר ליחידה 5.67 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 3.0,
+            "promoTotal": "17.00",
+            "source": "https://prices.shufersal.co.il/"
           }
         ],
         "error": null
@@ -6774,6 +6917,19 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "שופרסל",
+            "store": "כרמיאל",
+            "address": "ההגנה 2, כרמיאל",
+            "price": "12.90",
+            "promoPrice": "12.00",
+            "promo": "2 יחידות ב- 24.00 ש\"ח · (מחיר ליחידה 12.00 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "24.00",
+            "source": "https://prices.shufersal.co.il/"
           }
         ],
         "error": null
