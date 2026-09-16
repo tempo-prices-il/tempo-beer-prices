@@ -1,0 +1,28 @@
+name: Publish Mahsanei Hashuk Nahariya rows
+on: {workflow_dispatch: {}}
+permissions: {contents: write}
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Merge verified CHP rows
+        run: |
+          python - <<'PY'
+          import json,datetime
+          p='docs/data.json';d=json.load(open(p));by={x['barcode']:x for x in d['areas']['נהריה']}
+          rows=[{'barcode': '7290008464741', 'chain': 'מחסני השוק בשבילך', 'store': 'נהריה', 'address': 'הזמיר 63, נהריה', 'price': '35.90', 'promoPrice': '30.00', 'promo': '2 יחידות ב- 60.00 ש"ח · (מחיר ליחידה 30.00 ש"ח)', 'promoStart': None, 'promoEnd': '2026-10-03', 'promoQty': 2.0, 'promoTotal': '60.00', 'source': 'https://chp.co.il/', 'sourceLabel': 'מקור: CHP'}, {'barcode': '7290008464468', 'chain': 'מחסני השוק בשבילך', 'store': 'נהריה', 'address': 'הזמיר 63, נהריה', 'price': '8.50', 'promoPrice': '7.00', 'promo': '2 יחידות ב- 14.00 ש"ח · (מחיר ליחידה 7.00 ש"ח)', 'promoStart': None, 'promoEnd': '2026-10-03', 'promoQty': 2.0, 'promoTotal': '14.00', 'source': 'https://chp.co.il/', 'sourceLabel': 'מקור: CHP'}, {'barcode': '7290008464130', 'chain': 'מחסני השוק בשבילך', 'store': 'נהריה', 'address': 'הזמיר 63, נהריה', 'price': '39.90', 'promoPrice': '32.50', 'promo': '2 יחידות ב- 65.00 ש"ח · (מחיר ליחידה 32.50 ש"ח)', 'promoStart': None, 'promoEnd': '2026-10-03', 'promoQty': 2.0, 'promoTotal': '65.00', 'source': 'https://chp.co.il/', 'sourceLabel': 'מקור: CHP'}, {'barcode': '7290008464024', 'chain': 'מחסני השוק בשבילך', 'store': 'נהריה', 'address': 'הזמיר 63, נהריה', 'price': '9.90', 'promoPrice': '9.00', 'promo': '2 יחידות ב- 18.00 ש"ח · (מחיר ליחידה 9.00 ש"ח)', 'promoStart': None, 'promoEnd': '2026-10-03', 'promoQty': 2.0, 'promoTotal': '18.00', 'source': 'https://chp.co.il/', 'sourceLabel': 'מקור: CHP'}, {'barcode': '7290008464796', 'chain': 'מחסני השוק בשבילך', 'store': 'נהריה', 'address': 'הזמיר 63, נהריה', 'price': '39.90', 'promoPrice': '34.90', 'promo': '34.90 ש"ח ליחידה', 'promoStart': None, 'promoEnd': '2026-10-03', 'promoQty': 1.0, 'promoTotal': '34.90', 'source': 'https://chp.co.il/', 'sourceLabel': 'מקור: CHP'}, {'barcode': '7290008464222', 'chain': 'מחסני השוק בשבילך', 'store': 'נהריה', 'address': 'הזמיר 63, נהריה', 'price': '8.00', 'promoPrice': '7.00', 'promo': '2 יחידות ב- 14.00 ש"ח · (מחיר ליחידה 7.00 ש"ח)', 'promoStart': None, 'promoEnd': '2026-10-03', 'promoQty': 2.0, 'promoTotal': '14.00', 'source': 'https://chp.co.il/', 'sourceLabel': 'מקור: CHP'}, {'barcode': '7290005896415', 'chain': 'מחסני השוק בשבילך', 'store': 'נהריה', 'address': 'הזמיר 63, נהריה', 'price': '6.90', 'promoPrice': '6.00', 'promo': '3 יחידות ב- 18.00 ש"ח · (מחיר ליחידה 6.00 ש"ח)', 'promoStart': None, 'promoEnd': '2027-01-01', 'promoQty': 3.0, 'promoTotal': '18.00', 'source': 'https://chp.co.il/', 'sourceLabel': 'מקור: CHP'}, {'barcode': '7290006764096', 'chain': 'מחסני השוק בשבילך', 'store': 'נהריה', 'address': 'הזמיר 63, נהריה', 'price': '5.80', 'promoPrice': None, 'promo': None, 'promoStart': None, 'promoEnd': None, 'promoQty': None, 'promoTotal': None, 'source': 'https://chp.co.il/', 'sourceLabel': 'מקור: CHP'}]
+          for row in rows:
+            c=row.pop('barcode')
+            if any(r['chain']==row['chain'] and r['store']==row['store'] for r in by[c]['prices']): continue
+            by[c]['prices'].append(row);by[c]['prices'].sort(key=lambda r:(float(r.get('promoPrice') or r['price']),r['chain'],r['store']))
+          got=[r for x in d['areas']['נהריה'] for r in x['prices'] if r['chain']=='מחסני השוק בשבילך']
+          assert len(got)==8 and all(r['address']=='הזמיר 63, נהריה' and r.get('sourceLabel')=='מקור: CHP' for r in got)
+          d['updatedAt']=datetime.datetime.now().astimezone().isoformat();json.dump(d,open(p,'w'),ensure_ascii=False,indent=2)
+          PY
+      - run: |
+          git config user.name tempo-price-bot
+          git config user.email actions@users.noreply.github.com
+          git add docs/data.json
+          git diff --cached --quiet || git commit -m 'Add verified Mahsanei Hashuk Nahariya prices'
+          git push
