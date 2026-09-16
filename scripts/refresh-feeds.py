@@ -14,7 +14,7 @@ subprocess.run([sys.executable,'-c',code],cwd=work,env=env,check=True,timeout=16
 # Kiryat Yam currently depends on Osher Ad branch 029. Its FTP listing can
 # lag the other feeds, so retry with backoff before validation. Never publish
 # without it: the builder's required-city check keeps the old dataset intact.
-critical='''from il_supermarket_scarper import ScarpingTask\nfrom il_supermarket_scarper.utils.files.file_types import FileTypesFilters\nfrom il_supermarket_scarper.utils import _now\ns=ScarpingTask(output_configuration={"output_mode":"disk"},status_configuration={"database_type":"json","base_path":"critical-status"},multiprocessing=1,enabled_scrapers=["OSHER_AD"],files_types=[FileTypesFilters.STORE_FILE.name,FileTypesFilters.PRICE_FULL_FILE.name,FileTypesFilters.PROMO_FULL_FILE.name],file_name_regex=r"(?i)(Stores.*|(?:PriceFull|PromoFull).*-029-[0-9]{8}-.*)",timeout_in_seconds=240)\ns.start(limit=None,when_date=_now());s.join()\n'''
+critical='''from il_supermarket_scarper import ScarpingTask\nfrom il_supermarket_scarper.utils.files.file_types import FileTypesFilters\nfrom il_supermarket_scarper.utils import _now\ns=ScarpingTask(output_configuration={"output_mode":"disk"},status_configuration={"database_type":"json","base_path":"critical-status"},multiprocessing=1,enabled_scrapers=["OSHER_AD"],files_types=[FileTypesFilters.STORE_FILE.name,FileTypesFilters.PRICE_FULL_FILE.name,FileTypesFilters.PROMO_FULL_FILE.name],file_name_regex=r"(?i)(Stores.*|(?:PriceFull|PromoFull).*-029-[0-9]{8}-.*)",timeout_in_seconds=240)\ns.start(limit=None,when_date=None);s.join()\n'''
 for attempt in range(3):
  subprocess.run([sys.executable,'-c',critical],cwd=work,env=env,check=True,timeout=300)
  if any((dumps/'Osherad').glob('PriceFull*-029-*.xml')): break
