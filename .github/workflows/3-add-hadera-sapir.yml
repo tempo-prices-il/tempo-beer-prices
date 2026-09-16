@@ -1,0 +1,38 @@
+name: Add verified Hadera Super Sapir rows
+on: {workflow_dispatch: {}}
+permissions: {contents: write}
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Merge rows into live data and durable overrides
+        run: |
+          python - <<'PY'
+          import json,datetime
+          rows=[{'barcode': '7290008464741', 'chain': 'סופר ספיר', 'store': 'חדרה סיטי', 'address': 'חטיבת הנח"ל 4, חדרה', 'price': '36.90', 'promoPrice': '24.90', 'promo': '24.90 ש"ח ליחידה', 'promoStart': None, 'promoEnd': '2026-09-26', 'promoQty': 2.0, 'promoTotal': '63.00', 'source': 'http://supersapir.binaprojects.com/', 'sourceLabel': 'מקור: CHP'}, {'barcode': '7290008464741', 'chain': 'סופר ספיר', 'store': 'חדרה חטיבת גולני', 'address': 'חטיבת גולני 4, חדרה', 'price': '36.90', 'promoPrice': None, 'promo': None, 'promoStart': None, 'promoEnd': None, 'promoQty': None, 'promoTotal': None, 'source': 'http://supersapir.binaprojects.com/', 'sourceLabel': 'מקור: CHP'}, {'barcode': '7290008464468', 'chain': 'סופר ספיר', 'store': 'חדרה סיטי', 'address': 'חטיבת הנח"ל 4, חדרה', 'price': '8.50', 'promoPrice': '7.50', 'promo': '2 יחידות ב- 15.00 ש"ח · (מחיר ליחידה 7.50 ש"ח)', 'promoStart': None, 'promoEnd': '2026-10-31', 'promoQty': 2.0, 'promoTotal': '15.00', 'source': 'http://supersapir.binaprojects.com/', 'sourceLabel': 'מקור: CHP'}, {'barcode': '7290008464130', 'chain': 'סופר ספיר', 'store': 'חדרה סיטי', 'address': 'חטיבת הנח"ל 4, חדרה', 'price': '39.90', 'promoPrice': '35.90', 'promo': '35.90 ש"ח ליחידה', 'promoStart': None, 'promoEnd': '2026-09-30', 'promoQty': 1.0, 'promoTotal': '35.90', 'source': 'http://supersapir.binaprojects.com/', 'sourceLabel': 'מקור: CHP'}, {'barcode': '7290008464796', 'chain': 'סופר ספיר', 'store': 'חדרה סיטי', 'address': 'חטיבת הנח"ל 4, חדרה', 'price': '39.90', 'promoPrice': '35.90', 'promo': '35.90 ש"ח ליחידה', 'promoStart': None, 'promoEnd': '2026-09-30', 'promoQty': 1.0, 'promoTotal': '35.90', 'source': 'http://supersapir.binaprojects.com/', 'sourceLabel': 'מקור: CHP'}, {'barcode': '7290010237890', 'chain': 'סופר ספיר', 'store': 'חדרה סיטי', 'address': 'חטיבת הנח"ל 4, חדרה', 'price': '9.90', 'promoPrice': None, 'promo': None, 'promoStart': None, 'promoEnd': None, 'promoQty': None, 'promoTotal': None, 'source': 'http://supersapir.binaprojects.com/', 'sourceLabel': 'מקור: CHP'}, {'barcode': '7290008464697', 'chain': 'סופר ספיר', 'store': 'חדרה סיטי', 'address': 'חטיבת הנח"ל 4, חדרה', 'price': '36.90', 'promoPrice': '24.90', 'promo': '24.90 ש"ח ליחידה', 'promoStart': None, 'promoEnd': '2026-09-26', 'promoQty': 2.0, 'promoTotal': '63.00', 'source': 'http://supersapir.binaprojects.com/', 'sourceLabel': 'מקור: CHP'}, {'barcode': '7290008464222', 'chain': 'סופר ספיר', 'store': 'חדרה סיטי', 'address': 'חטיבת הנח"ל 4, חדרה', 'price': '8.50', 'promoPrice': '7.50', 'promo': '2 יחידות ב- 15.00 ש"ח · (מחיר ליחידה 7.50 ש"ח)', 'promoStart': None, 'promoEnd': '2026-10-31', 'promoQty': 2.0, 'promoTotal': '15.00', 'source': 'http://supersapir.binaprojects.com/', 'sourceLabel': 'מקור: CHP'}, {'barcode': '7290005896453', 'chain': 'סופר ספיר', 'store': 'חדרה סיטי', 'address': 'חטיבת הנח"ל 4, חדרה', 'price': '8.80', 'promoPrice': None, 'promo': None, 'promoStart': None, 'promoEnd': None, 'promoQty': None, 'promoTotal': None, 'source': 'http://supersapir.binaprojects.com/', 'sourceLabel': 'מקור: CHP'}, {'barcode': '7290005896415', 'chain': 'סופר ספיר', 'store': 'חדרה חטיבת גולני', 'address': 'חטיבת גולני 4, חדרה', 'price': '6.90', 'promoPrice': None, 'promo': None, 'promoStart': None, 'promoEnd': None, 'promoQty': None, 'promoTotal': None, 'source': 'http://supersapir.binaprojects.com/', 'sourceLabel': 'מקור: CHP'}];p='docs/data.json';d=json.load(open(p));by={x['barcode']:x for x in d['areas']['חדרה']}
+          for src in (by,):
+            for row0 in rows:
+              row=dict(row0);c=row.pop('barcode')
+              if not any(r['chain']==row['chain'] and r['store']==row['store'] for r in src[c]['prices']):src[c]['prices'].append(row)
+              src[c]['prices'].sort(key=lambda r:(float(r.get('promoPrice') or r['price']),r['chain'],r['store']))
+          d['updatedAt']=datetime.datetime.now().astimezone().isoformat();json.dump(d,open(p,'w'),ensure_ascii=False,indent=2)
+          op='scripts/verified-overrides.json';ov=json.load(open(op));keys={(o['city'],o['barcode'],o['row']['chain'],o['row']['store']) for o in ov}
+          for row0 in rows:
+            row=dict(row0);c=row.pop('barcode');k=('חדרה',c,row['chain'],row['store'])
+            if k not in keys:ov.append({'city':'חדרה','barcode':c,'row':row})
+          json.dump(ov,open(op,'w'),ensure_ascii=False,indent=2)
+          assert len([o for o in ov if o['city']=='חדרה' and o['row']['chain']=='סופר ספיר'])==10
+          PY
+      - name: Permit durable verified fallback chain
+        run: |
+          python - <<'PY'
+          p='scripts/build-from-feeds.py';s=open(p).read();s=s.replace("('קשת טעמים','ויקטורי','מחסני השוק בשבילך')", "('קשת טעמים','ויקטורי','מחסני השוק בשבילך','סופר ספיר')")
+          open(p,'w').write(s);compile(s,p,'exec')
+          PY
+      - run: |
+          git config user.name tempo-price-bot
+          git config user.email actions@users.noreply.github.com
+          git add docs/data.json scripts/verified-overrides.json scripts/build-from-feeds.py
+          git commit -m 'Add verified Super Sapir Hadera prices'
+          git push
