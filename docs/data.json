@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T09:02:45.827269+00:00",
+  "updatedAt": "2026-09-16T09:03:02.425157+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -8106,6 +8106,19 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
+            "price": "33.90",
+            "promoPrice": "29.90",
+            "promo": "29.90 ש\"ח ליחידה",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "29.90",
+            "chain": "קשת טעמים",
+            "store": "עכו",
+            "address": "החרושת 2, עכו",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "שופרסל",
             "store": "יוניברס קריון-דרך עכו",
             "address": "דרך עכו  192, עכו",
@@ -8141,6 +8154,19 @@
         "chpId": "7290027600007_7290006764072",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "price": "7.90",
+            "promoPrice": "7.63",
+            "promo": "3 יחידות ב- 22.90 ש\"ח · (מחיר ליחידה 7.63 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-09-28",
+            "promoQty": 3.0,
+            "promoTotal": "22.90",
+            "chain": "קשת טעמים",
+            "store": "עכו",
+            "address": "החרושת 2, עכו",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
           {
             "chain": "רמי לוי",
             "store": "עכו",
@@ -8201,6 +8227,33 @@
             "promoEnd": "2026-10-03",
             "promoQty": 2.0,
             "promoTotal": "13.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "price": "9.20",
+            "promoPrice": "7.00",
+            "promo": "2 יחידות ב- 14.00 ש\"ח · (מחיר ליחידה 7.00 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "14.00",
+            "chain": "ויקטורי",
+            "store": "עכו",
+            "address": "שלום הגליל 1, עכו",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
+          },
+          {
+            "price": "8.50",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "chain": "קשת טעמים",
+            "store": "עכו",
+            "address": "החרושת 2, עכו",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -8302,6 +8355,33 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
+            "price": "9.80",
+            "promoPrice": "7.50",
+            "promo": "2 יחידות ב- 15.00 ש\"ח · (מחיר ליחידה 7.50 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "15.00",
+            "chain": "ויקטורי",
+            "store": "עכו",
+            "address": "שלום הגליל 1, עכו",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
+          },
+          {
+            "price": "9.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "chain": "קשת טעמים",
+            "store": "עכו",
+            "address": "החרושת 2, עכו",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "שופרסל",
             "store": "יוניברס קריון-דרך עכו",
             "address": "דרך עכו  192, עכו",
@@ -8337,6 +8417,20 @@
         "chpId": "7290027600007_7290008464796",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "price": "40.90",
+            "promoPrice": "34.90",
+            "promo": "34.90 ש\"ח ליחידה",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "34.90",
+            "chain": "ויקטורי",
+            "store": "עכו",
+            "address": "שלום הגליל 1, עכו",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
+          },
           {
             "chain": "רמי לוי",
             "store": "עכו",
@@ -8400,6 +8494,20 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
+            "price": "13.90",
+            "promoPrice": "8.50",
+            "promo": "2 יחידות ב- 17.00 ש\"ח · (מחיר ליחידה 8.50 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "17.00",
+            "chain": "ויקטורי",
+            "store": "עכו",
+            "address": "שלום הגליל 1, עכו",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
+          },
+          {
             "chain": "שופרסל",
             "store": "יוניברס קריון-דרך עכו",
             "address": "דרך עכו  192, עכו",
@@ -8435,6 +8543,19 @@
         "chpId": "7290027600007_7290010237890",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "price": "9.90",
+            "promoPrice": "8.97",
+            "promo": "3 יחידות ב- 26.90 ש\"ח · (מחיר ליחידה 8.97 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-09-28",
+            "promoQty": 3.0,
+            "promoTotal": "26.90",
+            "chain": "קשת טעמים",
+            "store": "עכו",
+            "address": "החרושת 2, עכו",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
           {
             "chain": "רמי לוי",
             "store": "עכו",
@@ -8484,6 +8605,33 @@
         "chpId": "7290027600007_7290008464703",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "price": "35.90",
+            "promoPrice": "29.90",
+            "promo": "29.90 ש\"ח ליחידה",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "29.90",
+            "chain": "קשת טעמים",
+            "store": "עכו",
+            "address": "החרושת 2, עכו",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "price": "36.90",
+            "promoPrice": "33.90",
+            "promo": "33.90 ש\"ח ליחידה",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "33.90",
+            "chain": "ויקטורי",
+            "store": "עכו",
+            "address": "שלום הגליל 1, עכו",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
+          },
           {
             "chain": "שופרסל",
             "store": "יוניברס קריון-דרך עכו",
@@ -8655,6 +8803,33 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
+            "price": "8.20",
+            "promoPrice": "7.00",
+            "promo": "2 יחידות ב- 14.00 ש\"ח · (מחיר ליחידה 7.00 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "14.00",
+            "chain": "ויקטורי",
+            "store": "עכו",
+            "address": "שלום הגליל 1, עכו",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
+          },
+          {
+            "price": "7.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "chain": "קשת טעמים",
+            "store": "עכו",
+            "address": "החרושת 2, עכו",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "שופרסל",
             "store": "יוניברס קריון-דרך עכו",
             "address": "דרך עכו  192, עכו",
@@ -8701,6 +8876,19 @@
             "promoEnd": null,
             "promoQty": null,
             "promoTotal": null,
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "price": "7.90",
+            "promoPrice": "7.63",
+            "promo": "3 יחידות ב- 22.90 ש\"ח · (מחיר ליחידה 7.63 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-09-28",
+            "promoQty": 3.0,
+            "promoTotal": "22.90",
+            "chain": "קשת טעמים",
+            "store": "עכו",
+            "address": "החרושת 2, עכו",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -8798,6 +8986,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "price": "34.90",
+            "promoPrice": "27.90",
+            "promo": "27.90 ש\"ח ליחידה",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "27.90",
+            "chain": "קשת טעמים",
+            "store": "עכו",
+            "address": "החרושת 2, עכו",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "רמי לוי",
             "store": "עכו",
             "address": "בוליטמור 2 עין המפרץ, עכו",
@@ -8847,6 +9048,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "price": "39.90",
+            "promoPrice": "32.90",
+            "promo": "32.90 ש\"ח ליחידה",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "32.90",
+            "chain": "קשת טעמים",
+            "store": "עכו",
+            "address": "החרושת 2, עכו",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "שופרסל",
             "store": "יוניברס קריון-דרך עכו",
             "address": "דרך עכו  192, עכו",
@@ -8883,6 +9097,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "price": "11.90",
+            "promoPrice": "9.95",
+            "promo": "2 יחידות ב- 19.90 ש\"ח · (מחיר ליחידה 9.95 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-10-31",
+            "promoQty": 2.0,
+            "promoTotal": "19.90",
+            "chain": "קשת טעמים",
+            "store": "עכו",
+            "address": "החרושת 2, עכו",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "רמי לוי",
             "store": "עכו",
             "address": "בוליטמור 2 עין המפרץ, עכו",
@@ -8894,6 +9121,20 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "price": "11.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "chain": "ויקטורי",
+            "store": "עכו",
+            "address": "שלום הגליל 1, עכו",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
           },
           {
             "chain": "שופרסל",
