@@ -11,6 +11,10 @@ ids='001|005|011|014|015|019|020|022|023|028|029|030|032|036|037|038|039|044|057
 code=f'''from il_supermarket_scarper import ScarpingTask\nfrom il_supermarket_scarper.utils.files.file_types import FileTypesFilters\nfrom il_supermarket_scarper.utils import _now\nchains=["RAMI_LEVY","SHUFERSAL","YOHANANOF","OSHER_AD"]\nrx=r"(?i)(Stores.*|(?:PriceFull|PromoFull).*-({ids})-[0-9]{{8}}-.*)"\ns=ScarpingTask(output_configuration={{"output_mode":"disk"}},status_configuration={{"database_type":"json","base_path":"status"}},multiprocessing=4,enabled_scrapers=chains,files_types=[FileTypesFilters.STORE_FILE.name,FileTypesFilters.PRICE_FULL_FILE.name,FileTypesFilters.PROMO_FULL_FILE.name],file_name_regex=rx,timeout_in_seconds=1500)\ns.start(limit=None,when_date=_now());s.join()\n'''
 env={**os.environ,'PYTHONPATH':str(repo)}
 subprocess.run([sys.executable,'-c',code],cwd=work,env=env,check=True,timeout=1600)
+# Kiryat Yam currently depends on Osher Ad branch 029. The broad pass can
+# occasionally omit this branch, so retry it explicitly before validation.
+critical='''from il_supermarket_scarper import ScarpingTask\nfrom il_supermarket_scarper.utils.files.file_types import FileTypesFilters\nfrom il_supermarket_scarper.utils import _now\ns=ScarpingTask(output_configuration={"output_mode":"disk"},status_configuration={"database_type":"json","base_path":"critical-status"},multiprocessing=1,enabled_scrapers=["OSHER_AD"],files_types=[FileTypesFilters.STORE_FILE.name,FileTypesFilters.PRICE_FULL_FILE.name,FileTypesFilters.PROMO_FULL_FILE.name],file_name_regex=r"(?i)(Stores.*|(?:PriceFull|PromoFull).*-029-[0-9]{8}-.*)",timeout_in_seconds=300)\ns.start(limit=None,when_date=_now());s.join()\n'''
+subprocess.run([sys.executable,'-c',critical],cwd=work,env=env,check=True,timeout=360)
 subprocess.run([sys.executable,str(root/'scripts/build-from-feeds.py'),str(dumps)],cwd=root,check=True)
 preview=root/'docs/data.feed-preview.json'; target=root/'docs/data.json'
 os.replace(preview,target)
