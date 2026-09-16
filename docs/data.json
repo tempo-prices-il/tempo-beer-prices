@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T08:58:40.415882+00:00",
+  "updatedAt": "2026-09-16T09:02:45.827269+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -9055,6 +9055,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "קשת טעמים",
+            "store": "נהריה",
+            "address": "לוחמי הגטאות 9, נהריה",
+            "price": "7.90",
+            "promoPrice": "7.63",
+            "promo": "3 יחידות ב- 22.90 ש\"ח (מחיר ליחידה 7.63 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-09-28",
+            "promoQty": 3.0,
+            "promoTotal": "22.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "רמי לוי",
             "store": "נהריה",
             "address": "היוצרים א.ת צפוני, נהריה",
@@ -9313,6 +9326,19 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
+            "chain": "קשת טעמים",
+            "store": "נהריה",
+            "address": "לוחמי הגטאות 9, נהריה",
+            "price": "10.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות36, נהריה",
@@ -9348,6 +9374,19 @@
         "chpId": "7290027600007_7290010237890",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "קשת טעמים",
+            "store": "נהריה",
+            "address": "לוחמי הגטאות 9, נהריה",
+            "price": "9.90",
+            "promoPrice": "8.97",
+            "promo": "3 יחידות ב- 26.90 ש\"ח (מחיר ליחידה 8.97 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-09-28",
+            "promoQty": 3.0,
+            "promoTotal": "26.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
           {
             "chain": "רמי לוי",
             "store": "נהריה",
@@ -9411,6 +9450,19 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
+            "chain": "קשת טעמים",
+            "store": "נהריה",
+            "address": "לוחמי הגטאות 9, נהריה",
+            "price": "35.90",
+            "promoPrice": "29.90",
+            "promo": "29.90 ש\"ח ליחידה",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "29.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות36, נהריה",
@@ -9457,6 +9509,19 @@
             "promoEnd": "2026-10-03",
             "promoQty": 2.0,
             "promoTotal": "13.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "קשת טעמים",
+            "store": "נהריה",
+            "address": "לוחמי הגטאות 9, נהריה",
+            "price": "7.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -9821,6 +9886,19 @@
         "chpId": "temp_4066600601920",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "קשת טעמים",
+            "store": "נהריה",
+            "address": "לוחמי הגטאות 9, נהריה",
+            "price": "11.90",
+            "promoPrice": "9.95",
+            "promo": "2 יחידות ב- 19.90 ש\"ח (מחיר ליחידה 9.95 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-10-31",
+            "promoQty": 2.0,
+            "promoTotal": "19.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
           {
             "chain": "רמי לוי",
             "store": "נהריה",
