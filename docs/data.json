@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T09:03:12.389389+00:00",
+  "updatedAt": "2026-09-16T09:03:48.049374+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -3419,12 +3419,13 @@
             "address": "דרך בר יהודה 31, חיפה",
             "price": "31.90",
             "promoPrice": "27.50",
-            "promo": "שישיית בירה  גולדסטאר / מכבי  2 ב 55",
-            "promoStart": "2026-09-14",
+            "promo": "2 יחידות ב- 55.00 ש\"ח · (מחיר ליחידה 27.50 ש\"ח) · בתוקף עד 03/10/2026",
+            "promoStart": null,
             "promoEnd": "2026-10-03",
             "promoQty": 2.0,
             "promoTotal": "55.00",
-            "source": "https://url.publishedprices.co.il/login"
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
           },
           {
             "chain": "רמי לוי",
@@ -3803,12 +3804,13 @@
             "address": "דרך בר יהודה 31, חיפה",
             "price": "7.90",
             "promoPrice": "6.67",
-            "promo": "בירה  מכבי/גולדסטאר  3 ב 20",
-            "promoStart": "2026-08-16",
+            "promo": "3 יחידות ב- 20.00 ש\"ח · (מחיר ליחידה 6.67 ש\"ח) · בתוקף עד 03/10/2026",
+            "promoStart": null,
             "promoEnd": "2026-10-03",
             "promoQty": 3.0,
             "promoTotal": "20.00",
-            "source": "https://url.publishedprices.co.il/login"
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
           },
           {
             "chain": "שופרסל",
@@ -4402,12 +4404,13 @@
             "address": "דרך בר יהודה 31, חיפה",
             "price": "11.90",
             "promoPrice": "8.50",
-            "promo": "בירה 500 מ ל  היינקן  2 ב 17",
-            "promoStart": "2026-08-12",
+            "promo": "2 יחידות ב- 17.00 ש\"ח · (מחיר ליחידה 8.50 ש\"ח) · בתוקף עד 03/10/2026",
+            "promoStart": null,
             "promoEnd": "2026-10-03",
             "promoQty": 2.0,
             "promoTotal": "17.00",
-            "source": "https://url.publishedprices.co.il/login"
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
           },
           {
             "chain": "שופרסל",
@@ -5050,12 +5053,13 @@
             "address": "דרך בר יהודה 31, חיפה",
             "price": "31.90",
             "promoPrice": "27.50",
-            "promo": "שישיית בירה  גולדסטאר / מכבי  2 ב 55",
-            "promoStart": "2026-09-14",
+            "promo": "2 יחידות ב- 55.00 ש\"ח · (מחיר ליחידה 27.50 ש\"ח) · בתוקף עד 03/10/2026",
+            "promoStart": null,
             "promoEnd": "2026-10-03",
             "promoQty": 2.0,
             "promoTotal": "55.00",
-            "source": "https://url.publishedprices.co.il/login"
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
           },
           {
             "chain": "רמי לוי",
@@ -5242,12 +5246,13 @@
             "address": "דרך בר יהודה 31, חיפה",
             "price": "7.90",
             "promoPrice": "6.67",
-            "promo": "בירה  מכבי/גולדסטאר  3 ב 20",
-            "promoStart": "2026-08-16",
+            "promo": "3 יחידות ב- 20.00 ש\"ח · (מחיר ליחידה 6.67 ש\"ח) · בתוקף עד 03/10/2026",
+            "promoStart": null,
             "promoEnd": "2026-10-03",
             "promoQty": 3.0,
             "promoTotal": "20.00",
-            "source": "https://url.publishedprices.co.il/login"
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
           },
           {
             "chain": "שופרסל",
@@ -7725,12 +7730,13 @@
             "address": "גולדה מאיר 2, קרית ים",
             "price": "31.90",
             "promoPrice": "27.50",
-            "promo": "שישיית בירה  גולדסטאר / מכבי  2 ב 55",
-            "promoStart": "2026-09-14",
+            "promo": "2 יחידות ב- 55.00 ש\"ח · (מחיר ליחידה 27.50 ש\"ח) · בתוקף עד 03/10/2026",
+            "promoStart": null,
             "promoEnd": "2026-10-03",
             "promoQty": 2.0,
             "promoTotal": "55.00",
-            "source": "https://url.publishedprices.co.il/login"
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
           }
         ],
         "error": null
@@ -7771,12 +7777,13 @@
             "address": "גולדה מאיר 2, קרית ים",
             "price": "7.90",
             "promoPrice": "6.67",
-            "promo": "בירה  מכבי/גולדסטאר  3 ב 20",
-            "promoStart": "2026-08-16",
+            "promo": "3 יחידות ב- 20.00 ש\"ח · (מחיר ליחידה 6.67 ש\"ח) · בתוקף עד 03/10/2026",
+            "promoStart": null,
             "promoEnd": "2026-10-03",
             "promoQty": 3.0,
             "promoTotal": "20.00",
-            "source": "https://url.publishedprices.co.il/login"
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
           }
         ],
         "error": null
@@ -7849,12 +7856,13 @@
             "address": "גולדה מאיר 2, קרית ים",
             "price": "11.90",
             "promoPrice": "8.50",
-            "promo": "בירה 500 מ ל  היינקן  2 ב 17",
-            "promoStart": "2026-08-12",
+            "promo": "2 יחידות ב- 17.00 ש\"ח · (מחיר ליחידה 8.50 ש\"ח) · בתוקף עד 03/10/2026",
+            "promoStart": null,
             "promoEnd": "2026-10-03",
             "promoQty": 2.0,
             "promoTotal": "17.00",
-            "source": "https://url.publishedprices.co.il/login"
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
           }
         ],
         "error": null
@@ -7922,12 +7930,13 @@
             "address": "גולדה מאיר 2, קרית ים",
             "price": "36.90",
             "promoPrice": "27.50",
-            "promo": "שישיית בירה  גולדסטאר / מכבי  2 ב 55",
-            "promoStart": "2026-09-14",
+            "promo": "2 יחידות ב- 55.00 ש\"ח · (מחיר ליחידה 27.50 ש\"ח) · בתוקף עד 03/10/2026",
+            "promoStart": null,
             "promoEnd": "2026-10-03",
             "promoQty": 2.0,
             "promoTotal": "55.00",
-            "source": "https://url.publishedprices.co.il/login"
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
           }
         ],
         "error": null
@@ -7945,12 +7954,13 @@
             "address": "גולדה מאיר 2, קרית ים",
             "price": "7.90",
             "promoPrice": "6.67",
-            "promo": "בירה  מכבי/גולדסטאר  3 ב 20",
-            "promoStart": "2026-08-16",
+            "promo": "3 יחידות ב- 20.00 ש\"ח · (מחיר ליחידה 6.67 ש\"ח) · בתוקף עד 03/10/2026",
+            "promoStart": null,
             "promoEnd": "2026-10-03",
             "promoQty": 3.0,
             "promoTotal": "20.00",
-            "source": "https://url.publishedprices.co.il/login"
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
           }
         ],
         "error": null
@@ -12568,6 +12578,34 @@
           },
           {
             "chain": "שופרסל",
+            "store": "יש חסד עפולה עילית",
+            "address": "24 פנחס רוזן, עפולה",
+            "price": "36.90",
+            "promoPrice": "29.90",
+            "promo": "29.90 ש\"ח ליחידה · בתוקף עד 03/10/2026",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "29.90",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
+          },
+          {
+            "chain": "שופרסל",
+            "store": "אקספרס פארק עפולה",
+            "address": "רובע יזרעאל, עפולה",
+            "price": "44.90",
+            "promoPrice": "35.00",
+            "promo": "2 יחידות ב- 70.00 ש\"ח · (מחיר ליחידה 35.00 ש\"ח) · בתוקף עד 03/10/2026",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "70.00",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
+          },
+          {
+            "chain": "שופרסל",
             "store": "יוניברס עפולה- יצחק רבין",
             "address": "שד' יצחק רבין5, עפולה",
             "price": "35.90",
@@ -12604,32 +12642,6 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "שופרסל",
-            "store": "יש חסד עפולה עילית",
-            "address": "24 פנחס רוזן, עפולה",
-            "price": "36.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.shufersal.co.il/"
-          },
-          {
-            "chain": "שופרסל",
-            "store": "אקספרס פארק עפולה",
-            "address": "רובע יזרעאל, עפולה",
-            "price": "44.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.shufersal.co.il/"
           }
         ],
         "error": null
@@ -12857,6 +12869,20 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
+            "chain": "שופרסל",
+            "store": "יש חסד עפולה עילית",
+            "address": "24 פנחס רוזן, עפולה",
+            "price": "38.90",
+            "promoPrice": "32.90",
+            "promo": "32.90 ש\"ח ליחידה · בתוקף עד 03/10/2026",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "32.90",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
+          },
+          {
             "chain": "יוחננוף",
             "store": "עפולה",
             "address": "קהילת ציון 30, עפולה",
@@ -12868,19 +12894,6 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "שופרסל",
-            "store": "יש חסד עפולה עילית",
-            "address": "24 פנחס רוזן, עפולה",
-            "price": "38.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.shufersal.co.il/"
           },
           {
             "chain": "שופרסל",
@@ -13011,13 +13024,14 @@
             "store": "יש חסד עפולה עילית",
             "address": "24 פנחס רוזן, עפולה",
             "price": "38.90",
-            "promoPrice": null,
-            "promo": null,
+            "promoPrice": "34.90",
+            "promo": "34.90 ש\"ח ליחידה · בתוקף עד 03/10/2026",
             "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.shufersal.co.il/"
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "34.90",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
           },
           {
             "chain": "יוחננוף",
@@ -13031,6 +13045,20 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.publishedprices.co.il/login"
+          },
+          {
+            "chain": "שופרסל",
+            "store": "אקספרס פארק עפולה",
+            "address": "רובע יזרעאל, עפולה",
+            "price": "49.90",
+            "promoPrice": "39.90",
+            "promo": "39.90 ש\"ח ליחידה · בתוקף עד 03/10/2026",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "39.90",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
           },
           {
             "chain": "שופרסל",
@@ -13050,19 +13078,6 @@
             "store": "יוניברס עפולה- כורש",
             "address": "כורש 5, עפולה",
             "price": "39.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.shufersal.co.il/"
-          },
-          {
-            "chain": "שופרסל",
-            "store": "אקספרס פארק עפולה",
-            "address": "רובע יזרעאל, עפולה",
-            "price": "49.90",
             "promoPrice": null,
             "promo": null,
             "promoStart": null,
@@ -13288,13 +13303,14 @@
             "store": "יש חסד עפולה עילית",
             "address": "24 פנחס רוזן, עפולה",
             "price": "34.70",
-            "promoPrice": null,
-            "promo": null,
+            "promoPrice": "31.90",
+            "promo": "31.90 ש\"ח ליחידה · בתוקף עד 03/10/2026",
             "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.shufersal.co.il/"
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "31.90",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
           },
           {
             "chain": "שופרסל",
@@ -13487,13 +13503,28 @@
             "store": "יש חסד עפולה עילית",
             "address": "24 פנחס רוזן, עפולה",
             "price": "35.90",
-            "promoPrice": null,
-            "promo": null,
+            "promoPrice": "32.90",
+            "promo": "32.90 ש\"ח ליחידה · בתוקף עד 03/10/2026",
             "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.shufersal.co.il/"
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "32.90",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
+          },
+          {
+            "chain": "שופרסל",
+            "store": "אקספרס פארק עפולה",
+            "address": "רובע יזרעאל, עפולה",
+            "price": "41.90",
+            "promoPrice": "35.00",
+            "promo": "2 יחידות ב- 70.00 ש\"ח · (מחיר ליחידה 35.00 ש\"ח) · בתוקף עד 03/10/2026",
+            "promoStart": null,
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "70.00",
+            "source": "https://chp.co.il/",
+            "sourceLabel": "מקור: CHP"
           },
           {
             "chain": "שופרסל",
@@ -13513,19 +13544,6 @@
             "store": "יוניברס עפולה- כורש",
             "address": "כורש 5, עפולה",
             "price": "39.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.shufersal.co.il/"
-          },
-          {
-            "chain": "שופרסל",
-            "store": "אקספרס פארק עפולה",
-            "address": "רובע יזרעאל, עפולה",
-            "price": "41.90",
             "promoPrice": null,
             "promo": null,
             "promoStart": null,
