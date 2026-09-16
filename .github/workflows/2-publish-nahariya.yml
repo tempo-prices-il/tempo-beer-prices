@@ -1,0 +1,41 @@
+name: Publish validated Keshet Nahariya rows
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Merge CHP-cross-checked official rows
+        run: |
+          python - <<'PY'
+          import json,datetime
+          p='docs/data.json'; d=json.load(open(p)); by={x['barcode']:x for x in d['areas']['נהריה']}
+          rows={
+          '7290006764072':('7.90','7.63','3 יחידות ב- 22.90 ש"ח (מחיר ליחידה 7.63 ש"ח)','2026-09-28',3.0,'22.90'),
+          '7290008464604':('10.90',None,None,None,None,None),
+          '7290010237890':('9.90','8.97','3 יחידות ב- 26.90 ש"ח (מחיר ליחידה 8.97 ש"ח)','2026-09-28',3.0,'26.90'),
+          '7290008464703':('35.90','29.90','29.90 ש"ח ליחידה','2026-10-03',1.0,'29.90'),
+          '7290008464475':('7.90',None,None,None,None,None),
+          '4066600601920':('11.90','9.95','2 יחידות ב- 19.90 ש"ח (מחיר ליחידה 9.95 ש"ח)','2026-10-31',2.0,'19.90')}
+          for c,v in rows.items():
+            if any(r['chain']=='קשת טעמים' and r['store']=='נהריה' for r in by[c]['prices']): continue
+            price,promo,desc,end,qty,total=v
+            by[c]['prices'].append({'chain':'קשת טעמים','store':'נהריה','address':'לוחמי הגטאות 9, נהריה','price':price,'promoPrice':promo,'promo':desc,'promoStart':None,'promoEnd':end,'promoQty':qty,'promoTotal':total,'source':'https://url.retail.publishedprices.co.il/login'})
+            by[c]['prices'].sort(key=lambda r:(float(r.get('promoPrice') or r['price']),r['chain'],r['store']))
+          got=[r for x in d['areas']['נהריה'] for r in x['prices'] if r['chain']=='קשת טעמים' and r['store']=='נהריה']
+          assert len(got)==6 and all(r['address']=='לוחמי הגטאות 9, נהריה' for r in got)
+          assert set(d['areas'])=={'חדרה','פרדס חנה-כרכור','זכרון יעקב','אור עקיבא','חיפה','נשר','קרית ביאליק','קרית ים','עכו','נהריה','כרמיאל','טבריה','עפולה','מגדל העמק','קרית שמונה'}
+          d['updatedAt']=datetime.datetime.now().astimezone().isoformat()
+          json.dump(d,open(p,'w'),ensure_ascii=False,indent=2)
+          PY
+      - run: |
+          git config user.name tempo-price-bot
+          git config user.email actions@users.noreply.github.com
+          git add docs/data.json
+          git diff --cached --quiet || git commit -m 'Add validated Keshet Nahariya prices'
+          git push
