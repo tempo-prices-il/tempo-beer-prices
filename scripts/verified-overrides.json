@@ -1,0 +1,885 @@
+[
+  {
+    "city": "חיפה",
+    "barcode": "7290008464741",
+    "row": {
+      "chain": "אושר עד",
+      "store": "חיפה",
+      "address": "דרך בר יהודה 31, חיפה",
+      "price": "31.90",
+      "promoPrice": "27.50",
+      "promo": "2 יחידות ב- 55.00 ש\"ח · (מחיר ליחידה 27.50 ש\"ח) · בתוקף עד 03/10/2026",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 2.0,
+      "promoTotal": "55.00",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "חיפה",
+    "barcode": "7290008464468",
+    "row": {
+      "chain": "אושר עד",
+      "store": "חיפה",
+      "address": "דרך בר יהודה 31, חיפה",
+      "price": "7.90",
+      "promoPrice": "6.67",
+      "promo": "3 יחידות ב- 20.00 ש\"ח · (מחיר ליחידה 6.67 ש\"ח) · בתוקף עד 03/10/2026",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 3.0,
+      "promoTotal": "20.00",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "חיפה",
+    "barcode": "7290008464604",
+    "row": {
+      "chain": "אושר עד",
+      "store": "חיפה",
+      "address": "דרך בר יהודה 31, חיפה",
+      "price": "11.90",
+      "promoPrice": "8.50",
+      "promo": "2 יחידות ב- 17.00 ש\"ח · (מחיר ליחידה 8.50 ש\"ח) · בתוקף עד 03/10/2026",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 2.0,
+      "promoTotal": "17.00",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "חיפה",
+    "barcode": "7290008464697",
+    "row": {
+      "chain": "אושר עד",
+      "store": "חיפה",
+      "address": "דרך בר יהודה 31, חיפה",
+      "price": "31.90",
+      "promoPrice": "27.50",
+      "promo": "2 יחידות ב- 55.00 ש\"ח · (מחיר ליחידה 27.50 ש\"ח) · בתוקף עד 03/10/2026",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 2.0,
+      "promoTotal": "55.00",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "חיפה",
+    "barcode": "7290008464222",
+    "row": {
+      "chain": "אושר עד",
+      "store": "חיפה",
+      "address": "דרך בר יהודה 31, חיפה",
+      "price": "7.90",
+      "promoPrice": "6.67",
+      "promo": "3 יחידות ב- 20.00 ש\"ח · (מחיר ליחידה 6.67 ש\"ח) · בתוקף עד 03/10/2026",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 3.0,
+      "promoTotal": "20.00",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "קרית ים",
+    "barcode": "7290008464741",
+    "row": {
+      "chain": "אושר עד",
+      "store": "קרית ים",
+      "address": "גולדה מאיר 2, קרית ים",
+      "price": "31.90",
+      "promoPrice": "27.50",
+      "promo": "2 יחידות ב- 55.00 ש\"ח · (מחיר ליחידה 27.50 ש\"ח) · בתוקף עד 03/10/2026",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 2.0,
+      "promoTotal": "55.00",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "קרית ים",
+    "barcode": "7290008464468",
+    "row": {
+      "chain": "אושר עד",
+      "store": "קרית ים",
+      "address": "גולדה מאיר 2, קרית ים",
+      "price": "7.90",
+      "promoPrice": "6.67",
+      "promo": "3 יחידות ב- 20.00 ש\"ח · (מחיר ליחידה 6.67 ש\"ח) · בתוקף עד 03/10/2026",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 3.0,
+      "promoTotal": "20.00",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "קרית ים",
+    "barcode": "7290008464604",
+    "row": {
+      "chain": "אושר עד",
+      "store": "קרית ים",
+      "address": "גולדה מאיר 2, קרית ים",
+      "price": "11.90",
+      "promoPrice": "8.50",
+      "promo": "2 יחידות ב- 17.00 ש\"ח · (מחיר ליחידה 8.50 ש\"ח) · בתוקף עד 03/10/2026",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 2.0,
+      "promoTotal": "17.00",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "קרית ים",
+    "barcode": "7290008464697",
+    "row": {
+      "chain": "אושר עד",
+      "store": "קרית ים",
+      "address": "גולדה מאיר 2, קרית ים",
+      "price": "36.90",
+      "promoPrice": "27.50",
+      "promo": "2 יחידות ב- 55.00 ש\"ח · (מחיר ליחידה 27.50 ש\"ח) · בתוקף עד 03/10/2026",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 2.0,
+      "promoTotal": "55.00",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "קרית ים",
+    "barcode": "7290008464222",
+    "row": {
+      "chain": "אושר עד",
+      "store": "קרית ים",
+      "address": "גולדה מאיר 2, קרית ים",
+      "price": "7.90",
+      "promoPrice": "6.67",
+      "promo": "3 יחידות ב- 20.00 ש\"ח · (מחיר ליחידה 6.67 ש\"ח) · בתוקף עד 03/10/2026",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 3.0,
+      "promoTotal": "20.00",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "עכו",
+    "barcode": "7290008464741",
+    "row": {
+      "price": "33.90",
+      "promoPrice": "29.90",
+      "promo": "29.90 ש\"ח ליחידה",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 1.0,
+      "promoTotal": "29.90",
+      "chain": "קשת טעמים",
+      "store": "עכו",
+      "address": "החרושת 2, עכו",
+      "source": "https://url.retail.publishedprices.co.il/login"
+    }
+  },
+  {
+    "city": "עכו",
+    "barcode": "7290006764072",
+    "row": {
+      "price": "7.90",
+      "promoPrice": "7.63",
+      "promo": "3 יחידות ב- 22.90 ש\"ח · (מחיר ליחידה 7.63 ש\"ח)",
+      "promoStart": null,
+      "promoEnd": "2026-09-28",
+      "promoQty": 3.0,
+      "promoTotal": "22.90",
+      "chain": "קשת טעמים",
+      "store": "עכו",
+      "address": "החרושת 2, עכו",
+      "source": "https://url.retail.publishedprices.co.il/login"
+    }
+  },
+  {
+    "city": "עכו",
+    "barcode": "7290008464468",
+    "row": {
+      "price": "9.20",
+      "promoPrice": "7.00",
+      "promo": "2 יחידות ב- 14.00 ש\"ח · (מחיר ליחידה 7.00 ש\"ח)",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 2.0,
+      "promoTotal": "14.00",
+      "chain": "ויקטורי",
+      "store": "עכו",
+      "address": "שלום הגליל 1, עכו",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "עכו",
+    "barcode": "7290008464468",
+    "row": {
+      "price": "8.50",
+      "promoPrice": null,
+      "promo": null,
+      "promoStart": null,
+      "promoEnd": null,
+      "promoQty": null,
+      "promoTotal": null,
+      "chain": "קשת טעמים",
+      "store": "עכו",
+      "address": "החרושת 2, עכו",
+      "source": "https://url.retail.publishedprices.co.il/login"
+    }
+  },
+  {
+    "city": "עכו",
+    "barcode": "7290008464024",
+    "row": {
+      "price": "9.80",
+      "promoPrice": "7.50",
+      "promo": "2 יחידות ב- 15.00 ש\"ח · (מחיר ליחידה 7.50 ש\"ח)",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 2.0,
+      "promoTotal": "15.00",
+      "chain": "ויקטורי",
+      "store": "עכו",
+      "address": "שלום הגליל 1, עכו",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "עכו",
+    "barcode": "7290008464024",
+    "row": {
+      "price": "9.90",
+      "promoPrice": null,
+      "promo": null,
+      "promoStart": null,
+      "promoEnd": null,
+      "promoQty": null,
+      "promoTotal": null,
+      "chain": "קשת טעמים",
+      "store": "עכו",
+      "address": "החרושת 2, עכו",
+      "source": "https://url.retail.publishedprices.co.il/login"
+    }
+  },
+  {
+    "city": "עכו",
+    "barcode": "7290008464796",
+    "row": {
+      "price": "40.90",
+      "promoPrice": "34.90",
+      "promo": "34.90 ש\"ח ליחידה",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 1.0,
+      "promoTotal": "34.90",
+      "chain": "ויקטורי",
+      "store": "עכו",
+      "address": "שלום הגליל 1, עכו",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "עכו",
+    "barcode": "7290008464604",
+    "row": {
+      "price": "13.90",
+      "promoPrice": "8.50",
+      "promo": "2 יחידות ב- 17.00 ש\"ח · (מחיר ליחידה 8.50 ש\"ח)",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 2.0,
+      "promoTotal": "17.00",
+      "chain": "ויקטורי",
+      "store": "עכו",
+      "address": "שלום הגליל 1, עכו",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "עכו",
+    "barcode": "7290010237890",
+    "row": {
+      "price": "9.90",
+      "promoPrice": "8.97",
+      "promo": "3 יחידות ב- 26.90 ש\"ח · (מחיר ליחידה 8.97 ש\"ח)",
+      "promoStart": null,
+      "promoEnd": "2026-09-28",
+      "promoQty": 3.0,
+      "promoTotal": "26.90",
+      "chain": "קשת טעמים",
+      "store": "עכו",
+      "address": "החרושת 2, עכו",
+      "source": "https://url.retail.publishedprices.co.il/login"
+    }
+  },
+  {
+    "city": "עכו",
+    "barcode": "7290008464703",
+    "row": {
+      "price": "35.90",
+      "promoPrice": "29.90",
+      "promo": "29.90 ש\"ח ליחידה",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 1.0,
+      "promoTotal": "29.90",
+      "chain": "קשת טעמים",
+      "store": "עכו",
+      "address": "החרושת 2, עכו",
+      "source": "https://url.retail.publishedprices.co.il/login"
+    }
+  },
+  {
+    "city": "עכו",
+    "barcode": "7290008464703",
+    "row": {
+      "price": "36.90",
+      "promoPrice": "33.90",
+      "promo": "33.90 ש\"ח ליחידה",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 1.0,
+      "promoTotal": "33.90",
+      "chain": "ויקטורי",
+      "store": "עכו",
+      "address": "שלום הגליל 1, עכו",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "עכו",
+    "barcode": "7290008464222",
+    "row": {
+      "price": "8.20",
+      "promoPrice": "7.00",
+      "promo": "2 יחידות ב- 14.00 ש\"ח · (מחיר ליחידה 7.00 ש\"ח)",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 2.0,
+      "promoTotal": "14.00",
+      "chain": "ויקטורי",
+      "store": "עכו",
+      "address": "שלום הגליל 1, עכו",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "עכו",
+    "barcode": "7290008464222",
+    "row": {
+      "price": "7.90",
+      "promoPrice": null,
+      "promo": null,
+      "promoStart": null,
+      "promoEnd": null,
+      "promoQty": null,
+      "promoTotal": null,
+      "chain": "קשת טעמים",
+      "store": "עכו",
+      "address": "החרושת 2, עכו",
+      "source": "https://url.retail.publishedprices.co.il/login"
+    }
+  },
+  {
+    "city": "עכו",
+    "barcode": "7290005896453",
+    "row": {
+      "price": "7.90",
+      "promoPrice": "7.63",
+      "promo": "3 יחידות ב- 22.90 ש\"ח · (מחיר ליחידה 7.63 ש\"ח)",
+      "promoStart": null,
+      "promoEnd": "2026-09-28",
+      "promoQty": 3.0,
+      "promoTotal": "22.90",
+      "chain": "קשת טעמים",
+      "store": "עכו",
+      "address": "החרושת 2, עכו",
+      "source": "https://url.retail.publishedprices.co.il/login"
+    }
+  },
+  {
+    "city": "עכו",
+    "barcode": "7290011133375",
+    "row": {
+      "price": "34.90",
+      "promoPrice": "27.90",
+      "promo": "27.90 ש\"ח ליחידה",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 1.0,
+      "promoTotal": "27.90",
+      "chain": "קשת טעמים",
+      "store": "עכו",
+      "address": "החרושת 2, עכו",
+      "source": "https://url.retail.publishedprices.co.il/login"
+    }
+  },
+  {
+    "city": "עכו",
+    "barcode": "7290011132552",
+    "row": {
+      "price": "39.90",
+      "promoPrice": "32.90",
+      "promo": "32.90 ש\"ח ליחידה",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 1.0,
+      "promoTotal": "32.90",
+      "chain": "קשת טעמים",
+      "store": "עכו",
+      "address": "החרושת 2, עכו",
+      "source": "https://url.retail.publishedprices.co.il/login"
+    }
+  },
+  {
+    "city": "עכו",
+    "barcode": "4066600601920",
+    "row": {
+      "price": "11.90",
+      "promoPrice": "9.95",
+      "promo": "2 יחידות ב- 19.90 ש\"ח · (מחיר ליחידה 9.95 ש\"ח)",
+      "promoStart": null,
+      "promoEnd": "2026-10-31",
+      "promoQty": 2.0,
+      "promoTotal": "19.90",
+      "chain": "קשת טעמים",
+      "store": "עכו",
+      "address": "החרושת 2, עכו",
+      "source": "https://url.retail.publishedprices.co.il/login"
+    }
+  },
+  {
+    "city": "עכו",
+    "barcode": "4066600601920",
+    "row": {
+      "price": "11.90",
+      "promoPrice": null,
+      "promo": null,
+      "promoStart": null,
+      "promoEnd": null,
+      "promoQty": null,
+      "promoTotal": null,
+      "chain": "ויקטורי",
+      "store": "עכו",
+      "address": "שלום הגליל 1, עכו",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "נהריה",
+    "barcode": "7290008464741",
+    "row": {
+      "chain": "מחסני השוק בשבילך",
+      "store": "נהריה",
+      "address": "הזמיר 63, נהריה",
+      "price": "35.90",
+      "promoPrice": "30.00",
+      "promo": "2 יחידות ב- 60.00 ש\"ח · (מחיר ליחידה 30.00 ש\"ח)",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 2.0,
+      "promoTotal": "60.00",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "נהריה",
+    "barcode": "7290006764072",
+    "row": {
+      "chain": "קשת טעמים",
+      "store": "נהריה",
+      "address": "לוחמי הגטאות 9, נהריה",
+      "price": "7.90",
+      "promoPrice": "7.63",
+      "promo": "3 יחידות ב- 22.90 ש\"ח (מחיר ליחידה 7.63 ש\"ח)",
+      "promoStart": null,
+      "promoEnd": "2026-09-28",
+      "promoQty": 3.0,
+      "promoTotal": "22.90",
+      "source": "https://url.retail.publishedprices.co.il/login"
+    }
+  },
+  {
+    "city": "נהריה",
+    "barcode": "7290008464468",
+    "row": {
+      "chain": "מחסני השוק בשבילך",
+      "store": "נהריה",
+      "address": "הזמיר 63, נהריה",
+      "price": "8.50",
+      "promoPrice": "7.00",
+      "promo": "2 יחידות ב- 14.00 ש\"ח · (מחיר ליחידה 7.00 ש\"ח)",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 2.0,
+      "promoTotal": "14.00",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "נהריה",
+    "barcode": "7290008464130",
+    "row": {
+      "chain": "מחסני השוק בשבילך",
+      "store": "נהריה",
+      "address": "הזמיר 63, נהריה",
+      "price": "39.90",
+      "promoPrice": "32.50",
+      "promo": "2 יחידות ב- 65.00 ש\"ח · (מחיר ליחידה 32.50 ש\"ח)",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 2.0,
+      "promoTotal": "65.00",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "נהריה",
+    "barcode": "7290008464024",
+    "row": {
+      "chain": "מחסני השוק בשבילך",
+      "store": "נהריה",
+      "address": "הזמיר 63, נהריה",
+      "price": "9.90",
+      "promoPrice": "9.00",
+      "promo": "2 יחידות ב- 18.00 ש\"ח · (מחיר ליחידה 9.00 ש\"ח)",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 2.0,
+      "promoTotal": "18.00",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "נהריה",
+    "barcode": "7290008464796",
+    "row": {
+      "chain": "מחסני השוק בשבילך",
+      "store": "נהריה",
+      "address": "הזמיר 63, נהריה",
+      "price": "39.90",
+      "promoPrice": "34.90",
+      "promo": "34.90 ש\"ח ליחידה",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 1.0,
+      "promoTotal": "34.90",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "נהריה",
+    "barcode": "7290008464604",
+    "row": {
+      "chain": "קשת טעמים",
+      "store": "נהריה",
+      "address": "לוחמי הגטאות 9, נהריה",
+      "price": "10.90",
+      "promoPrice": null,
+      "promo": null,
+      "promoStart": null,
+      "promoEnd": null,
+      "promoQty": null,
+      "promoTotal": null,
+      "source": "https://url.retail.publishedprices.co.il/login"
+    }
+  },
+  {
+    "city": "נהריה",
+    "barcode": "7290010237890",
+    "row": {
+      "chain": "קשת טעמים",
+      "store": "נהריה",
+      "address": "לוחמי הגטאות 9, נהריה",
+      "price": "9.90",
+      "promoPrice": "8.97",
+      "promo": "3 יחידות ב- 26.90 ש\"ח (מחיר ליחידה 8.97 ש\"ח)",
+      "promoStart": null,
+      "promoEnd": "2026-09-28",
+      "promoQty": 3.0,
+      "promoTotal": "26.90",
+      "source": "https://url.retail.publishedprices.co.il/login"
+    }
+  },
+  {
+    "city": "נהריה",
+    "barcode": "7290008464703",
+    "row": {
+      "chain": "קשת טעמים",
+      "store": "נהריה",
+      "address": "לוחמי הגטאות 9, נהריה",
+      "price": "35.90",
+      "promoPrice": "29.90",
+      "promo": "29.90 ש\"ח ליחידה",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 1.0,
+      "promoTotal": "29.90",
+      "source": "https://url.retail.publishedprices.co.il/login"
+    }
+  },
+  {
+    "city": "נהריה",
+    "barcode": "7290008464475",
+    "row": {
+      "chain": "קשת טעמים",
+      "store": "נהריה",
+      "address": "לוחמי הגטאות 9, נהריה",
+      "price": "7.90",
+      "promoPrice": null,
+      "promo": null,
+      "promoStart": null,
+      "promoEnd": null,
+      "promoQty": null,
+      "promoTotal": null,
+      "source": "https://url.retail.publishedprices.co.il/login"
+    }
+  },
+  {
+    "city": "נהריה",
+    "barcode": "7290008464222",
+    "row": {
+      "chain": "מחסני השוק בשבילך",
+      "store": "נהריה",
+      "address": "הזמיר 63, נהריה",
+      "price": "8.00",
+      "promoPrice": "7.00",
+      "promo": "2 יחידות ב- 14.00 ש\"ח · (מחיר ליחידה 7.00 ש\"ח)",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 2.0,
+      "promoTotal": "14.00",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "נהריה",
+    "barcode": "7290005896415",
+    "row": {
+      "chain": "מחסני השוק בשבילך",
+      "store": "נהריה",
+      "address": "הזמיר 63, נהריה",
+      "price": "6.90",
+      "promoPrice": "6.00",
+      "promo": "3 יחידות ב- 18.00 ש\"ח · (מחיר ליחידה 6.00 ש\"ח)",
+      "promoStart": null,
+      "promoEnd": "2027-01-01",
+      "promoQty": 3.0,
+      "promoTotal": "18.00",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "נהריה",
+    "barcode": "7290006764096",
+    "row": {
+      "chain": "מחסני השוק בשבילך",
+      "store": "נהריה",
+      "address": "הזמיר 63, נהריה",
+      "price": "5.80",
+      "promoPrice": null,
+      "promo": null,
+      "promoStart": null,
+      "promoEnd": null,
+      "promoQty": null,
+      "promoTotal": null,
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "נהריה",
+    "barcode": "4066600601920",
+    "row": {
+      "chain": "קשת טעמים",
+      "store": "נהריה",
+      "address": "לוחמי הגטאות 9, נהריה",
+      "price": "11.90",
+      "promoPrice": "9.95",
+      "promo": "2 יחידות ב- 19.90 ש\"ח (מחיר ליחידה 9.95 ש\"ח)",
+      "promoStart": null,
+      "promoEnd": "2026-10-31",
+      "promoQty": 2.0,
+      "promoTotal": "19.90",
+      "source": "https://url.retail.publishedprices.co.il/login"
+    }
+  },
+  {
+    "city": "עפולה",
+    "barcode": "7290008464741",
+    "row": {
+      "chain": "שופרסל",
+      "store": "יש חסד עפולה עילית",
+      "address": "24 פנחס רוזן, עפולה",
+      "price": "36.90",
+      "promoPrice": "29.90",
+      "promo": "29.90 ש\"ח ליחידה · בתוקף עד 03/10/2026",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 1.0,
+      "promoTotal": "29.90",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "עפולה",
+    "barcode": "7290008464741",
+    "row": {
+      "chain": "שופרסל",
+      "store": "אקספרס פארק עפולה",
+      "address": "רובע יזרעאל, עפולה",
+      "price": "44.90",
+      "promoPrice": "35.00",
+      "promo": "2 יחידות ב- 70.00 ש\"ח · (מחיר ליחידה 35.00 ש\"ח) · בתוקף עד 03/10/2026",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 2.0,
+      "promoTotal": "70.00",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "עפולה",
+    "barcode": "7290008464130",
+    "row": {
+      "chain": "שופרסל",
+      "store": "יש חסד עפולה עילית",
+      "address": "24 פנחס רוזן, עפולה",
+      "price": "38.90",
+      "promoPrice": "32.90",
+      "promo": "32.90 ש\"ח ליחידה · בתוקף עד 03/10/2026",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 1.0,
+      "promoTotal": "32.90",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "עפולה",
+    "barcode": "7290008464796",
+    "row": {
+      "chain": "שופרסל",
+      "store": "יש חסד עפולה עילית",
+      "address": "24 פנחס רוזן, עפולה",
+      "price": "38.90",
+      "promoPrice": "34.90",
+      "promo": "34.90 ש\"ח ליחידה · בתוקף עד 03/10/2026",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 1.0,
+      "promoTotal": "34.90",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "עפולה",
+    "barcode": "7290008464796",
+    "row": {
+      "chain": "שופרסל",
+      "store": "אקספרס פארק עפולה",
+      "address": "רובע יזרעאל, עפולה",
+      "price": "49.90",
+      "promoPrice": "39.90",
+      "promo": "39.90 ש\"ח ליחידה · בתוקף עד 03/10/2026",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 1.0,
+      "promoTotal": "39.90",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "עפולה",
+    "barcode": "7290008464703",
+    "row": {
+      "chain": "שופרסל",
+      "store": "יש חסד עפולה עילית",
+      "address": "24 פנחס רוזן, עפולה",
+      "price": "34.70",
+      "promoPrice": "31.90",
+      "promo": "31.90 ש\"ח ליחידה · בתוקף עד 03/10/2026",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 1.0,
+      "promoTotal": "31.90",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "עפולה",
+    "barcode": "7290008464697",
+    "row": {
+      "chain": "שופרסל",
+      "store": "יש חסד עפולה עילית",
+      "address": "24 פנחס רוזן, עפולה",
+      "price": "35.90",
+      "promoPrice": "32.90",
+      "promo": "32.90 ש\"ח ליחידה · בתוקף עד 03/10/2026",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 1.0,
+      "promoTotal": "32.90",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  },
+  {
+    "city": "עפולה",
+    "barcode": "7290008464697",
+    "row": {
+      "chain": "שופרסל",
+      "store": "אקספרס פארק עפולה",
+      "address": "רובע יזרעאל, עפולה",
+      "price": "41.90",
+      "promoPrice": "35.00",
+      "promo": "2 יחידות ב- 70.00 ש\"ח · (מחיר ליחידה 35.00 ש\"ח) · בתוקף עד 03/10/2026",
+      "promoStart": null,
+      "promoEnd": "2026-10-03",
+      "promoQty": 2.0,
+      "promoTotal": "70.00",
+      "source": "https://chp.co.il/",
+      "sourceLabel": "מקור: CHP"
+    }
+  }
+]

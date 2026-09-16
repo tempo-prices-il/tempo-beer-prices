@@ -73,6 +73,25 @@ if set(areas)!=required: raise SystemExit('feed validation failed: missing or ex
 minimum={'חדרה':50,'פרדס חנה-כרכור':12,'זכרון יעקב':12,'אור עקיבא':10,'חיפה':35,'נשר':25,'קרית ביאליק':18,'קרית ים':10,'עכו':25,'נהריה':25,'כרמיאל':12,'טבריה':45,'עפולה':80,'מגדל העמק':22,'קרית שמונה':24}
 for c,n in minimum.items():
  if sum(len(x['prices']) for x in areas[c])<n: raise SystemExit(f'feed validation failed: insufficient rows for {c}')
+# Merge manually verified rows and promo corrections after every official rebuild.
+# These rows were branch/product cross-checked against clean CHP evidence. Exact
+# existing branch matches are updated; verified fallback chains are appended.
+overrides=json.load(open(ROOT/'scripts/verified-overrides.json'))
+for o in overrides:
+ city=o['city']; c=o['barcode']; row=o['row']
+ if city not in areas: raise SystemExit(f'override city missing: {city}')
+ product=next((x for x in areas[city] if x['barcode']==c),None)
+ if not product: raise SystemExit(f'override product missing: {city} {c}')
+ exact=[x for x in product['prices'] if x['chain']==row['chain'] and x['store']==row['store']]
+ if exact:
+  if len(exact)!=1: raise SystemExit(f'ambiguous override branch: {city} {c} {row["chain"]} {row["store"]}')
+  exact[0].update(row)
+ elif row['chain'] in ('קשת טעמים','ויקטורי','מחסני השוק בשבילך'):
+  product['prices'].append(row)
+ else:
+  raise SystemExit(f'override branch disappeared: {city} {c} {row["chain"]} {row["store"]}')
+ product['prices'].sort(key=lambda r:(float(r['promoPrice'] or r['price']),r['chain'],r['store']))
+
 data={'updatedAt':datetime.now().astimezone().isoformat(),'refreshStatus':'success','defaultArea':'עפולה','source':'קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)','areas':areas}
 json.dump(data,open(ROOT/'docs/data.feed-preview.json','w'),ensure_ascii=False,indent=2)
 for c,a in areas.items():print(c,sum(bool(x['prices']) for x in a),sum(len(x['prices']) for x in a),sum(bool(r['promoPrice']) for x in a for r in x['prices']))
