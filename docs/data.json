@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T09:10:21.955016+00:00",
+  "updatedAt": "2026-09-16T09:12:29.349421+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -12,6 +12,20 @@
         "chpId": "7290027600007_7290008464741",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "סופר ספיר",
+            "store": "חדרה סיטי",
+            "address": "חטיבת הנח\"ל 4, חדרה",
+            "price": "36.90",
+            "promoPrice": "24.90",
+            "promo": "24.90 ש\"ח ליחידה",
+            "promoStart": null,
+            "promoEnd": "2026-09-26",
+            "promoQty": 2.0,
+            "promoTotal": "63.00",
+            "source": "http://supersapir.binaprojects.com/",
+            "sourceLabel": "מקור: CHP"
+          },
           {
             "chain": "אושר עד",
             "store": "חדרה",
@@ -89,6 +103,20 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://prices.shufersal.co.il/"
+          },
+          {
+            "chain": "סופר ספיר",
+            "store": "חדרה חטיבת גולני",
+            "address": "חטיבת גולני 4, חדרה",
+            "price": "36.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "http://supersapir.binaprojects.com/",
+            "sourceLabel": "מקור: CHP"
           }
         ],
         "error": null
@@ -200,6 +228,20 @@
             "promoQty": 3.0,
             "promoTotal": "20.00",
             "source": "https://url.publishedprices.co.il/login"
+          },
+          {
+            "chain": "סופר ספיר",
+            "store": "חדרה סיטי",
+            "address": "חטיבת הנח\"ל 4, חדרה",
+            "price": "8.50",
+            "promoPrice": "7.50",
+            "promo": "2 יחידות ב- 15.00 ש\"ח · (מחיר ליחידה 7.50 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-10-31",
+            "promoQty": 2.0,
+            "promoTotal": "15.00",
+            "source": "http://supersapir.binaprojects.com/",
+            "sourceLabel": "מקור: CHP"
           },
           {
             "chain": "רמי לוי",
@@ -314,6 +356,20 @@
             "promoQty": 1.0,
             "promoTotal": "33.90",
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "סופר ספיר",
+            "store": "חדרה סיטי",
+            "address": "חטיבת הנח\"ל 4, חדרה",
+            "price": "39.90",
+            "promoPrice": "35.90",
+            "promo": "35.90 ש\"ח ליחידה",
+            "promoStart": null,
+            "promoEnd": "2026-09-30",
+            "promoQty": 1.0,
+            "promoTotal": "35.90",
+            "source": "http://supersapir.binaprojects.com/",
+            "sourceLabel": "מקור: CHP"
           },
           {
             "chain": "שופרסל",
@@ -479,6 +535,20 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
+            "chain": "סופר ספיר",
+            "store": "חדרה סיטי",
+            "address": "חטיבת הנח\"ל 4, חדרה",
+            "price": "39.90",
+            "promoPrice": "35.90",
+            "promo": "35.90 ש\"ח ליחידה",
+            "promoStart": null,
+            "promoEnd": "2026-09-30",
+            "promoQty": 1.0,
+            "promoTotal": "35.90",
+            "source": "http://supersapir.binaprojects.com/",
+            "sourceLabel": "מקור: CHP"
+          },
+          {
             "chain": "שופרסל",
             "store": "יוניברס חדרה- ארבע האגודות",
             "address": "ארבע אגודות 1, חדרה",
@@ -601,6 +671,20 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.publishedprices.co.il/login"
+          },
+          {
+            "chain": "סופר ספיר",
+            "store": "חדרה סיטי",
+            "address": "חטיבת הנח\"ל 4, חדרה",
+            "price": "9.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "http://supersapir.binaprojects.com/",
+            "sourceLabel": "מקור: CHP"
           },
           {
             "chain": "רמי לוי",
@@ -812,6 +896,20 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "סופר ספיר",
+            "store": "חדרה סיטי",
+            "address": "חטיבת הנח\"ל 4, חדרה",
+            "price": "36.90",
+            "promoPrice": "24.90",
+            "promo": "24.90 ש\"ח ליחידה",
+            "promoStart": null,
+            "promoEnd": "2026-09-26",
+            "promoQty": 2.0,
+            "promoTotal": "63.00",
+            "source": "http://supersapir.binaprojects.com/",
+            "sourceLabel": "מקור: CHP"
+          },
+          {
             "chain": "רמי לוי",
             "store": "חדרה",
             "address": "השלום 1, חדרה",
@@ -926,6 +1024,20 @@
             "source": "https://url.publishedprices.co.il/login"
           },
           {
+            "chain": "סופר ספיר",
+            "store": "חדרה סיטי",
+            "address": "חטיבת הנח\"ל 4, חדרה",
+            "price": "8.50",
+            "promoPrice": "7.50",
+            "promo": "2 יחידות ב- 15.00 ש\"ח · (מחיר ליחידה 7.50 ש\"ח)",
+            "promoStart": null,
+            "promoEnd": "2026-10-31",
+            "promoQty": 2.0,
+            "promoTotal": "15.00",
+            "source": "http://supersapir.binaprojects.com/",
+            "sourceLabel": "מקור: CHP"
+          },
+          {
             "chain": "רמי לוי",
             "store": "הנשיא חדרה",
             "address": "הנשיא 2, חדרה",
@@ -1012,6 +1124,20 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://prices.shufersal.co.il/"
+          },
+          {
+            "chain": "סופר ספיר",
+            "store": "חדרה סיטי",
+            "address": "חטיבת הנח\"ל 4, חדרה",
+            "price": "8.80",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "http://supersapir.binaprojects.com/",
+            "sourceLabel": "מקור: CHP"
           }
         ],
         "error": null
@@ -1035,6 +1161,20 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.publishedprices.co.il/login"
+          },
+          {
+            "chain": "סופר ספיר",
+            "store": "חדרה חטיבת גולני",
+            "address": "חטיבת גולני 4, חדרה",
+            "price": "6.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "http://supersapir.binaprojects.com/",
+            "sourceLabel": "מקור: CHP"
           }
         ],
         "error": null

@@ -86,7 +86,7 @@ for o in overrides:
  if exact:
   if len(exact)!=1: raise SystemExit(f'ambiguous override branch: {city} {c} {row["chain"]} {row["store"]}')
   exact[0].update(row)
- elif row['chain'] in ('קשת טעמים','ויקטורי','מחסני השוק בשבילך'):
+ elif row['chain'] in ('קשת טעמים','ויקטורי','מחסני השוק בשבילך','סופר ספיר'):
   product['prices'].append(row)
  else:
   raise SystemExit(f'override branch disappeared: {city} {c} {row["chain"]} {row["store"]}')
