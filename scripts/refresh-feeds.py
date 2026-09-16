@@ -20,6 +20,9 @@ for attempt in range(3):
  if any((dumps/'Osherad').glob('PriceFull*-029-*.xml')): break
  if attempt<2:
   import time; time.sleep(180)
+if not any((dumps/'Osherad').glob('PriceFull*-029-*.xml')):
+ print('Critical Osher Ad branch 029 feed unavailable; retaining prior validated dataset and timestamp.')
+ raise SystemExit(0)
 subprocess.run([sys.executable,str(root/'scripts/build-from-feeds.py'),str(dumps)],cwd=root,check=True)
 preview=root/'docs/data.feed-preview.json'; target=root/'docs/data.json'
 os.replace(preview,target)
