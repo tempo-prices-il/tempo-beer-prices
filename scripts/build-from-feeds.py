@@ -4,8 +4,8 @@ from datetime import datetime
 from lxml import etree
 ROOT=Path(__file__).resolve().parents[1]; D=Path(sys.argv[1] if len(sys.argv)>1 else 'dumps')
 products=json.load(open(ROOT/'products.json')); bc={x['barcode']:x for x in products}
-chainlabels={'RamiLevy':'רמי לוי','Yohananof':'יוחננוף','Osherad':'אושר עד','Shufersal':'שופרסל'}
-links={'RamiLevy':'https://url.retail.publishedprices.co.il/login','Yohananof':'https://url.publishedprices.co.il/login','Osherad':'https://url.publishedprices.co.il/login','Shufersal':'https://prices.shufersal.co.il/'}
+chainlabels={'RamiLevy':'רמי לוי','Yohananof':'יוחננוף','Osherad':'אושר עד','Shufersal':'שופרסל','YaynotBitanAndCarrefour':'קרפור מרקט','ShukAhir':'שוק העיר','Keshet':'קשת טעמים'}
+links={'RamiLevy':'https://url.retail.publishedprices.co.il/login','Yohananof':'https://url.publishedprices.co.il/login','Osherad':'https://url.publishedprices.co.il/login','Shufersal':'https://prices.shufersal.co.il/','YaynotBitanAndCarrefour':'https://prices.carrefour.co.il/','ShukAhir':'http://shuk-hayir.binaprojects.com/Main.aspx','Keshet':'https://url.publishedprices.co.il/login'}
 citycodes={'4000':'חיפה','2500':'נשר','7600':'עכו','9100':'נהריה','1139':'כרמיאל','8000':'צפת','6700':'טבריה','7700':'עפולה','9200':'בית שאן','1061':'נצרת','8800':'שפרעם','874':'מגדל העמק','240':'יקנעם','6500':'חדרה','9300':'זכרון יעקב','7800':'פרדס חנה-כרכור','1020':'אור עקיבא','9500':'קרית ביאליק','9600':'קרית ים','6800':'קרית אתא','8200':'קרית מוצקין','2800':'קרית שמונה'}
 def tx(e,n):
  r=e.xpath('./*[local-name()="'+n+'"]');return (r[0].text or '').strip() if r else ''
@@ -33,14 +33,14 @@ def promos(p):
  out={};now=datetime.now().replace(tzinfo=None)
  if not p:return out
  for e in etree.parse(str(p)).xpath('.//*[local-name()="Promotion"]'):
-  try:s=datetime.fromisoformat(tx(e,'PromotionStartDateTime'));z=datetime.fromisoformat(tx(e,'PromotionEndDateTime'))
+  try:s=datetime.fromisoformat(tx(e,'PromotionStartDateTime') or tx(e,'PromotionStartDate'));z=datetime.fromisoformat(tx(e,'PromotionEndDateTime') or tx(e,'PromotionEndDate'))
   except:continue
-  if not s<=now<=z or tx(e,'ClubID') not in ('','0'):continue
+  if not s<=now<=z or (tx(e,'ClubID') or tx(e,'ClubId')) not in ('','0'):continue
   desc=tx(e,'PromotionDescription')
-  for it in e.xpath('.//*[local-name()="PromotionItem"]'):
+  for it in (e.xpath('.//*[local-name()="PromotionItem"]') or e.xpath('./*[local-name()="PromotionItems"]/*[local-name()="Item"]')):
    c=tx(it,'ItemCode')
-   if c not in bc or tx(it,'RewardType')=='2':continue
-   try:q=float(tx(it,'MinQty') or 1);total=float(tx(it,'DiscountedPrice'));unit=total/max(q,1)
+   if c not in bc or (tx(it,'RewardType') or tx(e,'RewardType'))=='2':continue
+   try:q=float(tx(it,'MinQty') or tx(e,'MinQty') or 1);total=float(tx(it,'DiscountedPrice') or tx(e,'DiscountedPrice'));unit=total/max(q,1)
    except:continue
    if unit>0 and (c not in out or unit<out[c]['unit']):out[c]={'unit':unit,'qty':q,'total':total,'desc':desc,'start':s.date().isoformat(),'end':z.date().isoformat()}
  return out
@@ -86,7 +86,7 @@ for o in overrides:
  if exact:
   if len(exact)!=1: raise SystemExit(f'ambiguous override branch: {city} {c} {row["chain"]} {row["store"]}')
   exact[0].update(row)
- elif row['chain'] in ('קשת טעמים','ויקטורי','מחסני השוק בשבילך','סופר ספיר'):
+ elif row['chain'] in ('קשת טעמים','ויקטורי','מחסני השוק בשבילך','סופר ספיר','קרפור מרקט','שוק העיר'):
   product['prices'].append(row)
  else:
   raise SystemExit(f'override branch disappeared: {city} {c} {row["chain"]} {row["store"]}')
