@@ -67,8 +67,9 @@ for a in areas.values():
 # only publish cities with at least 10 priced products; Afula keeps 21
 areas={c:a for c,a in areas.items() if sum(bool(x['prices']) for x in a)>=10}
 order=['חדרה','פרדס חנה-כרכור','זכרון יעקב','אור עקיבא','חיפה','נשר','קרית אתא','קרית ביאליק','קרית מוצקין','קרית ים','עכו','נהריה','כרמיאל','צפת','טבריה','עפולה','בית שאן','נצרת','שפרעם','מגדל העמק','יקנעם','קרית שמונה']
-areas={c:areas[c] for c in order if c in areas}
 required={'חדרה','פרדס חנה-כרכור','זכרון יעקב','אור עקיבא','חיפה','נשר','קרית ביאליק','קרית ים','עכו','נהריה','כרמיאל','טבריה','עפולה','מגדל העמק','קרית שמונה'}
+# Keep newly discovered cities offline until their branches are CHP-exact verified.
+areas={c:areas[c] for c in order if c in required and c in areas}
 if set(areas)!=required: raise SystemExit('feed validation failed: missing or extra required cities: '+str(required.symmetric_difference(areas)))
 minimum={'חדרה':50,'פרדס חנה-כרכור':12,'זכרון יעקב':12,'אור עקיבא':10,'חיפה':35,'נשר':25,'קרית ביאליק':18,'קרית ים':10,'עכו':25,'נהריה':25,'כרמיאל':12,'טבריה':45,'עפולה':80,'מגדל העמק':22,'קרית שמונה':24}
 for c,n in minimum.items():
