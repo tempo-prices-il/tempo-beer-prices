@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T09:27:15.319173+00:00",
+  "updatedAt": "2026-09-20T09:30:08.018777+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -9250,6 +9250,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "אושר עד",
+            "store": "קרית ביאליק",
+            "address": "הנס מולר 6, צור שלום, קרית ביאליק",
+            "price": "31.90",
+            "promoPrice": "27.50",
+            "promo": "שישיית בירה  גולדסטאר / מכבי  2 ב 55",
+            "promoStart": "2026-09-14",
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "55.00",
+            "source": "https://url.publishedprices.co.il/login"
+          },
+          {
             "chain": "רמי לוי",
             "store": "קיריון קרית ביאליק",
             "address": "דרך עכו 192, קרית ביאליק",
@@ -9286,6 +9299,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "אושר עד",
+            "store": "קרית ביאליק",
+            "address": "הנס מולר 6, צור שלום, קרית ביאליק",
+            "price": "7.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://url.publishedprices.co.il/login"
+          },
+          {
             "chain": "שופרסל",
             "store": "אקספרס קרית ביאליק",
             "address": "שדרות ירושלים 15, קרית ביאליק",
@@ -9308,6 +9334,19 @@
         "chpId": "7290027600007_7290008464468",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "אושר עד",
+            "store": "קרית ביאליק",
+            "address": "הנס מולר 6, צור שלום, קרית ביאליק",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "בירה  מכבי/גולדסטאר  3 ב 20",
+            "promoStart": "2026-08-16",
+            "promoEnd": "2026-10-03",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.publishedprices.co.il/login"
+          },
           {
             "chain": "רמי לוי",
             "store": "קיריון קרית ביאליק",
@@ -9344,6 +9383,19 @@
         "chpId": "7290027600007_7290008464130",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "אושר עד",
+            "store": "קרית ביאליק",
+            "address": "הנס מולר 6, צור שלום, קרית ביאליק",
+            "price": "29.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://url.publishedprices.co.il/login"
+          },
           {
             "chain": "רמי לוי",
             "store": "קיריון קרית ביאליק",
@@ -9417,6 +9469,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "אושר עד",
+            "store": "קרית ביאליק",
+            "address": "הנס מולר 6, צור שלום, קרית ביאליק",
+            "price": "32.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://url.publishedprices.co.il/login"
+          },
+          {
             "chain": "רמי לוי",
             "store": "קיריון קרית ביאליק",
             "address": "דרך עכו 192, קרית ביאליק",
@@ -9453,6 +9518,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "אושר עד",
+            "store": "קרית ביאליק",
+            "address": "הנס מולר 6, צור שלום, קרית ביאליק",
+            "price": "11.90",
+            "promoPrice": "8.50",
+            "promo": "בירה 500 מ ל  היינקן  2 ב 17",
+            "promoStart": "2026-08-12",
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "17.00",
+            "source": "https://url.publishedprices.co.il/login"
+          },
+          {
             "chain": "רמי לוי",
             "store": "קיריון קרית ביאליק",
             "address": "דרך עכו 192, קרית ביאליק",
@@ -9488,6 +9566,19 @@
         "chpId": "7290027600007_7290010237890",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "אושר עד",
+            "store": "קרית ביאליק",
+            "address": "הנס מולר 6, צור שלום, קרית ביאליק",
+            "price": "9.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://url.publishedprices.co.il/login"
+          },
           {
             "chain": "שופרסל",
             "store": "אקספרס קרית ביאליק",
@@ -9553,6 +9644,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "אושר עד",
+            "store": "קרית ביאליק",
+            "address": "הנס מולר 6, צור שלום, קרית ביאליק",
+            "price": "29.90",
+            "promoPrice": "27.50",
+            "promo": "שישיית בירה  גולדסטאר / מכבי  2 ב 55",
+            "promoStart": "2026-09-14",
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "55.00",
+            "source": "https://url.publishedprices.co.il/login"
+          },
+          {
             "chain": "רמי לוי",
             "store": "קיריון קרית ביאליק",
             "address": "דרך עכו 192, קרית ביאליק",
@@ -9575,6 +9679,19 @@
         "chpId": "7290027600007_7290008464222",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "אושר עד",
+            "store": "קרית ביאליק",
+            "address": "הנס מולר 6, צור שלום, קרית ביאליק",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "בירה  מכבי/גולדסטאר  3 ב 20",
+            "promoStart": "2026-08-16",
+            "promoEnd": "2026-10-03",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.publishedprices.co.il/login"
+          },
           {
             "chain": "רמי לוי",
             "store": "קיריון קרית ביאליק",
@@ -9606,7 +9723,21 @@
         "barcode": "7290005896415",
         "chpId": "temp_7290005896415",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
-        "prices": [],
+        "prices": [
+          {
+            "chain": "אושר עד",
+            "store": "קרית ביאליק",
+            "address": "הנס מולר 6, צור שלום, קרית ביאליק",
+            "price": "5.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://url.publishedprices.co.il/login"
+          }
+        ],
         "error": null
       },
       {
@@ -9624,7 +9755,21 @@
         "barcode": "7290011133375",
         "chpId": "7290027600007_7290011133375",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
-        "prices": [],
+        "prices": [
+          {
+            "chain": "אושר עד",
+            "store": "קרית ביאליק",
+            "address": "הנס מולר 6, צור שלום, קרית ביאליק",
+            "price": "27.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://url.publishedprices.co.il/login"
+          }
+        ],
         "error": null
       },
       {
@@ -9633,7 +9778,21 @@
         "barcode": "7290011132552",
         "chpId": "7290027600007_7290011132552",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
-        "prices": [],
+        "prices": [
+          {
+            "chain": "אושר עד",
+            "store": "קרית ביאליק",
+            "address": "הנס מולר 6, צור שלום, קרית ביאליק",
+            "price": "39.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://url.publishedprices.co.il/login"
+          }
+        ],
         "error": null
       },
       {
@@ -9661,6 +9820,19 @@
         "chpId": "",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "אושר עד",
+            "store": "קרית ביאליק",
+            "address": "הנס מולר 6, צור שלום, קרית ביאליק",
+            "price": "13.90",
+            "promoPrice": "11.00",
+            "promo": "משקה בקרדי  בריזר  2 ב 22",
+            "promoStart": "2026-08-16",
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "22.00",
+            "source": "https://url.publishedprices.co.il/login"
+          },
           {
             "chain": "רמי לוי",
             "store": "קיריון קרית ביאליק",
@@ -11232,6 +11404,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "31.90",
+            "promoPrice": "27.50",
+            "promo": "שישיית גולדסטאר 27.50 כולל",
+            "promoStart": "2026-09-14",
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "27.50",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "מחסני השוק בשבילך",
             "store": "נהריה",
             "address": "הזמיר 63, נהריה",
@@ -11295,6 +11480,19 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "7.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות36, נהריה",
@@ -11330,6 +11528,19 @@
         "chpId": "7290027600007_7290008464468",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "7.90",
+            "promoPrice": "6.50",
+            "promo": "גולדסטאר פחית 500 מ ל 2ב13 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "13.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
           {
             "chain": "מחסני השוק בשבילך",
             "store": "נהריה",
@@ -11381,6 +11592,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "34.90",
+            "promoPrice": "29.90",
+            "promo": "שישיית בירה גולדסטאר 29.90כולל",
+            "promoStart": "2026-09-14",
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "29.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "מחסני השוק בשבילך",
             "store": "נהריה",
             "address": "הזמיר 63, נהריה",
@@ -11430,6 +11654,19 @@
         "chpId": "7290027600007_7290008464024",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "8.90",
+            "promoPrice": "6.50",
+            "promo": "גולדסטאר פחית 500 מ ל 2ב13 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "13.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
           {
             "chain": "מחסני השוק בשבילך",
             "store": "נהריה",
@@ -11495,6 +11732,19 @@
             "sourceLabel": "מקור: CHP"
           },
           {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "34.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות36, נהריה",
@@ -11530,6 +11780,19 @@
         "chpId": "7290027600007_7290008464604",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "11.90",
+            "promoPrice": "8.33",
+            "promo": "פחית בירה 500 מ ל קרלסברג/היינ 3ב25 כולל",
+            "promoStart": "2026-05-10",
+            "promoEnd": "2026-10-03",
+            "promoQty": 3.0,
+            "promoTotal": "25.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
           {
             "chain": "קשת טעמים",
             "store": "נהריה",
@@ -11593,6 +11856,19 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "9.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות36, נהריה",
@@ -11628,6 +11904,19 @@
         "chpId": "7290027600007_7290008464703",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "33.90",
+            "promoPrice": "27.50",
+            "promo": "שישיית בירה מכבי 6*330 מ ל ב27.50 כולל",
+            "promoStart": "2026-05-31",
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "27.50",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
           {
             "chain": "קשת טעמים",
             "store": "נהריה",
@@ -11678,6 +11967,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "7.50",
+            "promoPrice": "6.50",
+            "promo": "בירה מכבי 500 מל 2ב13כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "13.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "קשת טעמים",
             "store": "נהריה",
             "address": "לוחמי הגטאות 9, נהריה",
@@ -11725,7 +12027,21 @@
         "barcode": "7290005896439",
         "chpId": "7290027600007_7290005896439",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
-        "prices": [],
+        "prices": [
+          {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "6.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://url.retail.publishedprices.co.il/login"
+          }
+        ],
         "error": null
       },
       {
@@ -11735,6 +12051,19 @@
         "chpId": "7290027600007_7290008464697",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "35.90",
+            "promoPrice": "27.50",
+            "promo": "שישיית בירה מכבי 6*330 מ ל ב27.50 כולל",
+            "promoStart": "2026-05-31",
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "27.50",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
           {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
@@ -11771,6 +12100,19 @@
         "chpId": "7290027600007_7290008464222",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "7.90",
+            "promoPrice": "6.50",
+            "promo": "בירה מכבי 500 מל 2ב13כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "13.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
           {
             "chain": "מחסני השוק בשבילך",
             "store": "נהריה",
@@ -11821,6 +12163,19 @@
         "chpId": "temp_7290005896453",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "7.50",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
           {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
@@ -11882,6 +12237,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "5.90",
+            "promoPrice": "5.30",
+            "promo": "בירה 500 מ ל איגל3ב15.90 כולל",
+            "promoStart": "2026-01-04",
+            "promoEnd": "2026-12-31",
+            "promoQty": 3.0,
+            "promoTotal": "15.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "מחסני השוק בשבילך",
             "store": "נהריה",
             "address": "הזמיר 63, נהריה",
@@ -11931,6 +12299,19 @@
         "chpId": "7290027600007_7290011133375",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "28.90",
+            "promoPrice": "27.90",
+            "promo": "בירה שנדי 6*330מ ל ב27.90 כולל",
+            "promoStart": "2026-08-16",
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "27.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
           {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
@@ -12014,6 +12395,19 @@
             "promoEnd": "2026-10-31",
             "promoQty": 2.0,
             "promoTotal": "19.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "11.50",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
