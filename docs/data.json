@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T09:32:06.030340+00:00",
+  "updatedAt": "2026-09-24T09:32:48.042521+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -25,6 +25,19 @@
             "promoTotal": "63.00",
             "source": "http://supersapir.binaprojects.com/",
             "sourceLabel": "מקור: CHP"
+          },
+          {
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט  נאות חן חדרה (2470)",
+            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
+            "price": "38.30",
+            "promoPrice": "25.90",
+            "promo": "גולדסטאר ח פ בקבוק 6*330 מ ל",
+            "promoStart": "2026-09-23",
+            "promoEnd": "2026-10-02",
+            "promoQty": 1.0,
+            "promoTotal": "25.90",
+            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "אושר עד",
@@ -173,19 +186,6 @@
             "promoTotal": null,
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "38.30",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
           }
         ],
         "error": null
@@ -1937,6 +1937,19 @@
             "sourceLabel": "מקור: CHP"
           },
           {
+            "chain": "שוק העיר",
+            "store": "חדרה",
+            "address": "רח' היוצרים , ONE מתחם 1, חדרה",
+            "price": "8.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "http://shuk-hayir.binaprojects.com/Main.aspx"
+          },
+          {
             "chain": "קרפור מרקט",
             "store": "בית אליעזר",
             "address": "חדרה, חדרה",
@@ -3380,12 +3393,12 @@
             "store": "קרפור סיטי  נוף זכרון (2960)",
             "address": ".10 חברה חשבונאית, זכרון יעקב",
             "price": "44.90",
-            "promoPrice": "33.50",
-            "promo": "בירה מכבי/גולדסטאר ח פ 330 בקבוק שישייה",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
-            "promoQty": 2.0,
-            "promoTotal": "67.00",
+            "promoPrice": "27.90",
+            "promo": "גולדסטאר ח פ בקבוק 6*330 מ ל",
+            "promoStart": "2026-09-23",
+            "promoEnd": "2026-10-02",
+            "promoQty": 1.0,
+            "promoTotal": "27.90",
             "source": "https://prices.carrefour.co.il/"
           },
           {
@@ -3864,7 +3877,7 @@
             "address": ".10 חברה חשבונאית, זכרון יעקב",
             "price": "39.70",
             "promoPrice": "33.50",
-            "promo": "בירה מכבי/גולדסטאר ח פ 330 בקבוק שישייה",
+            "promo": "בירה מכבי  330 בקבוק שישייה",
             "promoStart": "2026-09-09",
             "promoEnd": "2026-09-30",
             "promoQty": 2.0,
@@ -4011,7 +4024,7 @@
             "address": ".10 חברה חשבונאית, זכרון יעקב",
             "price": "39.90",
             "promoPrice": "33.50",
-            "promo": "בירה מכבי/גולדסטאר ח פ 330 בקבוק שישייה",
+            "promo": "בירה מכבי  330 בקבוק שישייה",
             "promoStart": "2026-09-09",
             "promoEnd": "2026-09-30",
             "promoQty": 2.0,
@@ -4807,6 +4820,32 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
+            "address": "134 שדרות הנשיא, חיפה",
+            "price": "40.30",
+            "promoPrice": "24.90",
+            "promo": "גולדסטאר ח פ בקבוק 6*330 מ ל",
+            "promoStart": "2026-09-23",
+            "promoEnd": "2026-10-02",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
+            "source": "https://prices.carrefour.co.il/"
+          },
+          {
+            "chain": "קרפור מרקט",
+            "store": "שוק מהדרין הרצל חיפה (3610)",
+            "address": "הרצל 97, חיפה",
+            "price": "38.30",
+            "promoPrice": "25.90",
+            "promo": "גולדסטאר ח פ בקבוק 6*330 מ ל",
+            "promoStart": "2026-09-23",
+            "promoEnd": "2026-10-02",
+            "promoQty": 1.0,
+            "promoTotal": "25.90",
+            "source": "https://prices.carrefour.co.il/"
+          },
+          {
             "chain": "אושר עד",
             "store": "חיפה",
             "address": "דרך בר יהודה 31, חיפה",
@@ -4848,28 +4887,15 @@
           },
           {
             "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "40.30",
-            "promoPrice": "32.50",
-            "promo": "בירה מכבי/גולדסטאר ח פ 330 בקבוק שישייה",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
-            "promoQty": 2.0,
-            "promoTotal": "65.00",
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
-            "chain": "קרפור מרקט",
             "store": "קרפור כרמליה (2040)",
             "address": "אלכסנדר ינאי 3  חיפה, חיפה",
             "price": "44.90",
-            "promoPrice": "33.50",
-            "promo": "בירה מכבי/גולדסטאר ח פ 330 בקבוק שישייה",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
-            "promoQty": 2.0,
-            "promoTotal": "67.00",
+            "promoPrice": "27.90",
+            "promo": "גולדסטאר ח פ בקבוק 6*330 מ ל",
+            "promoStart": "2026-09-23",
+            "promoEnd": "2026-10-02",
+            "promoQty": 1.0,
+            "promoTotal": "27.90",
             "source": "https://prices.carrefour.co.il/"
           },
           {
@@ -4877,12 +4903,12 @@
             "store": "קרפור סיטי  גרינברג חיפה",
             "address": "20 א.צ גרינברג, חיפה",
             "price": "44.90",
-            "promoPrice": "33.50",
-            "promo": "בירה מכבי/גולדסטאר ח פ 330 בקבוק שישייה",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
-            "promoQty": 2.0,
-            "promoTotal": "67.00",
+            "promoPrice": "27.90",
+            "promo": "גולדסטאר ח פ בקבוק 6*330 מ ל",
+            "promoStart": "2026-09-23",
+            "promoEnd": "2026-10-02",
+            "promoQty": 1.0,
+            "promoTotal": "27.90",
             "source": "https://prices.carrefour.co.il/"
           },
           {
@@ -4923,19 +4949,6 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://prices.shufersal.co.il/"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "שוק מהדרין הרצל חיפה (3610)",
-            "address": "הרצל 97, חיפה",
-            "price": "38.30",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "שופרסל",
@@ -6481,7 +6494,7 @@
             "address": "134 שדרות הנשיא, חיפה",
             "price": "37.30",
             "promoPrice": "32.50",
-            "promo": "בירה מכבי/גולדסטאר ח פ 330 בקבוק שישייה",
+            "promo": "בירה מכבי  330 בקבוק שישייה",
             "promoStart": "2026-09-09",
             "promoEnd": "2026-09-30",
             "promoQty": 2.0,
@@ -6494,7 +6507,7 @@
             "address": "20 א.צ גרינברג, חיפה",
             "price": "39.70",
             "promoPrice": "33.50",
-            "promo": "בירה מכבי/גולדסטאר ח פ 330 בקבוק שישייה",
+            "promo": "בירה מכבי  330 בקבוק שישייה",
             "promoStart": "2026-09-09",
             "promoEnd": "2026-09-30",
             "promoQty": 2.0,
@@ -6954,7 +6967,7 @@
             "address": "134 שדרות הנשיא, חיפה",
             "price": "39.30",
             "promoPrice": "32.50",
-            "promo": "בירה מכבי/גולדסטאר ח פ 330 בקבוק שישייה",
+            "promo": "בירה מכבי  330 בקבוק שישייה",
             "promoStart": "2026-09-09",
             "promoEnd": "2026-09-30",
             "promoQty": 2.0,
@@ -16256,6 +16269,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט מגדל העמק (2730)",
+            "address": "ניצנים 39, מגדל העמק",
+            "price": "38.30",
+            "promoPrice": "24.90",
+            "promo": "גולדסטאר ח פ בקבוק 6*330 מ ל",
+            "promoStart": "2026-09-23",
+            "promoEnd": "2026-10-02",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
+            "source": "https://prices.carrefour.co.il/"
+          },
+          {
             "chain": "אושר עד",
             "store": "מגדל העמק",
             "address": "האיצטדיון 11, מגדל העמק",
@@ -16280,19 +16306,6 @@
             "promoQty": 2.0,
             "promoTotal": "55.00",
             "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט מגדל העמק (2730)",
-            "address": "ניצנים 39, מגדל העמק",
-            "price": "38.30",
-            "promoPrice": "32.50",
-            "promo": "בירה מכבי/גולדסטאר ח פ 330 בקבוק שישייה",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
-            "promoQty": 2.0,
-            "promoTotal": "65.00",
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "שופרסל",
@@ -16848,7 +16861,7 @@
             "address": "ניצנים 39, מגדל העמק",
             "price": "36.90",
             "promoPrice": "32.50",
-            "promo": "בירה מכבי/גולדסטאר ח פ 330 בקבוק שישייה",
+            "promo": "בירה מכבי  330 בקבוק שישייה",
             "promoStart": "2026-09-09",
             "promoEnd": "2026-09-30",
             "promoQty": 2.0,
@@ -17021,7 +17034,7 @@
             "address": "ניצנים 39, מגדל העמק",
             "price": "38.70",
             "promoPrice": "32.50",
-            "promo": "בירה מכבי/גולדסטאר ח פ 330 בקבוק שישייה",
+            "promo": "בירה מכבי  330 בקבוק שישייה",
             "promoStart": "2026-09-09",
             "promoEnd": "2026-09-30",
             "promoQty": 2.0,
