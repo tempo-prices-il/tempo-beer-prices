@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T09:32:48.042521+00:00",
+  "updatedAt": "2026-09-25T09:30:11.984022+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -25,6 +25,19 @@
             "promoTotal": "63.00",
             "source": "http://supersapir.binaprojects.com/",
             "sourceLabel": "מקור: CHP"
+          },
+          {
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט בית אליעזר (3020)",
+            "address": "חדרה, חדרה",
+            "price": "44.90",
+            "promoPrice": "24.90",
+            "promo": "גולדסטאר ח פ בקבוק 6*330 מ ל",
+            "promoStart": "2026-09-23",
+            "promoEnd": "2026-10-02",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
+            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "קרפור מרקט",
@@ -303,6 +316,19 @@
             "promoTotal": null,
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
+          },
+          {
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט בית אליעזר (3020)",
+            "address": "חדרה, חדרה",
+            "price": "9.30",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.carrefour.co.il/"
           }
         ],
         "error": null
@@ -460,6 +486,19 @@
             "promoTotal": null,
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
+          },
+          {
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט בית אליעזר (3020)",
+            "address": "חדרה, חדרה",
+            "price": "10.40",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.carrefour.co.il/"
           }
         ],
         "error": null
@@ -528,6 +567,19 @@
             "store": "קרפור מרקט  נאות חן חדרה (2470)",
             "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
             "price": "40.30",
+            "promoPrice": "31.00",
+            "promo": "גולדסטאר לא מסונן //  rostBlackBatchWild",
+            "promoStart": "2026-09-17",
+            "promoEnd": "2026-10-02",
+            "promoQty": 1.0,
+            "promoTotal": "31.00",
+            "source": "https://prices.carrefour.co.il/"
+          },
+          {
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט בית אליעזר (3020)",
+            "address": "חדרה, חדרה",
+            "price": "48.90",
             "promoPrice": "31.00",
             "promo": "גולדסטאר לא מסונן //  rostBlackBatchWild",
             "promoStart": "2026-09-17",
@@ -708,6 +760,19 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
+            "chain": "שוק העיר",
+            "store": "חדרה",
+            "address": "רח' היוצרים , ONE מתחם 1, חדרה",
+            "price": "9.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "http://shuk-hayir.binaprojects.com/Main.aspx"
+          },
+          {
             "chain": "קרפור מרקט",
             "store": "נאות חן חדרה",
             "address": "הלל יפה 5, חדרה",
@@ -760,6 +825,19 @@
             "promoTotal": null,
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
+          },
+          {
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט בית אליעזר (3020)",
+            "address": "חדרה, חדרה",
+            "price": "11.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.carrefour.co.il/"
           }
         ],
         "error": null
@@ -883,6 +961,19 @@
             "store": "קרפור מרקט  נאות חן חדרה (2470)",
             "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
             "price": "40.30",
+            "promoPrice": "35.90",
+            "promo": "בירה הייניקן בקבוק ח פ 6*330מ ל",
+            "promoStart": "2026-09-17",
+            "promoEnd": "2026-10-02",
+            "promoQty": 1.0,
+            "promoTotal": "35.90",
+            "source": "https://prices.carrefour.co.il/"
+          },
+          {
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט בית אליעזר (3020)",
+            "address": "חדרה, חדרה",
+            "price": "48.90",
             "promoPrice": "35.90",
             "promo": "בירה הייניקן בקבוק ח פ 6*330מ ל",
             "promoStart": "2026-09-17",
@@ -1074,6 +1165,19 @@
             "promoTotal": null,
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
+          },
+          {
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט בית אליעזר (3020)",
+            "address": "חדרה, חדרה",
+            "price": "14.20",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.carrefour.co.il/"
           }
         ],
         "error": null
@@ -1193,6 +1297,19 @@
             "source": "https://prices.shufersal.co.il/"
           },
           {
+            "chain": "שוק העיר",
+            "store": "חדרה",
+            "address": "רח' היוצרים , ONE מתחם 1, חדרה",
+            "price": "10.00",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "http://shuk-hayir.binaprojects.com/Main.aspx"
+          },
+          {
             "chain": "קרפור מרקט",
             "store": "בית אליעזר",
             "address": "חדרה, חדרה",
@@ -1205,6 +1322,19 @@
             "promoTotal": null,
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
+          },
+          {
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט בית אליעזר (3020)",
+            "address": "חדרה, חדרה",
+            "price": "10.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.carrefour.co.il/"
           }
         ],
         "error": null
@@ -1255,6 +1385,19 @@
             "promoTotal": "65.00",
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
+          },
+          {
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט בית אליעזר (3020)",
+            "address": "חדרה, חדרה",
+            "price": "39.70",
+            "promoPrice": "32.50",
+            "promo": "בירה מכבי  330 בקבוק שישייה",
+            "promoStart": "2026-09-09",
+            "promoEnd": "2026-09-30",
+            "promoQty": 2.0,
+            "promoTotal": "65.00",
+            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "קרפור מרקט",
@@ -1401,6 +1544,19 @@
             "sourceLabel": "מקור: קובץ רשמי"
           },
           {
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט בית אליעזר (3020)",
+            "address": "חדרה, חדרה",
+            "price": "9.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.carrefour.co.il/"
+          },
+          {
             "chain": "שופרסל",
             "store": "יוניברס חדרה- ארבע האגודות",
             "address": "ארבע אגודות 1, חדרה",
@@ -1491,9 +1647,9 @@
             "sourceLabel": "מקור: קובץ רשמי"
           },
           {
-            "chain": "שוק העיר",
-            "store": "חדרה",
-            "address": "רח' היוצרים , ONE מתחם 1, חדרה",
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט בית אליעזר (3020)",
+            "address": "חדרה, חדרה",
             "price": "8.90",
             "promoPrice": null,
             "promo": null,
@@ -1501,7 +1657,7 @@
             "promoEnd": null,
             "promoQty": null,
             "promoTotal": null,
-            "source": "http://shuk-hayir.binaprojects.com/Main.aspx"
+            "source": "https://prices.carrefour.co.il/"
           }
         ],
         "error": null
@@ -1596,22 +1752,22 @@
             "sourceLabel": "מקור: קובץ רשמי"
           },
           {
-            "chain": "רמי לוי",
-            "store": "הנשיא חדרה",
-            "address": "הנשיא 2, חדרה",
-            "price": "37.50",
-            "promoPrice": "33.90",
-            "promo": "היינקן/גולדסטאר שישייה 33.90 כולל",
-            "promoStart": "2026-08-02",
-            "promoEnd": "2026-10-03",
-            "promoQty": 1.0,
-            "promoTotal": "33.90",
-            "source": "https://url.retail.publishedprices.co.il/login"
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט בית אליעזר (3020)",
+            "address": "חדרה, חדרה",
+            "price": "39.90",
+            "promoPrice": "32.50",
+            "promo": "בירה מכבי  330 בקבוק שישייה",
+            "promoStart": "2026-09-09",
+            "promoEnd": "2026-09-30",
+            "promoQty": 2.0,
+            "promoTotal": "65.00",
+            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "רמי לוי",
-            "store": "הרצל חדרה",
-            "address": "הרצל 27, חדרה",
+            "store": "הנשיא חדרה",
+            "address": "הנשיא 2, חדרה",
             "price": "37.50",
             "promoPrice": "33.90",
             "promo": "היינקן/גולדסטאר שישייה 33.90 כולל",
@@ -1820,6 +1976,19 @@
             "sourceLabel": "מקור: קובץ רשמי"
           },
           {
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט בית אליעזר (3020)",
+            "address": "חדרה, חדרה",
+            "price": "9.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.carrefour.co.il/"
+          },
+          {
             "chain": "שופרסל",
             "store": "יוניברס חדרה- ארבע האגודות",
             "address": "ארבע אגודות 1, חדרה",
@@ -1962,6 +2131,19 @@
             "promoTotal": null,
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
+          },
+          {
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט בית אליעזר (3020)",
+            "address": "חדרה, חדרה",
+            "price": "9.30",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.carrefour.co.il/"
           }
         ],
         "error": null
@@ -2130,6 +2312,19 @@
             "promoTotal": null,
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
+          },
+          {
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט בית אליעזר (3020)",
+            "address": "חדרה, חדרה",
+            "price": "8.30",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.carrefour.co.il/"
           }
         ],
         "error": null
@@ -2260,6 +2455,19 @@
             "promoTotal": null,
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
+          },
+          {
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט בית אליעזר (3020)",
+            "address": "חדרה, חדרה",
+            "price": "42.70",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.carrefour.co.il/"
           }
         ],
         "error": null
@@ -2501,6 +2709,19 @@
             "promoTotal": "24.30",
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
+          },
+          {
+            "chain": "קרפור מרקט",
+            "store": "קרפור מרקט בית אליעזר (3020)",
+            "address": "חדרה, חדרה",
+            "price": "17.90",
+            "promoPrice": "12.15",
+            "promo": "בקרדי בריזר 275 מ ל",
+            "promoStart": "2026-09-09",
+            "promoEnd": "2026-09-30",
+            "promoQty": 2.0,
+            "promoTotal": "24.30",
+            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "רמי לוי",
@@ -4633,7 +4854,21 @@
         "barcode": "7290005896439",
         "chpId": "7290027600007_7290005896439",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
-        "prices": [],
+        "prices": [
+          {
+            "chain": "רמי לוי",
+            "store": "אור עקיבא",
+            "address": "הכרמל 1, אור עקיבא",
+            "price": "6.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://url.retail.publishedprices.co.il/login"
+          }
+        ],
         "error": null
       },
       {
@@ -11379,7 +11614,7 @@
           },
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "35.90",
             "promoPrice": null,
@@ -11441,7 +11676,7 @@
           },
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "8.00",
             "promoPrice": null,
@@ -11504,7 +11739,7 @@
           },
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "9.90",
             "promoPrice": null,
@@ -11567,7 +11802,7 @@
           },
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "39.90",
             "promoPrice": null,
@@ -11630,7 +11865,7 @@
           },
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "10.90",
             "promoPrice": null,
@@ -11693,7 +11928,7 @@
           },
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "39.90",
             "promoPrice": null,
@@ -11755,7 +11990,7 @@
           },
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "12.90",
             "promoPrice": null,
@@ -11817,7 +12052,7 @@
           },
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "10.00",
             "promoPrice": null,
@@ -11879,7 +12114,7 @@
           },
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "38.90",
             "promoPrice": null,
@@ -11941,7 +12176,7 @@
           },
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "9.90",
             "promoPrice": null,
@@ -12013,7 +12248,7 @@
           },
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "39.90",
             "promoPrice": null,
@@ -12076,7 +12311,7 @@
           },
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "9.90",
             "promoPrice": null,
@@ -12125,7 +12360,7 @@
           },
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "8.00",
             "promoPrice": null,
@@ -12212,7 +12447,7 @@
           },
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "7.00",
             "promoPrice": null,
@@ -12261,7 +12496,7 @@
           },
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "37.90",
             "promoPrice": null,
@@ -12297,7 +12532,7 @@
         "prices": [
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "44.00",
             "promoPrice": null,
@@ -12359,7 +12594,7 @@
           },
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "12.90",
             "promoPrice": null,
@@ -12395,7 +12630,7 @@
         "prices": [
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "15.90",
             "promoPrice": null,
@@ -12431,7 +12666,7 @@
         "prices": [
           {
             "chain": "שופרסל",
-            "store": "יוניברס נהריה- לוחמי הגטאות",
+            "store": "יוניברסנהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
             "price": "16.90",
             "promoPrice": null,
