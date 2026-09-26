@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T09:30:11.984022+00:00",
+  "updatedAt": "2026-09-26T09:26:51.671460+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -37,19 +37,6 @@
             "promoEnd": "2026-10-02",
             "promoQty": 1.0,
             "promoTotal": "24.90",
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "38.30",
-            "promoPrice": "25.90",
-            "promo": "גולדסטאר ח פ בקבוק 6*330 מ ל",
-            "promoStart": "2026-09-23",
-            "promoEnd": "2026-10-02",
-            "promoQty": 1.0,
-            "promoTotal": "25.90",
             "source": "https://prices.carrefour.co.il/"
           },
           {
@@ -292,19 +279,6 @@
           },
           {
             "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "8.60",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
-            "chain": "קרפור מרקט",
             "store": "בית אליעזר",
             "address": "חדרה, חדרה",
             "price": "9.30",
@@ -434,6 +408,19 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
+            "chain": "שוק העיר",
+            "store": "חדרה",
+            "address": "רח' היוצרים , ONE מתחם 1, חדרה",
+            "price": "8.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "http://shuk-hayir.binaprojects.com/Main.aspx"
+          },
+          {
             "chain": "קרפור מרקט",
             "store": "נאות חן חדרה",
             "address": "הלל יפה 5, חדרה",
@@ -446,19 +433,6 @@
             "promoTotal": null,
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "9.20",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "שופרסל",
@@ -561,19 +535,6 @@
             "promoQty": 2.0,
             "promoTotal": "60.00",
             "source": "http://shuk-hayir.binaprojects.com/Main.aspx"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "40.30",
-            "promoPrice": "31.00",
-            "promo": "גולדסטאר לא מסונן //  rostBlackBatchWild",
-            "promoStart": "2026-09-17",
-            "promoEnd": "2026-10-02",
-            "promoQty": 1.0,
-            "promoTotal": "31.00",
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "קרפור מרקט",
@@ -787,19 +748,6 @@
             "sourceLabel": "מקור: קובץ רשמי"
           },
           {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "10.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
             "chain": "שופרסל",
             "store": "יוניברס חדרה- ארבע האגודות",
             "address": "ארבע אגודות 1, חדרה",
@@ -958,19 +906,6 @@
           },
           {
             "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "40.30",
-            "promoPrice": "35.90",
-            "promo": "בירה הייניקן בקבוק ח פ 6*330מ ל",
-            "promoStart": "2026-09-17",
-            "promoEnd": "2026-10-02",
-            "promoQty": 1.0,
-            "promoTotal": "35.90",
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
-            "chain": "קרפור מרקט",
             "store": "קרפור מרקט בית אליעזר (3020)",
             "address": "חדרה, חדרה",
             "price": "48.90",
@@ -1112,19 +1047,6 @@
             "promoTotal": null,
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "13.10",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "רמי לוי",
@@ -1271,19 +1193,6 @@
             "sourceLabel": "מקור: קובץ רשמי"
           },
           {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "10.00",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
             "chain": "שופרסל",
             "store": "יוניברס חדרה- ארבע האגודות",
             "address": "ארבע אגודות 1, חדרה",
@@ -1414,19 +1323,6 @@
             "sourceLabel": "מקור: קובץ רשמי"
           },
           {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "36.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
             "chain": "שופרסל",
             "store": "יוניברס חדרה- ארבע האגודות",
             "address": "ארבע אגודות 1, חדרה",
@@ -1502,19 +1398,6 @@
             "promoTotal": null,
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "8.20",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "רמי לוי",
@@ -1618,19 +1501,6 @@
             "promoTotal": null,
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "8.00",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "קרפור מרקט",
@@ -1792,19 +1662,6 @@
             "sourceLabel": "מקור: קובץ רשמי"
           },
           {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "38.40",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
             "chain": "שופרסל",
             "store": "יוניברס חדרה- ארבע האגודות",
             "address": "ארבע אגודות 1, חדרה",
@@ -1921,19 +1778,6 @@
             "promoTotal": null,
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "8.00",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "רמי לוי",
@@ -2066,19 +1910,6 @@
             "sourceLabel": "מקור: קובץ רשמי"
           },
           {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "8.00",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
             "chain": "שופרסל",
             "store": "יוניברס חדרה- ארבע האגודות",
             "address": "ארבע אגודות 1, חדרה",
@@ -2209,19 +2040,6 @@
             "promoTotal": null,
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "7.80",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
           }
         ],
         "error": null
@@ -2272,19 +2090,6 @@
             "promoTotal": null,
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "7.00",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "שופרסל",
@@ -2415,19 +2220,6 @@
             "promoTotal": null,
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "36.20",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "שופרסל",
@@ -2604,19 +2396,6 @@
             "promoQty": 2.0,
             "promoTotal": "25.00",
             "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  נאות חן חדרה (2470)",
-            "address": "הלל יפה 5 פינת סמילנסקי, חדרה",
-            "price": "17.90",
-            "promoPrice": "13.00",
-            "promo": "שפירא פייל אייל  330  בקבוק",
-            "promoStart": "2026-09-17",
-            "promoEnd": "2026-10-02",
-            "promoQty": 2.0,
-            "promoTotal": "26.00",
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "שופרסל",
@@ -5056,19 +4835,6 @@
         "prices": [
           {
             "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "40.30",
-            "promoPrice": "24.90",
-            "promo": "גולדסטאר ח פ בקבוק 6*330 מ ל",
-            "promoStart": "2026-09-23",
-            "promoEnd": "2026-10-02",
-            "promoQty": 1.0,
-            "promoTotal": "24.90",
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
-            "chain": "קרפור מרקט",
             "store": "שוק מהדרין הרצל חיפה (3610)",
             "address": "הרצל 97, חיפה",
             "price": "38.30",
@@ -5417,19 +5183,6 @@
             "source": "https://prices.carrefour.co.il/"
           },
           {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "8.70",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
             "chain": "שופרסל",
             "store": "אקספרס חיפה- ראול ולנברג",
             "address": "ראול וולנברג 9, חיפה",
@@ -5543,19 +5296,6 @@
             "promoTotal": "20.00",
             "source": "https://chp.co.il/",
             "sourceLabel": "מקור: CHP"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "9.20",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "קרפור מרקט",
@@ -5722,19 +5462,6 @@
             "promoQty": 1.0,
             "promoTotal": "29.90",
             "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "40.30",
-            "promoPrice": "31.00",
-            "promo": "גולדסטאר לא מסונן //  rostBlackBatchWild",
-            "promoStart": "2026-09-17",
-            "promoEnd": "2026-10-02",
-            "promoQty": 1.0,
-            "promoTotal": "31.00",
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "קרפור מרקט",
@@ -5930,19 +5657,6 @@
           },
           {
             "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "10.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
-            "chain": "קרפור מרקט",
             "store": "שוק מהדרין הרצל חיפה (3610)",
             "address": "הרצל 97, חיפה",
             "price": "10.90",
@@ -6093,19 +5807,6 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "42.30",
-            "promoPrice": "35.90",
-            "promo": "בירה הייניקן בקבוק ח פ 6*330מ ל",
-            "promoStart": "2026-09-17",
-            "promoEnd": "2026-10-02",
-            "promoQty": 1.0,
-            "promoTotal": "35.90",
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "קרפור מרקט",
@@ -6418,19 +6119,6 @@
             "source": "https://prices.carrefour.co.il/"
           },
           {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "13.20",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
             "chain": "שופרסל",
             "store": "שלי חיפה- אורן",
             "address": "רח.אורן 25 רוממה, חיפה",
@@ -6637,19 +6325,6 @@
           },
           {
             "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "10.10",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
-            "chain": "קרפור מרקט",
             "store": "קרפור כרמליה (2040)",
             "address": "אלכסנדר ינאי 3  חיפה, חיפה",
             "price": "10.90",
@@ -6723,19 +6398,6 @@
         "chpId": "7290027600007_7290008464703",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "37.30",
-            "promoPrice": "32.50",
-            "promo": "בירה מכבי  330 בקבוק שישייה",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
-            "promoQty": 2.0,
-            "promoTotal": "65.00",
-            "source": "https://prices.carrefour.co.il/"
-          },
           {
             "chain": "קרפור מרקט",
             "store": "קרפור סיטי  גרינברג חיפה",
@@ -6894,19 +6556,6 @@
             "store": "שוק מהדרין הרצל חיפה (3610)",
             "address": "הרצל 97, חיפה",
             "price": "8.20",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "8.30",
             "promoPrice": null,
             "promo": null,
             "promoStart": null,
@@ -7109,19 +6758,6 @@
           },
           {
             "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "8.10",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
-            "chain": "קרפור מרקט",
             "store": "קרפור כרמליה (2040)",
             "address": "אלכסנדר ינאי 3  חיפה, חיפה",
             "price": "8.90",
@@ -7195,19 +6831,6 @@
             "promoQty": 1.0,
             "promoTotal": "27.50",
             "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "39.30",
-            "promoPrice": "32.50",
-            "promo": "בירה מכבי  330 בקבוק שישייה",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
-            "promoQty": 2.0,
-            "promoTotal": "65.00",
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "שופרסל",
@@ -7394,19 +7017,6 @@
             "store": "שוק מהדרין הרצל חיפה (3610)",
             "address": "הרצל 97, חיפה",
             "price": "8.00",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "8.20",
             "promoPrice": null,
             "promo": null,
             "promoStart": null,
@@ -7686,19 +7296,6 @@
             "source": "https://prices.shufersal.co.il/"
           },
           {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "8.10",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
             "chain": "שופרסל",
             "store": "אקספרס חיפה- ראול ולנברג",
             "address": "ראול וולנברג 9, חיפה",
@@ -7914,19 +7511,6 @@
             "source": "https://prices.shufersal.co.il/"
           },
           {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "7.10",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
             "chain": "שופרסל",
             "store": "שלי חיפה- אורן",
             "address": "רח.אורן 25 רוממה, חיפה",
@@ -8071,19 +7655,6 @@
             "store": "שוק מהדרין הרצל חיפה (3610)",
             "address": "הרצל 97, חיפה",
             "price": "36.20",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "37.30",
             "promoPrice": null,
             "promo": null,
             "promoStart": null,
@@ -8371,19 +7942,6 @@
         "prices": [
           {
             "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "17.90",
-            "promoPrice": "13.00",
-            "promo": "שפירא פייל אייל  330  בקבוק",
-            "promoStart": "2026-09-17",
-            "promoEnd": "2026-10-02",
-            "promoQty": 2.0,
-            "promoTotal": "26.00",
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
-            "chain": "קרפור מרקט",
             "store": "שוק מהדרין הרצל חיפה (3610)",
             "address": "הרצל 97, חיפה",
             "price": "17.90",
@@ -8508,19 +8066,6 @@
             "promoQty": 2.0,
             "promoTotal": "22.00",
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
-            "address": "134 שדרות הנשיא, חיפה",
-            "price": "14.90",
-            "promoPrice": "12.15",
-            "promo": "בקרדי בריזר 275 מ ל",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
-            "promoQty": 2.0,
-            "promoTotal": "24.30",
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "קרפור מרקט",
@@ -15450,19 +14995,6 @@
             "promoQty": 3.0,
             "promoTotal": "25.00",
             "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "יוחננוף",
-            "store": "עפולה",
-            "address": "קהילת ציון 30, עפולה",
-            "price": "9.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.publishedprices.co.il/login"
           },
           {
             "chain": "שופרסל",
