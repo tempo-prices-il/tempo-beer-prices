@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T09:27:37.757343+00:00",
+  "updatedAt": "2026-09-28T09:35:17.345784+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -40,6 +40,19 @@
             "source": "https://prices.carrefour.co.il/"
           },
           {
+            "chain": "רמי לוי",
+            "store": "חדרה",
+            "address": "השלום 1, חדרה",
+            "price": "31.90",
+            "promoPrice": "24.90",
+            "promo": "שישיית גולדסטאר ב24.90 מעל 75 מו2 כולל",
+            "promoStart": "2026-09-14",
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "אושר עד",
             "store": "חדרה",
             "address": "המסגר 22 אזה\"ת הצפוני, חדרה",
@@ -51,19 +64,6 @@
             "promoQty": 2.0,
             "promoTotal": "55.00",
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "31.90",
-            "promoPrice": "27.50",
-            "promo": "שישיית גולדסטאר 2ב55 כולל",
-            "promoStart": "2026-09-14",
-            "promoEnd": "2026-10-03",
-            "promoQty": 2.0,
-            "promoTotal": "55.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "רמי לוי",
@@ -249,6 +249,19 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "שוק העיר",
+            "store": "חדרה",
+            "address": "רח' היוצרים , ONE מתחם 1, חדרה",
+            "price": "7.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "http://shuk-hayir.binaprojects.com/Main.aspx"
           },
           {
             "chain": "שופרסל",
@@ -1648,6 +1661,19 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
+            "chain": "רמי לוי",
+            "store": "הרצל חדרה",
+            "address": "הרצל 27, חדרה",
+            "price": "37.50",
+            "promoPrice": "33.90",
+            "promo": "היינקן/גולדסטאר שישייה 33.90 כולל",
+            "promoStart": "2026-08-02",
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "33.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "קרפור מרקט",
             "store": "נאות חן חדרה",
             "address": "הלל יפה 5, חדרה",
@@ -2558,12 +2584,12 @@
             "store": "פרדס חנה ביג",
             "address": "תדהר 1, פרדס חנה-כרכור",
             "price": "31.90",
-            "promoPrice": "27.50",
-            "promo": "שישיית גולדסטאר 2ב55 כולל",
+            "promoPrice": "24.90",
+            "promo": "שישיית גולדסטאר ב24.90 מעל 75 מו2 כולל",
             "promoStart": "2026-09-14",
             "promoEnd": "2026-10-03",
-            "promoQty": 2.0,
-            "promoTotal": "55.00",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -4423,12 +4449,12 @@
             "store": "אור עקיבא",
             "address": "הכרמל 1, אור עקיבא",
             "price": "31.90",
-            "promoPrice": "27.50",
-            "promo": "שישיית גולדסטאר 2ב55 כולל",
+            "promoPrice": "24.90",
+            "promo": "שישיית גולדסטאר ב24.90 מעל 75 מו2 כולל",
             "promoStart": "2026-09-14",
             "promoEnd": "2026-10-03",
-            "promoQty": 2.0,
-            "promoTotal": "55.00",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           }
         ],
@@ -4847,6 +4873,32 @@
             "source": "https://prices.carrefour.co.il/"
           },
           {
+            "chain": "רמי לוי",
+            "store": "אדמרליטי",
+            "address": "חלוצי התעשיה 73, חיפה",
+            "price": "31.90",
+            "promoPrice": "24.90",
+            "promo": "שישיית גולדסטאר ב24.90 מעל 75 מו2 כולל",
+            "promoStart": "2026-09-14",
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "רמי לוי",
+            "store": "עזריאלי חיפה",
+            "address": "משה פלימן 4, חיפה",
+            "price": "31.90",
+            "promoPrice": "24.90",
+            "promo": "שישיית גולדסטאר ב24.90 מעל 75 מו2 כולל",
+            "promoStart": "2026-09-14",
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "קרפור מרקט",
             "store": "שוק מהדרין הרצל חיפה (3610)",
             "address": "הרצל 97, חיפה",
@@ -4872,32 +4924,6 @@
             "promoTotal": "55.00",
             "source": "https://chp.co.il/",
             "sourceLabel": "מקור: CHP"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "אדמרליטי",
-            "address": "חלוצי התעשיה 73, חיפה",
-            "price": "31.90",
-            "promoPrice": "27.50",
-            "promo": "שישיית גולדסטאר 2ב55 כולל",
-            "promoStart": "2026-09-14",
-            "promoEnd": "2026-10-03",
-            "promoQty": 2.0,
-            "promoTotal": "55.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "עזריאלי חיפה",
-            "address": "משה פלימן 4, חיפה",
-            "price": "31.90",
-            "promoPrice": "27.50",
-            "promo": "שישיית גולדסטאר 2ב55 כולל",
-            "promoStart": "2026-09-14",
-            "promoEnd": "2026-10-03",
-            "promoQty": 2.0,
-            "promoTotal": "55.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "קרפור מרקט",
@@ -8461,12 +8487,12 @@
             "store": "כנפי נשרים",
             "address": "כנפי נשרים 26, נשר",
             "price": "31.90",
-            "promoPrice": "27.50",
-            "promo": "שישיית גולדסטאר 2ב55 כולל",
+            "promoPrice": "24.90",
+            "promo": "שישיית גולדסטאר ב24.90 מעל 75 מו2 כולל",
             "promoStart": "2026-09-14",
             "promoEnd": "2026-10-03",
-            "promoQty": 2.0,
-            "promoTotal": "55.00",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -8474,12 +8500,12 @@
             "store": "נשר",
             "address": "דרך השלום 13, נשר",
             "price": "31.90",
-            "promoPrice": "27.50",
-            "promo": "שישיית גולדסטאר 2ב55 כולל",
+            "promoPrice": "24.90",
+            "promo": "שישיית גולדסטאר ב24.90 מעל 75 מו2 כולל",
             "promoStart": "2026-09-14",
             "promoEnd": "2026-10-03",
-            "promoQty": 2.0,
-            "promoTotal": "55.00",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -11356,12 +11382,12 @@
             "store": "נהריה",
             "address": "היוצרים א.ת צפוני, נהריה",
             "price": "31.90",
-            "promoPrice": "27.50",
-            "promo": "שישיית גולדסטאר 2ב55 כולל",
+            "promoPrice": "24.90",
+            "promo": "שישיית גולדסטאר ב24.90 מעל 75 מו2 כולל",
             "promoStart": "2026-09-14",
             "promoEnd": "2026-10-03",
-            "promoQty": 2.0,
-            "promoTotal": "55.00",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -14646,6 +14672,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "עפולה",
+            "address": "יהושוע  חנקין 14, עפולה",
+            "price": "31.90",
+            "promoPrice": "24.90",
+            "promo": "שישיית גולדסטאר ב24.90 מעל 75 מו2 כולל",
+            "promoStart": "2026-09-14",
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "אושר עד",
             "store": "עפולה",
             "address": "חיים לסקוב, עפולה",
@@ -14657,19 +14696,6 @@
             "promoQty": 2.0,
             "promoTotal": "55.00",
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "עפולה",
-            "address": "יהושוע  חנקין 14, עפולה",
-            "price": "31.90",
-            "promoPrice": "27.50",
-            "promo": "שישיית גולדסטאר 2ב55 כולל",
-            "promoStart": "2026-09-14",
-            "promoEnd": "2026-10-03",
-            "promoQty": 2.0,
-            "promoTotal": "55.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "שופרסל",
@@ -16270,6 +16296,19 @@
             "source": "https://prices.carrefour.co.il/"
           },
           {
+            "chain": "רמי לוי",
+            "store": "מגדל העמק",
+            "address": "כפר החורש, מגדל העמק",
+            "price": "31.90",
+            "promoPrice": "24.90",
+            "promo": "שישיית גולדסטאר ב24.90 מעל 75 מו2 כולל",
+            "promoStart": "2026-09-14",
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "אושר עד",
             "store": "מגדל העמק",
             "address": "האיצטדיון 11, מגדל העמק",
@@ -16281,19 +16320,6 @@
             "promoQty": 2.0,
             "promoTotal": "55.00",
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "מגדל העמק",
-            "address": "כפר החורש, מגדל העמק",
-            "price": "31.90",
-            "promoPrice": "27.50",
-            "promo": "שישיית גולדסטאר 2ב55 כולל",
-            "promoStart": "2026-09-14",
-            "promoEnd": "2026-10-03",
-            "promoQty": 2.0,
-            "promoTotal": "55.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "שופרסל",
@@ -17565,12 +17591,12 @@
             "store": "קרית שמונה",
             "address": "איזור תעשיה צפוני קרית שמונה, קרית שמונה",
             "price": "31.90",
-            "promoPrice": "27.50",
-            "promo": "שישיית גולדסטאר 2ב55 כולל",
+            "promoPrice": "24.90",
+            "promo": "שישיית גולדסטאר ב24.90 מעל 75 מו2 כולל",
             "promoStart": "2026-09-14",
             "promoEnd": "2026-10-03",
-            "promoQty": 2.0,
-            "promoTotal": "55.00",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
