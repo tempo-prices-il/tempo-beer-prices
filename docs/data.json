@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T09:35:17.345784+00:00",
+  "updatedAt": "2026-09-29T09:33:42.218484+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -3406,12 +3406,12 @@
             "store": "זכרון יעקב",
             "address": "קניון זכרון הנשיא 35, זכרון יעקב",
             "price": "31.90",
-            "promoPrice": "27.50",
-            "promo": "שישיית גולדסטאר 2ב55 כולל",
+            "promoPrice": "24.90",
+            "promo": "שישיית גולדסטאר ב24.90 מעל 75 מו2 כולל",
             "promoStart": "2026-09-14",
             "promoEnd": "2026-10-03",
-            "promoQty": 2.0,
-            "promoTotal": "55.00",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -9250,7 +9250,21 @@
         "barcode": "5010677554398",
         "chpId": "",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
-        "prices": [],
+        "prices": [
+          {
+            "chain": "שופרסל",
+            "store": "אקספרס-נשר מרגנית",
+            "address": "נשר המרגנית 1, נשר",
+            "price": "17.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.shufersal.co.il/"
+          }
+        ],
         "error": null
       }
     ],
@@ -9274,6 +9288,19 @@
             "promoQty": 2.0,
             "promoTotal": "55.00",
             "source": "https://url.publishedprices.co.il/login"
+          },
+          {
+            "chain": "רמי לוי",
+            "store": "קיריון קרית ביאליק",
+            "address": "דרך עכו 192, קרית ביאליק",
+            "price": "36.40",
+            "promoPrice": "33.90",
+            "promo": "היינקן/גולדסטאר שישייה 33.90 כולל",
+            "promoStart": "2026-08-02",
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "33.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "שופרסל",
@@ -12499,12 +12526,12 @@
             "store": "כרמיאל",
             "address": "היוצרים 7, כרמיאל",
             "price": "31.90",
-            "promoPrice": "27.50",
-            "promo": "שישיית גולדסטאר 2ב55 כולל",
+            "promoPrice": "24.90",
+            "promo": "שישיית גולדסטאר ב24.90 מעל 75 מו2 כולל",
             "promoStart": "2026-09-14",
             "promoEnd": "2026-10-03",
-            "promoQty": 2.0,
-            "promoTotal": "55.00",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -13620,12 +13647,12 @@
             "store": "טבריה",
             "address": "המברג 1, טבריה",
             "price": "31.90",
-            "promoPrice": "27.50",
-            "promo": "שישיית גולדסטאר 2ב55 כולל",
+            "promoPrice": "24.90",
+            "promo": "שישיית גולדסטאר ב24.90 מעל 75 מו2 כולל",
             "promoStart": "2026-09-14",
             "promoEnd": "2026-10-03",
-            "promoQty": 2.0,
-            "promoTotal": "55.00",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -16143,6 +16170,19 @@
         "chpId": "temp_7290014056053",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "רמי לוי",
+            "store": "עפולה",
+            "address": "יהושוע  חנקין 14, עפולה",
+            "price": "14.40",
+            "promoPrice": "12.50",
+            "promo": "בירה 330 מ ל שפירא 2ב25 כולל",
+            "promoStart": "2026-09-22",
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "25.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
           {
             "chain": "שופרסל",
             "store": "יוניברס עפולה- יצחק רבין",
