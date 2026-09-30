@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T09:33:42.218484+00:00",
+  "updatedAt": "2026-09-30T09:35:01.470520+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -53,6 +53,19 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
+            "chain": "רמי לוי",
+            "store": "חדרה ויוה",
+            "address": "תרנ\"א 20, חדרה",
+            "price": "31.90",
+            "promoPrice": "24.90",
+            "promo": "שישיית גולדסטאר ב24.90 מעל 75 מו2 כולל",
+            "promoStart": "2026-09-14",
+            "promoEnd": "2026-10-03",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "אושר עד",
             "store": "חדרה",
             "address": "המסגר 22 אזה\"ת הצפוני, חדרה",
@@ -64,19 +77,6 @@
             "promoQty": 2.0,
             "promoTotal": "55.00",
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה ויוה",
-            "address": "תרנ\"א 20, חדרה",
-            "price": "31.90",
-            "promoPrice": "27.50",
-            "promo": "שישיית גולדסטאר 2ב55 כולל",
-            "promoStart": "2026-09-14",
-            "promoEnd": "2026-10-03",
-            "promoQty": 2.0,
-            "promoTotal": "55.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "קשת טעמים",
@@ -7772,6 +7772,19 @@
           },
           {
             "chain": "קרפור מרקט",
+            "store": "קרפור כרמליה (2040)",
+            "address": "אלכסנדר ינאי 3  חיפה, חיפה",
+            "price": "8.30",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.carrefour.co.il/"
+          },
+          {
+            "chain": "קרפור מרקט",
             "store": "קרפור סיטי  גרינברג חיפה",
             "address": "20 א.צ גרינברג, חיפה",
             "price": "8.30",
@@ -10268,12 +10281,12 @@
             "store": "עכו",
             "address": "בוליטמור 2 עין המפרץ, עכו",
             "price": "31.90",
-            "promoPrice": "27.50",
-            "promo": "שישיית גולדסטאר 2ב55 כולל",
+            "promoPrice": "24.90",
+            "promo": "שישיית גולדסטאר ב24.90 מעל 75 מו2 כולל",
             "promoStart": "2026-09-14",
             "promoEnd": "2026-10-03",
-            "promoQty": 2.0,
-            "promoTotal": "55.00",
+            "promoQty": 1.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -11343,6 +11356,19 @@
         "chpId": "temp_7290014056053",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "רמי לוי",
+            "store": "עכו",
+            "address": "בוליטמור 2 עין המפרץ, עכו",
+            "price": "14.40",
+            "promoPrice": "12.50",
+            "promo": "בירה 330 מ ל שפירא 2ב25 כולל",
+            "promoStart": "2026-09-22",
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "25.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
           {
             "chain": "שופרסל",
             "store": "יוניברס קריון- דרך עכו",
