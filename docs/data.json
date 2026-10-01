@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T09:35:01.470520+00:00",
+  "updatedAt": "2026-10-01T09:35:52.894277+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -12,6 +12,19 @@
         "chpId": "7290027600007_7290008464741",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "אושר עד",
+            "store": "חדרה",
+            "address": "המסגר 22 אזה\"ת הצפוני, חדרה",
+            "price": "24.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://url.publishedprices.co.il/login"
+          },
           {
             "chain": "סופר ספיר",
             "store": "חדרה סיטי",
@@ -64,19 +77,6 @@
             "promoQty": 1.0,
             "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "אושר עד",
-            "store": "חדרה",
-            "address": "המסגר 22 אזה\"ת הצפוני, חדרה",
-            "price": "32.90",
-            "promoPrice": "27.50",
-            "promo": "שישיית בירה  גולדסטאר / מכבי  2 ב 55",
-            "promoStart": "2026-09-14",
-            "promoEnd": "2026-10-03",
-            "promoQty": 2.0,
-            "promoTotal": "55.00",
-            "source": "https://url.publishedprices.co.il/login"
           },
           {
             "chain": "קשת טעמים",
@@ -734,19 +734,6 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
-            "chain": "שוק העיר",
-            "store": "חדרה",
-            "address": "רח' היוצרים , ONE מתחם 1, חדרה",
-            "price": "9.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "http://shuk-hayir.binaprojects.com/Main.aspx"
-          },
-          {
             "chain": "קרפור מרקט",
             "store": "נאות חן חדרה",
             "address": "הלל יפה 5, חדרה",
@@ -1315,8 +1302,8 @@
             "price": "39.70",
             "promoPrice": "32.50",
             "promo": "בירה מכבי  330 בקבוק שישייה",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
+            "promoStart": "2026-10-01",
+            "promoEnd": "2026-10-02",
             "promoQty": 2.0,
             "promoTotal": "65.00",
             "source": "https://prices.carrefour.co.il/"
@@ -1641,8 +1628,8 @@
             "price": "39.90",
             "promoPrice": "32.50",
             "promo": "בירה מכבי  330 בקבוק שישייה",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
+            "promoStart": "2026-10-01",
+            "promoEnd": "2026-10-02",
             "promoQty": 2.0,
             "promoTotal": "65.00",
             "source": "https://prices.carrefour.co.il/"
@@ -2522,8 +2509,8 @@
             "price": "17.90",
             "promoPrice": "12.15",
             "promo": "בקרדי בריזר 275 מ ל",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
+            "promoStart": "2026-10-01",
+            "promoEnd": "2026-10-02",
             "promoQty": 2.0,
             "promoTotal": "24.30",
             "source": "https://prices.carrefour.co.il/"
@@ -3904,8 +3891,8 @@
             "price": "39.70",
             "promoPrice": "33.50",
             "promo": "בירה מכבי  330 בקבוק שישייה",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
+            "promoStart": "2026-10-01",
+            "promoEnd": "2026-10-02",
             "promoQty": 2.0,
             "promoTotal": "67.00",
             "source": "https://prices.carrefour.co.il/"
@@ -4051,8 +4038,8 @@
             "price": "39.90",
             "promoPrice": "33.50",
             "promo": "בירה מכבי  330 בקבוק שישייה",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
+            "promoStart": "2026-10-01",
+            "promoEnd": "2026-10-02",
             "promoQty": 2.0,
             "promoTotal": "67.00",
             "source": "https://prices.carrefour.co.il/"
@@ -4400,8 +4387,8 @@
             "price": "17.90",
             "promoPrice": "12.65",
             "promo": "בקרדי בריזר 275 מ ל",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
+            "promoStart": "2026-10-01",
+            "promoEnd": "2026-10-02",
             "promoQty": 2.0,
             "promoTotal": "25.30",
             "source": "https://prices.carrefour.co.il/"
@@ -6535,8 +6522,8 @@
             "price": "37.30",
             "promoPrice": "32.50",
             "promo": "בירה מכבי  330 בקבוק שישייה",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
+            "promoStart": "2026-10-01",
+            "promoEnd": "2026-10-02",
             "promoQty": 2.0,
             "promoTotal": "65.00",
             "source": "https://prices.carrefour.co.il/"
@@ -6548,8 +6535,8 @@
             "price": "39.70",
             "promoPrice": "33.50",
             "promo": "בירה מכבי  330 בקבוק שישייה",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
+            "promoStart": "2026-10-01",
+            "promoEnd": "2026-10-02",
             "promoQty": 2.0,
             "promoTotal": "67.00",
             "source": "https://prices.carrefour.co.il/"
@@ -7008,8 +6995,8 @@
             "price": "39.30",
             "promoPrice": "32.50",
             "promo": "בירה מכבי  330 בקבוק שישייה",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
+            "promoStart": "2026-10-01",
+            "promoEnd": "2026-10-02",
             "promoQty": 2.0,
             "promoTotal": "65.00",
             "source": "https://prices.carrefour.co.il/"
@@ -8334,8 +8321,8 @@
             "price": "14.90",
             "promoPrice": "12.15",
             "promo": "בקרדי בריזר 275 מ ל",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
+            "promoStart": "2026-10-01",
+            "promoEnd": "2026-10-02",
             "promoQty": 2.0,
             "promoTotal": "24.30",
             "source": "https://prices.carrefour.co.il/"
@@ -8347,8 +8334,8 @@
             "price": "17.90",
             "promoPrice": "12.65",
             "promo": "בקרדי בריזר 275 מ ל",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
+            "promoStart": "2026-10-01",
+            "promoEnd": "2026-10-02",
             "promoQty": 2.0,
             "promoTotal": "25.30",
             "source": "https://prices.carrefour.co.il/"
@@ -8360,8 +8347,8 @@
             "price": "17.90",
             "promoPrice": "12.65",
             "promo": "בקרדי בריזר 275 מ ל",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
+            "promoStart": "2026-10-01",
+            "promoEnd": "2026-10-02",
             "promoQty": 2.0,
             "promoTotal": "25.30",
             "source": "https://prices.carrefour.co.il/"
@@ -16942,8 +16929,8 @@
             "price": "36.90",
             "promoPrice": "32.50",
             "promo": "בירה מכבי  330 בקבוק שישייה",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
+            "promoStart": "2026-10-01",
+            "promoEnd": "2026-10-02",
             "promoQty": 2.0,
             "promoTotal": "65.00",
             "source": "https://prices.carrefour.co.il/"
@@ -17115,8 +17102,8 @@
             "price": "38.70",
             "promoPrice": "32.50",
             "promo": "בירה מכבי  330 בקבוק שישייה",
-            "promoStart": "2026-09-09",
-            "promoEnd": "2026-09-30",
+            "promoStart": "2026-10-01",
+            "promoEnd": "2026-10-02",
             "promoQty": 2.0,
             "promoTotal": "65.00",
             "source": "https://prices.carrefour.co.il/"
@@ -17926,21 +17913,7 @@
         "barcode": "7290008464703",
         "chpId": "7290027600007_7290008464703",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
-        "prices": [
-          {
-            "chain": "יוחננוף",
-            "store": "קרית שמונה",
-            "address": "שדרות תל חי 93, קרית שמונה",
-            "price": "33.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.publishedprices.co.il/login"
-          }
-        ],
+        "prices": [],
         "error": null
       },
       {
