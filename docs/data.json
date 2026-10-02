@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T09:35:52.894277+00:00",
+  "updatedAt": "2026-10-02T09:35:18.714069+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -419,19 +419,6 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "שוק העיר",
-            "store": "חדרה",
-            "address": "רח' היוצרים , ONE מתחם 1, חדרה",
-            "price": "8.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "http://shuk-hayir.binaprojects.com/Main.aspx"
           },
           {
             "chain": "קרפור מרקט",
@@ -3327,6 +3314,19 @@
         "chpId": "temp_7290014056053",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "רמי לוי",
+            "store": "פרדס חנה ביג",
+            "address": "תדהר 1, פרדס חנה-כרכור",
+            "price": "14.40",
+            "promoPrice": "12.50",
+            "promo": "בירה 330 מ ל שפירא 2ב25 כולל",
+            "promoStart": "2026-09-22",
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "25.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
           {
             "chain": "שופרסל",
             "store": "דיל פרדס חנה",
@@ -7541,6 +7541,19 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://prices.shufersal.co.il/"
+          },
+          {
+            "chain": "קרפור מרקט",
+            "store": "קרפור כרמליה (2040)",
+            "address": "אלכסנדר ינאי 3  חיפה, חיפה",
+            "price": "9.30",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.carrefour.co.il/"
           }
         ],
         "error": null
@@ -13179,6 +13192,19 @@
           },
           {
             "chain": "שופרסל",
+            "store": "דיל כרמיאל- קניון לב",
+            "address": "מורד הגיא 100, כרמיאל",
+            "price": "39.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://prices.shufersal.co.il/"
+          },
+          {
+            "chain": "שופרסל",
             "store": "יוניברס כרמיאל- אזור התעשיה",
             "address": "א.ת חוצות כרמיאל, כרמיאל",
             "price": "39.90",
@@ -13555,6 +13581,19 @@
         "chpId": "temp_7290014056053",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
+          {
+            "chain": "רמי לוי",
+            "store": "כרמיאל",
+            "address": "היוצרים 7, כרמיאל",
+            "price": "14.40",
+            "promoPrice": "12.50",
+            "promo": "בירה 330 מ ל שפירא 2ב25 כולל",
+            "promoStart": "2026-09-22",
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "25.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
           {
             "chain": "שופרסל",
             "store": "דיל כרמיאל",
@@ -18189,7 +18228,21 @@
         "barcode": "7290014056053",
         "chpId": "temp_7290014056053",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
-        "prices": [],
+        "prices": [
+          {
+            "chain": "רמי לוי",
+            "store": "קרית שמונה",
+            "address": "איזור תעשיה צפוני קרית שמונה, קרית שמונה",
+            "price": "14.40",
+            "promoPrice": "12.50",
+            "promo": "בירה 330 מ ל שפירא 2ב25 כולל",
+            "promoStart": "2026-09-22",
+            "promoEnd": "2026-10-03",
+            "promoQty": 2.0,
+            "promoTotal": "25.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          }
+        ],
         "error": null
       },
       {
