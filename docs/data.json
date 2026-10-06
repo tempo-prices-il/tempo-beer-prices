@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T09:38:05.148306+00:00",
+  "updatedAt": "2026-10-06T09:36:42.951916+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -315,6 +315,32 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "חדרה",
+            "address": "השלום 1, חדרה",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "רמי לוי",
+            "store": "חדרה ויוה",
+            "address": "תרנ\"א 20, חדרה",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "אושר עד",
             "store": "חדרה",
             "address": "המסגר 22 אזה\"ת הצפוני, חדרה",
@@ -353,32 +379,6 @@
             "promoTotal": "15.00",
             "source": "http://supersapir.binaprojects.com/",
             "sourceLabel": "מקור: CHP"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה ויוה",
-            "address": "תרנ\"א 20, חדרה",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "קשת טעמים",
@@ -483,19 +483,6 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "שוק העיר",
-            "store": "חדרה",
-            "address": "רח' היוצרים , ONE מתחם 1, חדרה",
-            "price": "39.90",
-            "promoPrice": "32.50",
-            "promo": "שישיית גולדסטאר ל\"מ/WILD BATCHי 2ב65",
-            "promoStart": "2026-10-05",
-            "promoEnd": "2026-10-31",
-            "promoQty": 2.0,
-            "promoTotal": "65.00",
-            "source": "http://shuk-hayir.binaprojects.com/Main.aspx"
           },
           {
             "chain": "קשת טעמים",
@@ -679,6 +666,19 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "שוק העיר",
+            "store": "חדרה",
+            "address": "רח' היוצרים , ONE מתחם 1, חדרה",
+            "price": "9.90",
+            "promoPrice": "9.00",
+            "promo": "פחית גולדסטאר ל\"מ/סלאו ברו/הייניקן 500 מ",
+            "promoStart": "2026-10-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 2.0,
+            "promoTotal": "18.00",
+            "source": "http://shuk-hayir.binaprojects.com/Main.aspx"
           },
           {
             "chain": "קשת טעמים",
@@ -943,6 +943,32 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "חדרה",
+            "address": "השלום 1, חדרה",
+            "price": "11.90",
+            "promoPrice": "8.30",
+            "promo": "היינקן פחית 500 מ ל 3ב24.90 כולל",
+            "promoStart": "2026-10-04",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "24.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "רמי לוי",
+            "store": "חדרה ויוה",
+            "address": "תרנ\"א 20, חדרה",
+            "price": "11.90",
+            "promoPrice": "8.30",
+            "promo": "היינקן פחית 500 מ ל 3ב24.90 כולל",
+            "promoStart": "2026-10-04",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "24.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "אושר עד",
             "store": "חדרה",
             "address": "המסגר 22 אזה\"ת הצפוני, חדרה",
@@ -954,32 +980,6 @@
             "promoQty": 2.0,
             "promoTotal": "17.00",
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "11.90",
-            "promoPrice": "8.50",
-            "promo": "היינקן פחית 500 מל2ב17 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 2.0,
-            "promoTotal": "17.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה ויוה",
-            "address": "תרנ\"א 20, חדרה",
-            "price": "11.90",
-            "promoPrice": "8.50",
-            "promo": "היינקן פחית 500 מל2ב17 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 2.0,
-            "promoTotal": "17.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "קרפור מרקט",
@@ -1325,8 +1325,8 @@
             "address": "השלום 1, חדרה",
             "price": "7.50",
             "promoPrice": "6.67",
-            "promo": "מכבי פחית 500 מל 3ב20כולל",
-            "promoStart": "2026-10-04",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
             "promoEnd": "2026-10-31",
             "promoQty": 3.0,
             "promoTotal": "20.00",
@@ -1338,8 +1338,8 @@
             "address": "תרנ\"א 20, חדרה",
             "price": "7.50",
             "promoPrice": "6.67",
-            "promo": "מכבי פחית 500 מל 3ב20כולל",
-            "promoStart": "2026-10-04",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
             "promoEnd": "2026-10-31",
             "promoQty": 3.0,
             "promoTotal": "20.00",
@@ -1672,6 +1672,32 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "חדרה",
+            "address": "השלום 1, חדרה",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "רמי לוי",
+            "store": "חדרה ויוה",
+            "address": "תרנ\"א 20, חדרה",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "אושר עד",
             "store": "חדרה",
             "address": "המסגר 22 אזה\"ת הצפוני, חדרה",
@@ -1724,32 +1750,6 @@
             "promoTotal": null,
             "source": "https://url.publishedprices.co.il/login",
             "sourceLabel": "מקור: קובץ רשמי"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה ויוה",
-            "address": "תרנ\"א 20, חדרה",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "שוק העיר",
@@ -2376,12 +2376,12 @@
             "store": "חדרה",
             "address": "השלום 1, חדרה",
             "price": "14.40",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "14.00",
+            "promo": "בירה 330 מ ל שפירא 2ב28 כולל",
+            "promoStart": "2026-10-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 2.0,
+            "promoTotal": "28.00",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -2643,12 +2643,12 @@
             "store": "פרדס חנה ביג",
             "address": "תדהר 1, פרדס חנה-כרכור",
             "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -2839,12 +2839,12 @@
             "store": "פרדס חנה ביג",
             "address": "תדהר 1, פרדס חנה-כרכור",
             "price": "11.90",
-            "promoPrice": "8.50",
-            "promo": "היינקן פחית 500 מל2ב17 כולל",
+            "promoPrice": "8.30",
+            "promo": "היינקן פחית 500 מ ל 3ב24.90 כולל",
             "promoStart": "2026-10-04",
             "promoEnd": "2026-10-31",
-            "promoQty": 2.0,
-            "promoTotal": "17.00",
+            "promoQty": 3.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -2961,8 +2961,8 @@
             "address": "תדהר 1, פרדס חנה-כרכור",
             "price": "7.50",
             "promoPrice": "6.67",
-            "promo": "מכבי פחית 500 מל 3ב20כולל",
-            "promoStart": "2026-10-04",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
             "promoEnd": "2026-10-31",
             "promoQty": 3.0,
             "promoTotal": "20.00",
@@ -3055,12 +3055,12 @@
             "store": "פרדס חנה ביג",
             "address": "תדהר 1, פרדס חנה-כרכור",
             "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -3306,12 +3306,12 @@
             "store": "פרדס חנה ביג",
             "address": "תדהר 1, פרדס חנה-כרכור",
             "price": "14.40",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "14.00",
+            "promo": "בירה 330 מ ל שפירא 2ב28 כולל",
+            "promoStart": "2026-10-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 2.0,
+            "promoTotal": "28.00",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -3504,13 +3504,26 @@
             "store": "זכרון יעקב",
             "address": "קניון זכרון הנשיא 35, זכרון יעקב",
             "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
             "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "קרפור מרקט",
+            "store": "קרפור סיטי  נוף זכרון (2960)",
+            "address": ".10 חברה חשבונאית, זכרון יעקב",
+            "price": "10.40",
+            "promoPrice": "7.33",
+            "promo": "פחיות בירה גולדסטאר/מכבי 500 מ ל",
+            "promoStart": "2026-10-04",
+            "promoEnd": "2026-10-30",
+            "promoQty": 3.0,
+            "promoTotal": "22.00",
+            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "שופרסל",
@@ -3524,19 +3537,6 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://prices.shufersal.co.il/"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור סיטי  נוף זכרון (2960)",
-            "address": ".10 חברה חשבונאית, זכרון יעקב",
-            "price": "10.40",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "שופרסל",
@@ -3752,12 +3752,12 @@
             "store": "זכרון יעקב",
             "address": "קניון זכרון הנשיא 35, זכרון יעקב",
             "price": "11.90",
-            "promoPrice": "8.50",
-            "promo": "היינקן פחית 500 מל2ב17 כולל",
+            "promoPrice": "8.30",
+            "promo": "היינקן פחית 500 מ ל 3ב24.90 כולל",
             "promoStart": "2026-10-04",
             "promoEnd": "2026-10-31",
-            "promoQty": 2.0,
-            "promoTotal": "17.00",
+            "promoQty": 3.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -3926,8 +3926,8 @@
             "address": "קניון זכרון הנשיא 35, זכרון יעקב",
             "price": "7.50",
             "promoPrice": "6.67",
-            "promo": "מכבי פחית 500 מל 3ב20כולל",
-            "promoStart": "2026-10-04",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
             "promoEnd": "2026-10-31",
             "promoQty": 3.0,
             "promoTotal": "20.00",
@@ -3938,12 +3938,12 @@
             "store": "קרפור סיטי  נוף זכרון (2960)",
             "address": ".10 חברה חשבונאית, זכרון יעקב",
             "price": "9.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "7.33",
+            "promo": "פחיות בירה גולדסטאר/מכבי 500 מ ל",
+            "promoStart": "2026-10-04",
+            "promoEnd": "2026-10-30",
+            "promoQty": 3.0,
+            "promoTotal": "22.00",
             "source": "https://prices.carrefour.co.il/"
           },
           {
@@ -4072,12 +4072,12 @@
             "store": "זכרון יעקב",
             "address": "קניון זכרון הנשיא 35, זכרון יעקב",
             "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -4085,12 +4085,12 @@
             "store": "קרפור סיטי  נוף זכרון (2960)",
             "address": ".10 חברה חשבונאית, זכרון יעקב",
             "price": "9.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "7.33",
+            "promo": "פחיות בירה גולדסטאר/מכבי 500 מ ל",
+            "promoStart": "2026-10-04",
+            "promoEnd": "2026-10-30",
+            "promoQty": 3.0,
+            "promoTotal": "22.00",
             "source": "https://prices.carrefour.co.il/"
           },
           {
@@ -4469,12 +4469,12 @@
             "store": "אור עקיבא",
             "address": "הכרמל 1, אור עקיבא",
             "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
             "source": "https://url.retail.publishedprices.co.il/login"
           }
         ],
@@ -4561,12 +4561,12 @@
             "store": "אור עקיבא",
             "address": "הכרמל 1, אור עקיבא",
             "price": "11.90",
-            "promoPrice": "8.50",
-            "promo": "היינקן פחית 500 מל2ב17 כולל",
+            "promoPrice": "8.30",
+            "promo": "היינקן פחית 500 מ ל 3ב24.90 כולל",
             "promoStart": "2026-10-04",
             "promoEnd": "2026-10-31",
-            "promoQty": 2.0,
-            "promoTotal": "17.00",
+            "promoQty": 3.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           }
         ],
@@ -4617,8 +4617,8 @@
             "address": "הכרמל 1, אור עקיבא",
             "price": "7.50",
             "promoPrice": "6.67",
-            "promo": "מכבי פחית 500 מל 3ב20כולל",
-            "promoStart": "2026-10-04",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
             "promoEnd": "2026-10-31",
             "promoQty": 3.0,
             "promoTotal": "20.00",
@@ -4685,12 +4685,12 @@
             "store": "אור עקיבא",
             "address": "הכרמל 1, אור עקיבא",
             "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
             "source": "https://url.retail.publishedprices.co.il/login"
           }
         ],
@@ -5298,6 +5298,32 @@
             "sourceLabel": "מקור: CHP"
           },
           {
+            "chain": "רמי לוי",
+            "store": "אדמרליטי",
+            "address": "חלוצי התעשיה 73, חיפה",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "רמי לוי",
+            "store": "עזריאלי חיפה",
+            "address": "משה פלימן 4, חיפה",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "קרפור מרקט",
             "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
             "address": "134 שדרות הנשיא, חיפה",
@@ -5324,30 +5350,30 @@
             "source": "https://prices.carrefour.co.il/"
           },
           {
-            "chain": "רמי לוי",
-            "store": "אדמרליטי",
-            "address": "חלוצי התעשיה 73, חיפה",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
+            "chain": "קרפור מרקט",
+            "store": "קרפור כרמליה (2040)",
+            "address": "אלכסנדר ינאי 3  חיפה, חיפה",
+            "price": "10.40",
+            "promoPrice": "7.33",
+            "promo": "פחיות בירה גולדסטאר/מכבי 500 מ ל",
+            "promoStart": "2026-10-04",
+            "promoEnd": "2026-10-30",
+            "promoQty": 3.0,
+            "promoTotal": "22.00",
+            "source": "https://prices.carrefour.co.il/"
           },
           {
-            "chain": "רמי לוי",
-            "store": "עזריאלי חיפה",
-            "address": "משה פלימן 4, חיפה",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
+            "chain": "קרפור מרקט",
+            "store": "קרפור סיטי  גרינברג חיפה",
+            "address": "20 א.צ גרינברג, חיפה",
+            "price": "10.40",
+            "promoPrice": "7.33",
+            "promo": "פחיות בירה גולדסטאר/מכבי 500 מ ל",
+            "promoStart": "2026-10-04",
+            "promoEnd": "2026-10-30",
+            "promoQty": 3.0,
+            "promoTotal": "22.00",
+            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "שופרסל",
@@ -5387,32 +5413,6 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://prices.shufersal.co.il/"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור כרמליה (2040)",
-            "address": "אלכסנדר ינאי 3  חיפה, חיפה",
-            "price": "10.40",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור סיטי  גרינברג חיפה",
-            "address": "20 א.צ גרינברג, חיפה",
-            "price": "10.40",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "שופרסל",
@@ -6066,6 +6066,32 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "אדמרליטי",
+            "address": "חלוצי התעשיה 73, חיפה",
+            "price": "11.90",
+            "promoPrice": "8.30",
+            "promo": "היינקן פחית 500 מ ל 3ב24.90 כולל",
+            "promoStart": "2026-10-04",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "24.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "רמי לוי",
+            "store": "עזריאלי חיפה",
+            "address": "משה פלימן 4, חיפה",
+            "price": "11.90",
+            "promoPrice": "8.30",
+            "promo": "היינקן פחית 500 מ ל 3ב24.90 כולל",
+            "promoStart": "2026-10-04",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "24.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "אושר עד",
             "store": "חיפה",
             "address": "דרך בר יהודה 31, חיפה",
@@ -6078,32 +6104,6 @@
             "promoTotal": "17.00",
             "source": "https://chp.co.il/",
             "sourceLabel": "מקור: CHP"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "אדמרליטי",
-            "address": "חלוצי התעשיה 73, חיפה",
-            "price": "11.90",
-            "promoPrice": "8.50",
-            "promo": "היינקן פחית 500 מל2ב17 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 2.0,
-            "promoTotal": "17.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "עזריאלי חיפה",
-            "address": "משה פלימן 4, חיפה",
-            "price": "11.90",
-            "promoPrice": "8.50",
-            "promo": "היינקן פחית 500 מל2ב17 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 2.0,
-            "promoTotal": "17.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "קרפור מרקט",
@@ -6661,8 +6661,8 @@
             "address": "חלוצי התעשיה 73, חיפה",
             "price": "7.50",
             "promoPrice": "6.67",
-            "promo": "מכבי פחית 500 מל 3ב20כולל",
-            "promoStart": "2026-10-04",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
             "promoEnd": "2026-10-31",
             "promoQty": 3.0,
             "promoTotal": "20.00",
@@ -6674,8 +6674,8 @@
             "address": "משה פלימן 4, חיפה",
             "price": "7.50",
             "promoPrice": "6.67",
-            "promo": "מכבי פחית 500 מל 3ב20כולל",
-            "promoStart": "2026-10-04",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
             "promoEnd": "2026-10-31",
             "promoQty": 3.0,
             "promoTotal": "20.00",
@@ -6712,12 +6712,12 @@
             "store": "קרפור כרמליה (2040)",
             "address": "אלכסנדר ינאי 3  חיפה, חיפה",
             "price": "9.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "7.33",
+            "promo": "פחיות בירה גולדסטאר/מכבי 500 מ ל",
+            "promoStart": "2026-10-04",
+            "promoEnd": "2026-10-30",
+            "promoQty": 3.0,
+            "promoTotal": "22.00",
             "source": "https://prices.carrefour.co.il/"
           },
           {
@@ -7156,6 +7156,32 @@
             "sourceLabel": "מקור: CHP"
           },
           {
+            "chain": "רמי לוי",
+            "store": "אדמרליטי",
+            "address": "חלוצי התעשיה 73, חיפה",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
+            "chain": "רמי לוי",
+            "store": "עזריאלי חיפה",
+            "address": "משה פלימן 4, חיפה",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "קרפור מרקט",
             "store": "קרפור מרקט  אודיטוריום חיפה (4280)",
             "address": "134 שדרות הנשיא, חיפה",
@@ -7182,30 +7208,17 @@
             "source": "https://prices.carrefour.co.il/"
           },
           {
-            "chain": "רמי לוי",
-            "store": "אדמרליטי",
-            "address": "חלוצי התעשיה 73, חיפה",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "עזריאלי חיפה",
-            "address": "משה פלימן 4, חיפה",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
+            "chain": "קרפור מרקט",
+            "store": "קרפור כרמליה (2040)",
+            "address": "אלכסנדר ינאי 3  חיפה, חיפה",
+            "price": "9.90",
+            "promoPrice": "7.33",
+            "promo": "פחיות בירה גולדסטאר/מכבי 500 מ ל",
+            "promoStart": "2026-10-04",
+            "promoEnd": "2026-10-30",
+            "promoQty": 3.0,
+            "promoTotal": "22.00",
+            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "שופרסל",
@@ -7245,19 +7258,6 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://prices.shufersal.co.il/"
-          },
-          {
-            "chain": "קרפור מרקט",
-            "store": "קרפור כרמליה (2040)",
-            "address": "אלכסנדר ינאי 3  חיפה, חיפה",
-            "price": "9.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.carrefour.co.il/"
           },
           {
             "chain": "שופרסל",
@@ -8585,12 +8585,12 @@
             "store": "כנפי נשרים",
             "address": "כנפי נשרים 26, נשר",
             "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -8598,12 +8598,12 @@
             "store": "נשר",
             "address": "דרך השלום 13, נשר",
             "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -8781,12 +8781,12 @@
             "store": "כנפי נשרים",
             "address": "כנפי נשרים 26, נשר",
             "price": "11.90",
-            "promoPrice": "8.50",
-            "promo": "היינקן פחית 500 מל2ב17 כולל",
+            "promoPrice": "8.30",
+            "promo": "היינקן פחית 500 מ ל 3ב24.90 כולל",
             "promoStart": "2026-10-04",
             "promoEnd": "2026-10-31",
-            "promoQty": 2.0,
-            "promoTotal": "17.00",
+            "promoQty": 3.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -8794,12 +8794,12 @@
             "store": "נשר",
             "address": "דרך השלום 13, נשר",
             "price": "11.90",
-            "promoPrice": "8.50",
-            "promo": "היינקן פחית 500 מל2ב17 כולל",
+            "promoPrice": "8.30",
+            "promo": "היינקן פחית 500 מ ל 3ב24.90 כולל",
             "promoStart": "2026-10-04",
             "promoEnd": "2026-10-31",
-            "promoQty": 2.0,
-            "promoTotal": "17.00",
+            "promoQty": 3.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -8890,8 +8890,8 @@
             "address": "כנפי נשרים 26, נשר",
             "price": "7.50",
             "promoPrice": "6.67",
-            "promo": "מכבי פחית 500 מל 3ב20כולל",
-            "promoStart": "2026-10-04",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
             "promoEnd": "2026-10-31",
             "promoQty": 3.0,
             "promoTotal": "20.00",
@@ -8903,8 +8903,8 @@
             "address": "דרך השלום 13, נשר",
             "price": "7.50",
             "promoPrice": "6.67",
-            "promo": "מכבי פחית 500 מל 3ב20כולל",
-            "promoStart": "2026-10-04",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
             "promoEnd": "2026-10-31",
             "promoQty": 3.0,
             "promoTotal": "20.00",
@@ -9023,12 +9023,12 @@
             "store": "כנפי נשרים",
             "address": "כנפי נשרים 26, נשר",
             "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -9036,12 +9036,12 @@
             "store": "נשר",
             "address": "דרך השלום 13, נשר",
             "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -9254,7 +9254,21 @@
         "barcode": "7290014056053",
         "chpId": "temp_7290014056053",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
-        "prices": [],
+        "prices": [
+          {
+            "chain": "רמי לוי",
+            "store": "נשר",
+            "address": "דרך השלום 13, נשר",
+            "price": "14.40",
+            "promoPrice": "14.00",
+            "promo": "בירה 330 מ ל שפירא 2ב28 כולל",
+            "promoStart": "2026-10-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 2.0,
+            "promoTotal": "28.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          }
+        ],
         "error": null
       },
       {
@@ -10388,6 +10402,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "עכו",
+            "address": "בוליטמור 2 עין המפרץ, עכו",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "price": "9.20",
             "promoPrice": "7.00",
             "promo": "2 יחידות ב- 14.00 ש\"ח · (מחיר ליחידה 7.00 ש\"ח)",
@@ -10400,19 +10427,6 @@
             "address": "שלום הגליל 1, עכו",
             "source": "https://chp.co.il/",
             "sourceLabel": "מקור: CHP"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "עכו",
-            "address": "בוליטמור 2 עין המפרץ, עכו",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "price": "8.50",
@@ -10652,6 +10666,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "עכו",
+            "address": "בוליטמור 2 עין המפרץ, עכו",
+            "price": "11.90",
+            "promoPrice": "8.30",
+            "promo": "היינקן פחית 500 מ ל 3ב24.90 כולל",
+            "promoStart": "2026-10-04",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "24.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "price": "13.90",
             "promoPrice": "8.50",
             "promo": "2 יחידות ב- 17.00 ש\"ח · (מחיר ליחידה 8.50 ש\"ח)",
@@ -10664,19 +10691,6 @@
             "address": "שלום הגליל 1, עכו",
             "source": "https://chp.co.il/",
             "sourceLabel": "מקור: CHP"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "עכו",
-            "address": "בוליטמור 2 עין המפרץ, עכו",
-            "price": "11.90",
-            "promoPrice": "8.50",
-            "promo": "היינקן פחית 500 מל2ב17 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 2.0,
-            "promoTotal": "17.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "שופרסל",
@@ -10961,6 +10975,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "עכו",
+            "address": "בוליטמור 2 עין המפרץ, עכו",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "price": "8.20",
             "promoPrice": "7.00",
             "promo": "2 יחידות ב- 14.00 ש\"ח · (מחיר ליחידה 7.00 ש\"ח)",
@@ -10985,19 +11012,6 @@
             "chain": "קשת טעמים",
             "store": "עכו",
             "address": "החרושת 2, עכו",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "עכו",
-            "address": "בוליטמור 2 עין המפרץ, עכו",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -11348,12 +11362,12 @@
             "store": "עכו",
             "address": "בוליטמור 2 עין המפרץ, עכו",
             "price": "14.40",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "14.00",
+            "promo": "בירה 330 מ ל שפירא 2ב28 כולל",
+            "promoStart": "2026-10-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 2.0,
+            "promoTotal": "28.00",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -11543,6 +11557,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "מחסני השוק בשבילך",
             "store": "נהריה",
             "address": "הזמיר 63, נהריה",
@@ -11555,19 +11582,6 @@
             "promoTotal": "14.00",
             "source": "https://chp.co.il/",
             "sourceLabel": "מקור: CHP"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "שופרסל",
@@ -11799,12 +11813,12 @@
             "store": "נהריה",
             "address": "היוצרים א.ת צפוני, נהריה",
             "price": "11.90",
-            "promoPrice": "8.50",
-            "promo": "היינקן פחית 500 מל2ב17 כולל",
+            "promoPrice": "8.30",
+            "promo": "היינקן פחית 500 מ ל 3ב24.90 כולל",
             "promoStart": "2026-10-04",
             "promoEnd": "2026-10-31",
-            "promoQty": 2.0,
-            "promoTotal": "17.00",
+            "promoQty": 3.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -11986,8 +12000,8 @@
             "address": "היוצרים א.ת צפוני, נהריה",
             "price": "7.50",
             "promoPrice": "6.67",
-            "promo": "מכבי פחית 500 מל 3ב20כולל",
-            "promoStart": "2026-10-04",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
             "promoEnd": "2026-10-31",
             "promoQty": 3.0,
             "promoTotal": "20.00",
@@ -12115,6 +12129,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "נהריה",
+            "address": "היוצרים א.ת צפוני, נהריה",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "מחסני השוק בשבילך",
             "store": "נהריה",
             "address": "הזמיר 63, נהריה",
@@ -12127,19 +12154,6 @@
             "promoTotal": "14.00",
             "source": "https://chp.co.il/",
             "sourceLabel": "מקור: CHP"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "שופרסל",
@@ -12663,12 +12677,12 @@
             "store": "כרמיאל",
             "address": "היוצרים 7, כרמיאל",
             "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -12911,12 +12925,12 @@
             "store": "כרמיאל",
             "address": "היוצרים 7, כרמיאל",
             "price": "11.90",
-            "promoPrice": "8.50",
-            "promo": "היינקן פחית 500 מל2ב17 כולל",
+            "promoPrice": "8.30",
+            "promo": "היינקן פחית 500 מ ל 3ב24.90 כולל",
             "promoStart": "2026-10-04",
             "promoEnd": "2026-10-31",
-            "promoQty": 2.0,
-            "promoTotal": "17.00",
+            "promoQty": 3.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -13218,12 +13232,12 @@
             "store": "כרמיאל",
             "address": "היוצרים 7, כרמיאל",
             "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -13573,12 +13587,12 @@
             "store": "כרמיאל",
             "address": "היוצרים 7, כרמיאל",
             "price": "14.40",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "14.00",
+            "promo": "בירה 330 מ ל שפירא 2ב28 כולל",
+            "promoStart": "2026-10-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 2.0,
+            "promoTotal": "28.00",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -13806,6 +13820,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "טבריה",
+            "address": "המברג 1, טבריה",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "יוחננוף",
             "store": "טבריה תחתית",
             "address": "יהודה הלוי 113, טבריה",
@@ -13817,19 +13844,6 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "טבריה",
-            "address": "המברג 1, טבריה",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "שופרסל",
@@ -14032,12 +14046,12 @@
             "store": "טבריה",
             "address": "המברג 1, טבריה",
             "price": "11.90",
-            "promoPrice": "8.50",
-            "promo": "היינקן פחית 500 מל2ב17 כולל",
+            "promoPrice": "8.30",
+            "promo": "היינקן פחית 500 מ ל 3ב24.90 כולל",
             "promoStart": "2026-10-04",
             "promoEnd": "2026-10-31",
-            "promoQty": 2.0,
-            "promoTotal": "17.00",
+            "promoQty": 3.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -14206,8 +14220,8 @@
             "address": "המברג 1, טבריה",
             "price": "7.50",
             "promoPrice": "6.67",
-            "promo": "מכבי פחית 500 מל 3ב20כולל",
-            "promoStart": "2026-10-04",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
             "promoEnd": "2026-10-31",
             "promoQty": 3.0,
             "promoTotal": "20.00",
@@ -14348,6 +14362,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "טבריה",
+            "address": "המברג 1, טבריה",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "יוחננוף",
             "store": "טבריה תחתית",
             "address": "יהודה הלוי 113, טבריה",
@@ -14359,19 +14386,6 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "טבריה",
-            "address": "המברג 1, טבריה",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "שופרסל",
@@ -14677,6 +14691,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "טבריה",
+            "address": "המברג 1, טבריה",
+            "price": "14.40",
+            "promoPrice": "14.00",
+            "promo": "בירה 330 מ ל שפירא 2ב28 כולל",
+            "promoStart": "2026-10-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 2.0,
+            "promoTotal": "28.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "שופרסל",
             "store": "דיל טבריה- העמקים",
             "address": "העמקים 1, טבריה",
@@ -14942,6 +14969,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "עפולה",
+            "address": "יהושוע  חנקין 14, עפולה",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "אושר עד",
             "store": "עפולה",
             "address": "חיים לסקוב, עפולה",
@@ -14966,19 +15006,6 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "עפולה",
-            "address": "יהושוע  חנקין 14, עפולה",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "שופרסל",
@@ -15284,6 +15311,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "עפולה",
+            "address": "יהושוע  חנקין 14, עפולה",
+            "price": "11.90",
+            "promoPrice": "8.30",
+            "promo": "היינקן פחית 500 מ ל 3ב24.90 כולל",
+            "promoStart": "2026-10-04",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "24.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "אושר עד",
             "store": "עפולה",
             "address": "חיים לסקוב, עפולה",
@@ -15295,19 +15335,6 @@
             "promoQty": 2.0,
             "promoTotal": "17.00",
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "עפולה",
-            "address": "יהושוע  חנקין 14, עפולה",
-            "price": "11.90",
-            "promoPrice": "8.50",
-            "promo": "היינקן פחית 500 מל2ב17 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 2.0,
-            "promoTotal": "17.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "שופרסל",
@@ -15528,8 +15555,8 @@
             "address": "יהושוע  חנקין 14, עפולה",
             "price": "7.50",
             "promoPrice": "6.67",
-            "promo": "מכבי פחית 500 מל 3ב20כולל",
-            "promoStart": "2026-10-04",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
             "promoEnd": "2026-10-31",
             "promoQty": 3.0,
             "promoTotal": "20.00",
@@ -15737,6 +15764,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "עפולה",
+            "address": "יהושוע  חנקין 14, עפולה",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "אושר עד",
             "store": "עפולה",
             "address": "חיים לסקוב, עפולה",
@@ -15761,19 +15801,6 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "עפולה",
-            "address": "יהושוע  חנקין 14, עפולה",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "שופרסל",
@@ -16214,12 +16241,12 @@
             "store": "עפולה",
             "address": "יהושוע  חנקין 14, עפולה",
             "price": "14.40",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "14.00",
+            "promo": "בירה 330 מ ל שפירא 2ב28 כולל",
+            "promoStart": "2026-10-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 2.0,
+            "promoTotal": "28.00",
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -16512,6 +16539,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "מגדל העמק",
+            "address": "כפר החורש, מגדל העמק",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "אושר עד",
             "store": "מגדל העמק",
             "address": "האיצטדיון 11, מגדל העמק",
@@ -16536,19 +16576,6 @@
             "promoQty": 3.0,
             "promoTotal": "21.00",
             "source": "https://prices.carrefour.co.il/"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "מגדל העמק",
-            "address": "כפר החורש, מגדל העמק",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "שופרסל",
@@ -16799,6 +16826,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "מגדל העמק",
+            "address": "כפר החורש, מגדל העמק",
+            "price": "11.90",
+            "promoPrice": "8.30",
+            "promo": "היינקן פחית 500 מ ל 3ב24.90 כולל",
+            "promoStart": "2026-10-04",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "24.90",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "אושר עד",
             "store": "מגדל העמק",
             "address": "האיצטדיון 11, מגדל העמק",
@@ -16810,19 +16850,6 @@
             "promoQty": 2.0,
             "promoTotal": "17.00",
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "מגדל העמק",
-            "address": "כפר החורש, מגדל העמק",
-            "price": "11.90",
-            "promoPrice": "8.50",
-            "promo": "היינקן פחית 500 מל2ב17 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 2.0,
-            "promoTotal": "17.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "קרפור מרקט",
@@ -17003,8 +17030,8 @@
             "address": "כפר החורש, מגדל העמק",
             "price": "7.50",
             "promoPrice": "6.67",
-            "promo": "מכבי פחית 500 מל 3ב20כולל",
-            "promoStart": "2026-10-04",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
             "promoEnd": "2026-10-31",
             "promoQty": 3.0,
             "promoTotal": "20.00",
@@ -17184,6 +17211,19 @@
             "source": "https://url.publishedprices.co.il/login"
           },
           {
+            "chain": "רמי לוי",
+            "store": "מגדל העמק",
+            "address": "כפר החורש, מגדל העמק",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "קרפור מרקט",
             "store": "קרפור מרקט מגדל העמק (2730)",
             "address": "ניצנים 39, מגדל העמק",
@@ -17195,19 +17235,6 @@
             "promoQty": 3.0,
             "promoTotal": "21.00",
             "source": "https://prices.carrefour.co.il/"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "מגדל העמק",
-            "address": "כפר החורש, מגדל העמק",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "שופרסל",
@@ -17738,6 +17765,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "קרית שמונה",
+            "address": "איזור תעשיה צפוני קרית שמונה, קרית שמונה",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "יוחננוף",
             "store": "קרית שמונה",
             "address": "שדרות תל חי 93, קרית שמונה",
@@ -17749,19 +17789,6 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "קרית שמונה",
-            "address": "איזור תעשיה צפוני קרית שמונה, קרית שמונה",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           }
         ],
         "error": null
@@ -17886,12 +17913,12 @@
             "store": "קרית שמונה",
             "address": "איזור תעשיה צפוני קרית שמונה, קרית שמונה",
             "price": "11.90",
-            "promoPrice": "8.50",
-            "promo": "היינקן פחית 500 מל2ב17 כולל",
+            "promoPrice": "8.30",
+            "promo": "היינקן פחית 500 מ ל 3ב24.90 כולל",
             "promoStart": "2026-10-04",
             "promoEnd": "2026-10-31",
-            "promoQty": 2.0,
-            "promoTotal": "17.00",
+            "promoQty": 3.0,
+            "promoTotal": "24.90",
             "source": "https://url.retail.publishedprices.co.il/login"
           }
         ],
@@ -17955,8 +17982,8 @@
             "address": "איזור תעשיה צפוני קרית שמונה, קרית שמונה",
             "price": "7.50",
             "promoPrice": "6.67",
-            "promo": "מכבי פחית 500 מל 3ב20כולל",
-            "promoStart": "2026-10-04",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
             "promoEnd": "2026-10-31",
             "promoQty": 3.0,
             "promoTotal": "20.00",
@@ -18032,6 +18059,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "רמי לוי",
+            "store": "קרית שמונה",
+            "address": "איזור תעשיה צפוני קרית שמונה, קרית שמונה",
+            "price": "7.90",
+            "promoPrice": "6.67",
+            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
+            "promoStart": "2026-07-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 3.0,
+            "promoTotal": "20.00",
+            "source": "https://url.retail.publishedprices.co.il/login"
+          },
+          {
             "chain": "יוחננוף",
             "store": "קרית שמונה",
             "address": "שדרות תל חי 93, קרית שמונה",
@@ -18043,19 +18083,6 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "קרית שמונה",
-            "address": "איזור תעשיה צפוני קרית שמונה, קרית שמונה",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           }
         ],
         "error": null
@@ -18221,12 +18248,12 @@
             "store": "קרית שמונה",
             "address": "איזור תעשיה צפוני קרית שמונה, קרית שמונה",
             "price": "14.40",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "promoPrice": "14.00",
+            "promo": "בירה 330 מ ל שפירא 2ב28 כולל",
+            "promoStart": "2026-10-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 2.0,
+            "promoTotal": "28.00",
             "source": "https://url.retail.publishedprices.co.il/login"
           }
         ],
