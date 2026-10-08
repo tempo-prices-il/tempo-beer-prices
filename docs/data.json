@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T09:36:28.017875+00:00",
+  "updatedAt": "2026-10-08T09:38:36.976965+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -145,32 +145,6 @@
             "promoQty": null,
             "promoTotal": null,
             "source": "https://prices.shufersal.co.il/"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "הנשיא חדרה",
-            "address": "הנשיא 2, חדרה",
-            "price": "36.40",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "הרצל חדרה",
-            "address": "הרצל 27, חדרה",
-            "price": "36.40",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "סופר ספיר",
@@ -434,32 +408,6 @@
             "sourceLabel": "מקור: קובץ רשמי"
           },
           {
-            "chain": "רמי לוי",
-            "store": "הנשיא חדרה",
-            "address": "הנשיא 2, חדרה",
-            "price": "8.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "הרצל חדרה",
-            "address": "הרצל 27, חדרה",
-            "price": "8.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
             "chain": "קרפור מרקט",
             "store": "נאות חן חדרה",
             "address": "הלל יפה 5, חדרה",
@@ -536,32 +484,6 @@
             "promoTotal": "32.90",
             "source": "https://url.publishedprices.co.il/login",
             "sourceLabel": "מקור: קובץ רשמי"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "הנשיא חדרה",
-            "address": "הנשיא 2, חדרה",
-            "price": "39.90",
-            "promoPrice": "34.90",
-            "promo": "גולדסטאר לא מסונן 34.90 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 1.0,
-            "promoTotal": "34.90",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "הרצל חדרה",
-            "address": "הרצל 27, חדרה",
-            "price": "39.90",
-            "promoPrice": "34.90",
-            "promo": "גולדסטאר לא מסונן 34.90 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 1.0,
-            "promoTotal": "34.90",
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "רמי לוי",
@@ -760,32 +682,6 @@
             "sourceLabel": "מקור: קובץ רשמי"
           },
           {
-            "chain": "רמי לוי",
-            "store": "הנשיא חדרה",
-            "address": "הנשיא 2, חדרה",
-            "price": "9.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "הרצל חדרה",
-            "address": "הרצל 27, חדרה",
-            "price": "9.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
             "chain": "קרפור מרקט",
             "store": "נאות חן חדרה",
             "address": "הלל יפה 5, חדרה",
@@ -916,32 +812,6 @@
             "promoTotal": "35.90",
             "source": "http://supersapir.binaprojects.com/",
             "sourceLabel": "מקור: CHP"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "הנשיא חדרה",
-            "address": "הנשיא 2, חדרה",
-            "price": "39.90",
-            "promoPrice": "36.90",
-            "promo": "היינקן שישייה 36.90 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 1.0,
-            "promoTotal": "36.90",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "הרצל חדרה",
-            "address": "הרצל 27, חדרה",
-            "price": "39.90",
-            "promoPrice": "36.90",
-            "promo": "היינקן שישייה 36.90 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 1.0,
-            "promoTotal": "36.90",
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "שופרסל",
@@ -1125,32 +995,6 @@
             "promoTotal": null,
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "הנשיא חדרה",
-            "address": "הנשיא 2, חדרה",
-            "price": "13.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "הרצל חדרה",
-            "address": "הרצל 27, חדרה",
-            "price": "13.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "קרפור מרקט",
@@ -1517,19 +1361,6 @@
             "sourceLabel": "מקור: קובץ רשמי"
           },
           {
-            "chain": "רמי לוי",
-            "store": "הרצל חדרה",
-            "address": "הרצל 27, חדרה",
-            "price": "8.70",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
             "chain": "קרפור מרקט",
             "store": "בית אליעזר",
             "address": "חדרה, חדרה",
@@ -1739,32 +1570,6 @@
             "sourceLabel": "מקור: קובץ רשמי"
           },
           {
-            "chain": "רמי לוי",
-            "store": "הנשיא חדרה",
-            "address": "הנשיא 2, חדרה",
-            "price": "37.50",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "הרצל חדרה",
-            "address": "הרצל 27, חדרה",
-            "price": "37.50",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
             "chain": "קרפור מרקט",
             "store": "נאות חן חדרה",
             "address": "הלל יפה 5, חדרה",
@@ -1949,32 +1754,6 @@
             "sourceLabel": "מקור: קובץ רשמי"
           },
           {
-            "chain": "רמי לוי",
-            "store": "הנשיא חדרה",
-            "address": "הנשיא 2, חדרה",
-            "price": "9.20",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "הרצל חדרה",
-            "address": "הרצל 27, חדרה",
-            "price": "9.20",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
             "chain": "קרפור מרקט",
             "store": "בית אליעזר",
             "address": "חדרה, חדרה",
@@ -2106,6 +1885,19 @@
             "sourceLabel": "מקור: CHP"
           },
           {
+            "chain": "שוק העיר",
+            "store": "חדרה",
+            "address": "רח' היוצרים , ONE מתחם 1, חדרה",
+            "price": "8.90",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "http://shuk-hayir.binaprojects.com/Main.aspx"
+          },
+          {
             "chain": "קרפור מרקט",
             "store": "בית אליעזר",
             "address": "חדרה, חדרה",
@@ -2146,13 +1938,13 @@
             "chain": "אושר עד",
             "store": "חדרה",
             "address": "המסגר 22 אזה\"ת הצפוני, חדרה",
-            "price": "5.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
+            "price": "6.90",
+            "promoPrice": "6.00",
+            "promo": "בירה  איגל  פחית 2 ב 12",
+            "promoStart": "2026-10-04",
+            "promoEnd": "2026-10-31",
+            "promoQty": 2.0,
+            "promoTotal": "12.00",
             "source": "https://url.publishedprices.co.il/login"
           },
           {
@@ -2377,19 +2169,6 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
-            "chain": "רמי לוי",
-            "store": "הנשיא חדרה",
-            "address": "הנשיא 2, חדרה",
-            "price": "34.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
             "chain": "קרפור מרקט",
             "store": "נאות חן חדרה",
             "address": "הלל יפה 5, חדרה",
@@ -2467,6 +2246,19 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
+            "chain": "אושר עד",
+            "store": "חדרה",
+            "address": "המסגר 22 אזה\"ת הצפוני, חדרה",
+            "price": "31.30",
+            "promoPrice": null,
+            "promo": null,
+            "promoStart": null,
+            "promoEnd": null,
+            "promoQty": null,
+            "promoTotal": null,
+            "source": "https://url.publishedprices.co.il/login"
+          },
+          {
             "chain": "קשת טעמים",
             "store": "חדרה חדש",
             "address": "צה\"ל 34, חדרה",
@@ -2479,19 +2271,6 @@
             "promoTotal": "32.90",
             "source": "https://url.publishedprices.co.il/login",
             "sourceLabel": "מקור: קובץ רשמי"
-          },
-          {
-            "chain": "אושר עד",
-            "store": "חדרה",
-            "address": "המסגר 22 אזה\"ת הצפוני, חדרה",
-            "price": "34.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.publishedprices.co.il/login"
           },
           {
             "chain": "שופרסל",
@@ -2709,32 +2488,6 @@
             "promoTotal": "24.30",
             "source": "https://prices.carrefour.co.il/",
             "sourceLabel": "מקור: קובץ רשמי"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "הנשיא חדרה",
-            "address": "הנשיא 2, חדרה",
-            "price": "15.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "הרצל חדרה",
-            "address": "הרצל 27, חדרה",
-            "price": "15.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "שופרסל",
@@ -9551,19 +9304,6 @@
             "source": "https://url.publishedprices.co.il/login"
           },
           {
-            "chain": "רמי לוי",
-            "store": "קיריון קרית ביאליק",
-            "address": "דרך עכו 192, קרית ביאליק",
-            "price": "36.40",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
             "chain": "שופרסל",
             "store": "אקספרס קרית ביאליק",
             "address": "שדרות ירושלים 15, קרית ביאליק",
@@ -9636,19 +9376,6 @@
             "source": "https://url.publishedprices.co.il/login"
           },
           {
-            "chain": "רמי לוי",
-            "store": "קיריון קרית ביאליק",
-            "address": "דרך עכו 192, קרית ביאליק",
-            "price": "8.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
             "chain": "שופרסל",
             "store": "אקספרס קרית ביאליק",
             "address": "שדרות ירושלים 15, קרית ביאליק",
@@ -9685,19 +9412,6 @@
             "source": "https://url.publishedprices.co.il/login"
           },
           {
-            "chain": "רמי לוי",
-            "store": "קיריון קרית ביאליק",
-            "address": "דרך עכו 192, קרית ביאליק",
-            "price": "39.90",
-            "promoPrice": "34.90",
-            "promo": "גולדסטאר לא מסונן 34.90 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 1.0,
-            "promoTotal": "34.90",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
             "chain": "שופרסל",
             "store": "אקספרס קרית ביאליק",
             "address": "שדרות ירושלים 15, קרית ביאליק",
@@ -9720,19 +9434,6 @@
         "chpId": "7290027600007_7290008464024",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
-          {
-            "chain": "רמי לוי",
-            "store": "קיריון קרית ביאליק",
-            "address": "דרך עכו 192, קרית ביאליק",
-            "price": "9.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
           {
             "chain": "שופרסל",
             "store": "אקספרס קרית ביאליק",
@@ -9770,19 +9471,6 @@
             "source": "https://url.publishedprices.co.il/login"
           },
           {
-            "chain": "רמי לוי",
-            "store": "קיריון קרית ביאליק",
-            "address": "דרך עכו 192, קרית ביאליק",
-            "price": "39.90",
-            "promoPrice": "36.90",
-            "promo": "היינקן שישייה 36.90 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 1.0,
-            "promoTotal": "36.90",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
             "chain": "שופרסל",
             "store": "אקספרס קרית ביאליק",
             "address": "שדרות ירושלים 15, קרית ביאליק",
@@ -9817,19 +9505,6 @@
             "promoQty": 2.0,
             "promoTotal": "17.00",
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "קיריון קרית ביאליק",
-            "address": "דרך עכו 192, קרית ביאליק",
-            "price": "13.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "שופרסל",
@@ -9898,21 +9573,7 @@
         "barcode": "7290008464475",
         "chpId": "7290027600007_7290008464475",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
-        "prices": [
-          {
-            "chain": "רמי לוי",
-            "store": "קיריון קרית ביאליק",
-            "address": "דרך עכו 192, קרית ביאליק",
-            "price": "8.70",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          }
-        ],
+        "prices": [],
         "error": null
       },
       {
@@ -9966,19 +9627,6 @@
             "promoQty": 2.0,
             "promoTotal": "14.00",
             "source": "https://url.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "קיריון קרית ביאליק",
-            "address": "דרך עכו 192, קרית ביאליק",
-            "price": "9.20",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           }
         ],
         "error": null
