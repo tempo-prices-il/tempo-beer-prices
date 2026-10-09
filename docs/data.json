@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T09:38:36.976965+00:00",
+  "updatedAt": "2026-10-09T09:37:07.861179+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -11828,19 +11828,6 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "33.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
@@ -16874,19 +16861,6 @@
             "chain": "שופרסל",
             "store": "דיל מגדל העמק- א ת דרומי",
             "address": "אזור התעשייה ב, מגדל העמק",
-            "price": "38.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://prices.shufersal.co.il/"
-          },
-          {
-            "chain": "שופרסל",
-            "store": "דיל מגדל העמק- המדע",
-            "address": "שד' מדע 77, מגדל העמק",
             "price": "38.90",
             "promoPrice": null,
             "promo": null,
