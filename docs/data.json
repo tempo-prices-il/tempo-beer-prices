@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T09:37:07.861179+00:00",
+  "updatedAt": "2026-10-10T09:34:50.389031+00:00",
   "refreshStatus": "success",
   "defaultArea": "עפולה",
   "source": "קובצי שקיפות המחירים של הרשתות (PriceFull + PromoFull)",
@@ -66,19 +66,6 @@
             "promoTotal": "60.00",
             "source": "http://shuk-hayir.binaprojects.com/Main.aspx",
             "sourceLabel": "מקור: קובץ רשמי"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "31.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "רמי לוי",
@@ -213,19 +200,6 @@
           },
           {
             "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
             "store": "חדרה ויוה",
             "address": "תרנ\"א 20, חדרה",
             "price": "7.90",
@@ -314,19 +288,6 @@
         "chpId": "7290027600007_7290008464468",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "7.90",
-            "promoPrice": "6.67",
-            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
-            "promoStart": "2026-07-05",
-            "promoEnd": "2026-10-31",
-            "promoQty": 3.0,
-            "promoTotal": "20.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
           {
             "chain": "רמי לוי",
             "store": "חדרה ויוה",
@@ -472,6 +433,19 @@
             "source": "https://url.publishedprices.co.il/login"
           },
           {
+            "chain": "שוק העיר",
+            "store": "חדרה",
+            "address": "רח' היוצרים , ONE מתחם 1, חדרה",
+            "price": "39.90",
+            "promoPrice": "32.50",
+            "promo": "שישיית גולדסטאר ל\"מ/WILD BATCHי 2ב65",
+            "promoStart": "2026-10-05",
+            "promoEnd": "2026-10-31",
+            "promoQty": 2.0,
+            "promoTotal": "65.00",
+            "source": "http://shuk-hayir.binaprojects.com/Main.aspx"
+          },
+          {
             "chain": "קשת טעמים",
             "store": "חדרה חדש",
             "address": "צה\"ל 34, חדרה",
@@ -484,19 +458,6 @@
             "promoTotal": "32.90",
             "source": "https://url.publishedprices.co.il/login",
             "sourceLabel": "מקור: קובץ רשמי"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "34.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "רמי לוי",
@@ -627,19 +588,6 @@
             "promoQty": 3.0,
             "promoTotal": "25.90",
             "source": "https://prices.carrefour.co.il/"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "8.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "רמי לוי",
@@ -775,19 +723,6 @@
           },
           {
             "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "34.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
             "store": "חדרה ויוה",
             "address": "תרנ\"א 20, חדרה",
             "price": "34.90",
@@ -890,19 +825,6 @@
         "chpId": "7290027600007_7290008464604",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "11.90",
-            "promoPrice": "8.30",
-            "promo": "היינקן פחית 500 מ ל 3ב24.90 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 3.0,
-            "promoTotal": "24.90",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
           {
             "chain": "רמי לוי",
             "store": "חדרה ויוה",
@@ -1063,19 +985,6 @@
           },
           {
             "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "9.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
             "store": "חדרה ויוה",
             "address": "תרנ\"א 20, חדרה",
             "price": "9.90",
@@ -1180,19 +1089,6 @@
           },
           {
             "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "33.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
             "store": "חדרה ויוה",
             "address": "תרנ\"א 20, חדרה",
             "price": "33.90",
@@ -1267,19 +1163,6 @@
         "chpId": "7290027600007_7290008464475",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "7.50",
-            "promoPrice": "6.67",
-            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
-            "promoStart": "2026-07-05",
-            "promoEnd": "2026-10-31",
-            "promoQty": 3.0,
-            "promoTotal": "20.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
           {
             "chain": "רמי לוי",
             "store": "חדרה ויוה",
@@ -1397,19 +1280,6 @@
         "chpId": "7290027600007_7290005896439",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "6.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
           {
             "chain": "רמי לוי",
             "store": "חדרה ויוה",
@@ -1531,19 +1401,6 @@
           },
           {
             "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "35.90",
-            "promoPrice": "31.90",
-            "promo": "שישיית בירה מכבי 31.90 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 1.0,
-            "promoTotal": "31.90",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
             "store": "חדרה ויוה",
             "address": "תרנ\"א 20, חדרה",
             "price": "35.90",
@@ -1632,19 +1489,6 @@
         "chpId": "7290027600007_7290008464222",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "7.90",
-            "promoPrice": "6.67",
-            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
-            "promoStart": "2026-07-05",
-            "promoEnd": "2026-10-31",
-            "promoQty": 3.0,
-            "promoTotal": "20.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
           {
             "chain": "רמי לוי",
             "store": "חדרה ויוה",
@@ -1790,19 +1634,6 @@
         "chpId": "temp_7290005896453",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "7.50",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
           {
             "chain": "רמי לוי",
             "store": "חדרה ויוה",
@@ -2014,19 +1845,6 @@
         "prices": [
           {
             "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "5.90",
-            "promoPrice": "5.30",
-            "promo": "בירה 500 מ ל איגל3ב15.90 כולל",
-            "promoStart": "2026-01-04",
-            "promoEnd": "2026-12-31",
-            "promoQty": 3.0,
-            "promoTotal": "15.90",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
             "store": "חדרה ויוה",
             "address": "תרנ\"א 20, חדרה",
             "price": "5.90",
@@ -2141,19 +1959,6 @@
             "promoTotal": "27.90",
             "source": "https://url.publishedprices.co.il/login",
             "sourceLabel": "מקור: קובץ רשמי"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "28.90",
-            "promoPrice": "27.90",
-            "promo": "בירה שנדי 6*330 מל 27.90 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 1.0,
-            "promoTotal": "27.90",
-            "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
             "chain": "רמי לוי",
@@ -2311,19 +2116,6 @@
           },
           {
             "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "11.50",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
             "store": "חדרה ויוה",
             "address": "תרנ\"א 20, חדרה",
             "price": "11.50",
@@ -2371,19 +2163,6 @@
         "chpId": "temp_7290014056053",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
-          {
-            "chain": "רמי לוי",
-            "store": "חדרה",
-            "address": "השלום 1, חדרה",
-            "price": "14.40",
-            "promoPrice": "14.00",
-            "promo": "בירה 330 מ ל שפירא 2ב28 כולל",
-            "promoStart": "2026-10-05",
-            "promoEnd": "2026-10-31",
-            "promoQty": 2.0,
-            "promoTotal": "28.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
           {
             "chain": "שופרסל",
             "store": "יוניברס חדרה- ארבע האגודות",
@@ -11328,19 +11107,6 @@
             "sourceLabel": "מקור: CHP"
           },
           {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "31.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
@@ -11390,19 +11156,6 @@
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "7.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
@@ -11438,19 +11191,6 @@
         "chpId": "7290027600007_7290008464468",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
-          {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "7.90",
-            "promoPrice": "6.67",
-            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
-            "promoStart": "2026-07-05",
-            "promoEnd": "2026-10-31",
-            "promoQty": 3.0,
-            "promoTotal": "20.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
           {
             "chain": "מחסני השוק בשבילך",
             "store": "נהריה",
@@ -11516,19 +11256,6 @@
             "sourceLabel": "מקור: CHP"
           },
           {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "34.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
@@ -11564,19 +11291,6 @@
         "chpId": "7290027600007_7290008464024",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
-          {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "8.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
           {
             "chain": "מחסני השוק בשבילך",
             "store": "נהריה",
@@ -11642,19 +11356,6 @@
             "sourceLabel": "מקור: CHP"
           },
           {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "34.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
             "address": "לוחמי הגטאות 36, נהריה",
@@ -11690,19 +11391,6 @@
         "chpId": "7290027600007_7290008464604",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
-          {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "11.90",
-            "promoPrice": "8.30",
-            "promo": "היינקן פחית 500 מ ל 3ב24.90 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 3.0,
-            "promoTotal": "24.90",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
           {
             "chain": "קשת טעמים",
             "store": "נהריה",
@@ -11763,19 +11451,6 @@
             "promoEnd": "2026-09-28",
             "promoQty": 3.0,
             "promoTotal": "26.90",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "9.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
@@ -11864,19 +11539,6 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "7.50",
-            "promoPrice": "6.67",
-            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
-            "promoStart": "2026-07-05",
-            "promoEnd": "2026-10-31",
-            "promoQty": 3.0,
-            "promoTotal": "20.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
             "chain": "קשת טעמים",
             "store": "נהריה",
             "address": "לוחמי הגטאות 9, נהריה",
@@ -11924,21 +11586,7 @@
         "barcode": "7290005896439",
         "chpId": "7290027600007_7290005896439",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
-        "prices": [
-          {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "6.90",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          }
-        ],
+        "prices": [],
         "error": null
       },
       {
@@ -11948,19 +11596,6 @@
         "chpId": "7290027600007_7290008464697",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
-          {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "35.90",
-            "promoPrice": "31.90",
-            "promo": "שישיית בירה מכבי 31.90 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 1.0,
-            "promoTotal": "31.90",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
           {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
@@ -11997,19 +11632,6 @@
         "chpId": "7290027600007_7290008464222",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
-          {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "7.90",
-            "promoPrice": "6.67",
-            "promo": "פחית בירה מכבי/גולדסטא 500 מ ל 3ב20 כולל",
-            "promoStart": "2026-07-05",
-            "promoEnd": "2026-10-31",
-            "promoQty": 3.0,
-            "promoTotal": "20.00",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
           {
             "chain": "מחסני השוק בשבילך",
             "store": "נהריה",
@@ -12060,19 +11682,6 @@
         "chpId": "temp_7290005896453",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
-          {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "7.50",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
           {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
@@ -12134,19 +11743,6 @@
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
           {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "5.90",
-            "promoPrice": "5.30",
-            "promo": "בירה 500 מ ל איגל3ב15.90 כולל",
-            "promoStart": "2026-01-04",
-            "promoEnd": "2026-12-31",
-            "promoQty": 3.0,
-            "promoTotal": "15.90",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
             "chain": "מחסני השוק בשבילך",
             "store": "נהריה",
             "address": "הזמיר 63, נהריה",
@@ -12196,19 +11792,6 @@
         "chpId": "7290027600007_7290011133375",
         "source": "https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations",
         "prices": [
-          {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "28.90",
-            "promoPrice": "27.90",
-            "promo": "בירה שנדי 6*330 מל 27.90 כולל",
-            "promoStart": "2026-10-04",
-            "promoEnd": "2026-10-31",
-            "promoQty": 1.0,
-            "promoTotal": "27.90",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
           {
             "chain": "שופרסל",
             "store": "יוניברס נהריה- לוחמי הגטאות",
@@ -12292,19 +11875,6 @@
             "promoEnd": "2026-10-31",
             "promoQty": 2.0,
             "promoTotal": "19.90",
-            "source": "https://url.retail.publishedprices.co.il/login"
-          },
-          {
-            "chain": "רמי לוי",
-            "store": "נהריה",
-            "address": "היוצרים א.ת צפוני, נהריה",
-            "price": "11.50",
-            "promoPrice": null,
-            "promo": null,
-            "promoStart": null,
-            "promoEnd": null,
-            "promoQty": null,
-            "promoTotal": null,
             "source": "https://url.retail.publishedprices.co.il/login"
           },
           {
